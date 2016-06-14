@@ -11,17 +11,15 @@
 [aria-hidden="false"] { display: block; }
 
 
-
-
 /* this code is not strictly necessary: just to make this demo a bit pleasant */
 
 .overlay div {
-   margin: 15vh auto;
+   margin: 5vh auto;
    width: 90%;
-   max-width: 900px;
-   padding: 30px;
+   max-width: 1200px;
+   padding: 60px 30px;
    min-height: 200vh;
-   background: rgba(255,255,255, .95);
+   background: rgba(255,255,255, 1);
 }
 .overlay {
     background:  rgba(40,40,40, .75);
@@ -31,3 +29,10 @@
 button { padding: 1.5em 4em; cursor: pointer;}
 pre { background: #fafafa; padding: 15px; border: 1px #ccd dashed; }
 pre + p { margin: 5vh 0; }
+
+.close-overlay{
+  right: 10px;
+  font-size: 100px;
+  margin: 30px 15px;
+  position: fixed;
+}
