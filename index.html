@@ -53,6 +53,9 @@
 	<!-- Cards -->
 	<link rel="stylesheet" href="css/cards.css">
 
+	<!-- Custom CSS -->
+	<link rel="stylesheet" href="css/custom.css">
+
 	<!-- Modernizr JS -->
 	<script src="js/modernizr-2.6.2.min.js"></script>
 
@@ -90,7 +93,7 @@
 
 			<div class="fh5co-projects">
 				<ul>
-					<li class="wow fadeInUp" style="background-image: url(images/full_4.jpg);" data-wow-duration="1s" data-wow-delay="1.4s" data-stellar-background-ratio="0.5">
+					<li class="wow fadeInUp" style="" data-wow-duration="1s" data-wow-delay="1.4s" data-stellar-background-ratio="0.5">
 						<a href="#">
 							<div class="fh5co-overlay"></div>
 							<div class="container">
@@ -105,7 +108,7 @@
 							</div>
 						</a>
 					</li>
-					<li class="wow fadeInUp" style="background-image: url(images/full_2.jpg);" data-wow-duration="1s" data-wow-delay="1.6s" data-stellar-background-ratio="0.5">
+					<li class="wow fadeInUp" data-wow-duration="1s" data-wow-delay="1.6s" data-stellar-background-ratio="0.5">
 						<a href="#">
 							<div class="fh5co-overlay"></div>
 							<div class="container">
@@ -120,7 +123,7 @@
 							</div>
 						</a>
 					</li>
-					<li class="wow fadeInUp" style="background-image: url(images/full_4.jpg);" data-wow-duration="1s" data-wow-delay="1.8s" data-stellar-background-ratio="0.5">
+					<li class="wow fadeInUp" data-wow-duration="1s" data-wow-delay="1.8s" data-stellar-background-ratio="0.5">
 						<a href="#">
 							<div class="fh5co-overlay"></div>
 							<div class="container">
@@ -135,7 +138,7 @@
 							</div>
 						</a>
 					</li>
-					<li class="wow fadeInUp" style="background-image: url(images/full_2.jpg);" data-wow-duration="1s" data-wow-delay="0.4s" data-stellar-background-ratio="0.5">
+					<li class="wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.4s" data-stellar-background-ratio="0.5">
 						<a href="#">
 							<div class="fh5co-overlay"></div>
 							<div class="container">
@@ -150,7 +153,7 @@
 							</div>
 						</a>
 					</li>
-					<li class="wow fadeInUp" style="background-image: url(images/full_4.jpg);" data-wow-duration="1s" data-wow-delay="0.7s" data-stellar-background-ratio="0.5">
+					<li class="wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.7s" data-stellar-background-ratio="0.5">
 						<a href="https://www.youtube.com/watch?v=1A94Q7B7nT4&index=6&list=PLe1PiiFnE7y_CIL-_3sWfCM0R0_5HZa8W">
 							<div class="fh5co-overlay"></div>
 							<div class="container">
@@ -165,7 +168,7 @@
 							</div>
 						</a>
 					</li>
-					<li class="wow fadeInUp" style="background-image: url(images/full_2.jpg);" data-wow-duration="1s" data-wow-delay="1s" data-stellar-background-ratio="0.5">
+					<li class="wow fadeInUp" data-wow-duration="1s" data-wow-delay="1s" data-stellar-background-ratio="0.5">
 						<a href="#">
 							<div class="fh5co-overlay"></div>
 							<div class="container">
@@ -180,8 +183,8 @@
 							</div>
 						</a>
 					</li>
-					<li class="wow fadeInUp" style="background-image: url(images/full_4.jpg);" data-wow-duration="1s" data-wow-delay="1.4s" data-stellar-background-ratio="0.5">
-						<a href="/IIITB-StudentKit/files/FAQ.pdf">
+					<li class="wow fadeInUp" data-wow-duration="1s" data-wow-delay="1.4s" data-stellar-background-ratio="0.5">
+						<a class="open-overlay">
 							<div class="fh5co-overlay"></div>
 							<div class="container">
 								<div class="fh5co-text">
@@ -195,7 +198,7 @@
 							</div>
 						</a>
 					</li>
-					<li class="wow fadeInUp" style="background-image: url(images/full_2.jpg);" data-wow-duration="1s" data-wow-delay="1.4s" data-stellar-background-ratio="0.5">
+					<li class="wow fadeInUp" data-wow-duration="1s" data-wow-delay="1.4s" data-stellar-background-ratio="0.5">
 						<a href="https://www.quora.com/topic/International-Institute-of-Information-Technology-Bangalore-IIIT-B">
 							<div class="fh5co-overlay"></div>
 							<div class="container">
@@ -233,6 +236,37 @@
 		</div>
 
 	<!-- END page-->
+	<section class="overlay" aria-hidden="true">
+  <div>
+    <h2>Hello, I'm the overlayer</h2>
+
+    <p>The internal div has the following style applied just to mimic a lot of content</p>
+
+    <pre><code>
+    .overlay div {
+       margin: 15vh auto;
+       width: 80%;
+       max-width: 650px;
+       padding: 30px;
+       min-height: 200vh;
+       background: rgba(255,255,255, .95);
+    }
+    </code></pre>
+
+
+    <p>The <code>.overlay</code> has a background applied</p>
+
+<pre><code>
+    .overlay div {
+       background:  rgba(40,40,40, .75);
+    }
+  </code></pre>
+
+
+
+    <a class="close-overlay">CLOSE LAYER</button>
+  </div>
+</section>
 	</div>
 
 	<!-- jQuery -->
@@ -264,6 +298,31 @@
 
 	<script>
 		new WOW().init();
+		var body = document.body,
+				overlay = document.querySelector('.overlay'),
+				overlayBtts = document.querySelectorAll('a[class$="overlay"]');
+
+		[].forEach.call(overlayBtts, function(btt) {
+
+			btt.addEventListener('click', function() {
+
+				 /* Detect the button class name */
+				 var overlayOpen = this.className === 'open-overlay';
+
+				 /* Toggle the aria-hidden state on the overlay and the
+						no-scroll class on the body */
+				 overlay.setAttribute('aria-hidden', !overlayOpen);
+				 body.classList.toggle('noscroll', overlayOpen);
+
+				 /* On some mobile browser when the overlay was previously
+						opened and scrolled, if you open it again it doesn't
+						reset its scrollTop property */
+				 overlay.scrollTop = 0;
+
+			}, false);
+
+		});
+
 	</script>
 
 	<!-- Main -->
