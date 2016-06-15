@@ -53,8 +53,14 @@
 	<!-- Cards -->
 	<link rel="stylesheet" href="css/cards.css">
 
+	<!-- Custom CSS -->
+	<link rel="stylesheet" href="css/custom.css">
+
 	<!-- Modernizr JS -->
 	<script src="js/modernizr-2.6.2.min.js"></script>
+
+	<!-- Showdown markdown -->
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/1.4.1/showdown.min.js"></script>
 
 	<!-- Ubuntu Font -->
 	<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Ubuntu:regular,bold&subset=Latin">
@@ -90,7 +96,7 @@
 
 			<div class="fh5co-projects">
 				<ul>
-					<li class="wow fadeInUp" style="background-image: url(images/full_4.jpg);" data-wow-duration="1s" data-wow-delay="1.4s" data-stellar-background-ratio="0.5">
+					<li class="wow fadeInUp back1" data-wow-duration="1s" data-wow-delay="1.4s" data-stellar-background-ratio="0.5">
 						<a href="#">
 							<div class="fh5co-overlay"></div>
 							<div class="container">
@@ -105,7 +111,7 @@
 							</div>
 						</a>
 					</li>
-					<li class="wow fadeInUp" style="background-image: url(images/full_2.jpg);" data-wow-duration="1s" data-wow-delay="1.6s" data-stellar-background-ratio="0.5">
+					<li class="wow fadeInUp back2" data-wow-duration="1s" data-wow-delay="1.6s" data-stellar-background-ratio="0.5">
 						<a href="#">
 							<div class="fh5co-overlay"></div>
 							<div class="container">
@@ -120,7 +126,7 @@
 							</div>
 						</a>
 					</li>
-					<li class="wow fadeInUp" style="background-image: url(images/full_4.jpg);" data-wow-duration="1s" data-wow-delay="1.8s" data-stellar-background-ratio="0.5">
+					<li class="wow fadeInUp back1" data-wow-duration="1s" data-wow-delay="1.8s" data-stellar-background-ratio="0.5">
 						<a href="/IIITB-StudentKit/files/Hotels-near-IIITB.pdf">
 							<div class="fh5co-overlay"></div>
 							<div class="container">
@@ -135,7 +141,7 @@
 							</div>
 						</a>
 					</li>
-					<li class="wow fadeInUp" style="background-image: url(images/full_2.jpg);" data-wow-duration="1s" data-wow-delay="0.4s" data-stellar-background-ratio="0.5">
+					<li class="wow fadeInUp back2" data-wow-duration="1s" data-wow-delay="0.4s" data-stellar-background-ratio="0.5">
 						<a href="#">
 							<div class="fh5co-overlay"></div>
 							<div class="container">
@@ -150,7 +156,7 @@
 							</div>
 						</a>
 					</li>
-					<li class="wow fadeInUp" style="background-image: url(images/full_4.jpg);" data-wow-duration="1s" data-wow-delay="0.7s" data-stellar-background-ratio="0.5">
+					<li class="wow fadeInUp back1" data-wow-duration="1s" data-wow-delay="0.7s" data-stellar-background-ratio="0.5">
 						<a href="https://www.youtube.com/watch?v=1A94Q7B7nT4&index=6&list=PLe1PiiFnE7y_CIL-_3sWfCM0R0_5HZa8W">
 							<div class="fh5co-overlay"></div>
 							<div class="container">
@@ -165,8 +171,8 @@
 							</div>
 						</a>
 					</li>
-					<li class="wow fadeInUp" style="background-image: url(images/full_2.jpg);" data-wow-duration="1s" data-wow-delay="1s" data-stellar-background-ratio="0.5">
-						<a href="#">
+					<li class="wow fadeInUp back2" data-wow-duration="1s" data-wow-delay="1s" data-stellar-background-ratio="0.5">
+						<a class="open-overlay" data-tag="induction" href="javascript:void(0)">
 							<div class="fh5co-overlay"></div>
 							<div class="container">
 								<div class="fh5co-text">
@@ -180,8 +186,8 @@
 							</div>
 						</a>
 					</li>
-					<li class="wow fadeInUp" style="background-image: url(images/full_4.jpg);" data-wow-duration="1s" data-wow-delay="1.4s" data-stellar-background-ratio="0.5">
-						<a href="/IIITB-StudentKit/files/FAQ.pdf">
+					<li class="wow fadeInUp back1" data-wow-duration="1s" data-wow-delay="1.4s" data-stellar-background-ratio="0.5">
+						<a class="open-overlay" data-tag="faq" href="javascript:void(0)">
 							<div class="fh5co-overlay"></div>
 							<div class="container">
 								<div class="fh5co-text">
@@ -195,7 +201,7 @@
 							</div>
 						</a>
 					</li>
-					<li class="wow fadeInUp" style="background-image: url(images/full_2.jpg);" data-wow-duration="1s" data-wow-delay="1.4s" data-stellar-background-ratio="0.5">
+					<li class="wow fadeInUp back2" data-wow-duration="1s" data-wow-delay="1.4s" data-stellar-background-ratio="0.5">
 						<a href="https://www.quora.com/topic/International-Institute-of-Information-Technology-Bangalore-IIIT-B">
 							<div class="fh5co-overlay"></div>
 							<div class="container">
@@ -239,16 +245,16 @@
 	<script src="js/jquery.min.js"></script>
 
 	<!-- jQuery Easing -->
-	<script src="js/jquery.easing.1.3.js"></script>
+	<!-- <script src="js/jquery.easing.1.3.js"></script> -->
 
 	<!-- Bootstrap -->
-	<script src="js/bootstrap.min.js"></script>
+	<!-- <script src="js/bootstrap.min.js"></script> -->
 
 	<!-- Waypoints -->
    <script src="js/jquery.waypoints.min.js"></script>
 
 	<!-- Owl Carousel -->
-	<script src="js/owl.carousel.min.js"></script>
+	<!-- <script src="js/owl.carousel.min.js"></script> -->
 
 	<!-- Magnific Popup -->
 	<script src="js/jquery.magnific-popup.min.js"></script>
@@ -257,13 +263,65 @@
 	<script src="js/jquery.stellar.min.js"></script>
 
 	<!-- countTo -->
-	<script src="js/jquery.countTo.js"></script>
+	<!-- <script src="js/jquery.countTo.js"></script> -->
 
 	<!-- WOW -->
 	<script src="js/wow.min.js"></script>
 
 	<script>
 		new WOW().init();
+		var converter =  new showdown.Converter();
+		function mdload(link, element){
+			$.get(link).done(function(data) {
+				$(element).append(converter.makeHtml(data));
+			});
+		};
+		function readFiles(tag,Title = "none",filename = "none") {
+			String.prototype.capitalize = function(lower) {
+    		return (lower ? this.toLowerCase() : this).replace(/(?:^|\s)\S/g, function(a) { return a.toUpperCase(); });
+			};
+
+			if(filename==="none"){
+				filename = 'docs/'+tag+".md	";
+			}
+			if(Title === "none"){
+				Title = tag.capitalize();
+			}
+			var newDiv= $('<div/>', { id: tag});
+			var section = $('<section/>',{ class: "overlay"});
+			newDiv.append('<h1>'+Title+"</h1>");
+			mdload(filename,newDiv);
+			section.attr('aria-hidden', true);
+			section.append('<a class="close-overlay" data-tag='+tag+' href="javascript:void(0)">&times</a>');
+			section.append(newDiv);
+			$('body').append(section);
+			var body = document.body,
+					overlayBtts = document.querySelectorAll('a[data-tag="'+tag+'"]');
+
+			[].forEach.call(overlayBtts, function(btt) {
+
+				btt.addEventListener('click', function() {
+					var overlay = section;//document.querySelectorAll('#'+btt.dataset.tag).parentNode;
+					console.log(overlay);
+					 /* Detect the button class name */
+					 var overlayOpen = this.className === 'open-overlay';
+
+					 /* Toggle the aria-hidden state on the overlay and the
+							no-scroll class on the body */
+					 overlay.attr('aria-hidden', !overlayOpen);
+					 body.classList.toggle('noscroll', overlayOpen);
+
+					 /* On some mobile browser when the overlay was previously
+							opened and scrolled, if you open it again it doesn't
+							reset its scrollTop property */
+					 overlay.scrollTop = 0;
+
+				}, false);
+
+			});
+		}
+		readFiles('faq');
+		// readFiles('test',"TEST","docs/faq.md");
 	</script>
 
 	<!-- Main -->

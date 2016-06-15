@@ -1,0 +1,38 @@
+/* to the body element */
+.noscroll { overflow: hidden; }
+
+.overlay {
+   position: fixed;
+   overflow-y: scroll;
+   z-index: 99;
+   top: 0; right: 0; bottom: 0; left: 0; }
+
+[aria-hidden="true"] { display: none; }
+[aria-hidden="false"] { display: block; }
+
+
+/* this code is not strictly necessary: just to make this demo a bit pleasant */
+
+.overlay div {
+   margin: 5vh auto;
+   width: 90%;
+   max-width: 1200px;
+   padding: 60px 30px;
+   min-height: 200vh;
+   background: rgba(255,255,255, 1);
+}
+.overlay {
+    background:  rgba(40,40,40, .75);
+}
+
+* { box-sizing: border-box; }
+button { padding: 1.5em 4em; cursor: pointer;}
+pre { background: #fafafa; padding: 15px; border: 1px #ccd dashed; }
+pre + p { margin: 5vh 0; }
+
+.close-overlay{
+  right: 10px;
+  font-size: 100px;
+  margin: 30px 15px;
+  position: fixed;
+}
