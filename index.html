@@ -172,7 +172,7 @@
 						</a>
 					</li>
 					<li class="wow fadeInUp back2" data-wow-duration="0.8s" data-wow-delay="0.8s" data-stellar-background-ratio="0.5">
-						<a class="open-overlay" data-tag="induction" href="javascript:void(0)">
+						<a class="open-overlay" data-tag="induction" href="#induction">
 							<div class="fh5co-overlay"></div>
 							<div class="container">
 								<div class="fh5co-text">
@@ -187,7 +187,7 @@
 						</a>
 					</li>
 					<li class="wow fadeInUp back1" data-wow-duration="0.8s" data-wow-delay="0.8s" data-stellar-background-ratio="0.5">
-						<a class="open-overlay" data-tag="faq" href="javascript:void(0)">
+						<a class="open-overlay" data-tag="faq" href="#faq">
 							<div class="fh5co-overlay"></div>
 							<div class="container">
 								<div class="fh5co-text">
@@ -288,37 +288,13 @@
 				Title = tag.capitalize();
 			}
 			var newDiv= $('<div/>', { id: tag});
-			var section = $('<section/>',{ class: "overlay"});
+			var section = $('<section/>',{ class: "overlay", id: tag+"-overlay"});
 			newDiv.append('<h1>'+Title+"</h1>");
 			mdload(filename,newDiv);
 			section.attr('aria-hidden', true);
-			section.append('<a class="close-overlay" data-tag='+tag+' href="javascript:void(0)">&times</a>');
+			section.append('<a class="close-overlay" href="javascript:void(0)" onclick="window.history.back();">&times</a>');
 			section.append(newDiv);
 			$('body').append(section);
-			var body = document.body,
-					overlayBtts = document.querySelectorAll('a[data-tag="'+tag+'"]');
-
-			[].forEach.call(overlayBtts, function(btt) {
-
-				btt.addEventListener('click', function() {
-					var overlay = section;//document.querySelectorAll('#'+btt.dataset.tag).parentNode;
-					console.log(overlay);
-					 /* Detect the button class name */
-					 var overlayOpen = this.className === 'open-overlay';
-
-					 /* Toggle the aria-hidden state on the overlay and the
-							no-scroll class on the body */
-					 overlay.attr('aria-hidden', !overlayOpen);
-					 body.classList.toggle('noscroll', overlayOpen);
-
-					 /* On some mobile browser when the overlay was previously
-							opened and scrolled, if you open it again it doesn't
-							reset its scrollTop property */
-					 overlay.scrollTop = 0;
-
-				}, false);
-
-			});
 		}
 		readFiles('faq');
 		// readFiles('test',"TEST","docs/faq.md");
@@ -342,23 +318,36 @@
 
 		        if (preventKeyPress || e.keyCode == 27){
 							e.preventDefault();
-							var overlay = $('section[aria-hidden="false"]');
-							console.log(overlay);
-							 /* Detect the button class name */
-							 var overlayOpen = this.className === 'open-overlay';
-
-							 /* Toggle the aria-hidden state on the overlay and the
-									no-scroll class on the body */
-							 overlay.attr('aria-hidden', true);
-							 document.body.classList.toggle('noscroll', overlayOpen);
-
-							 /* On some mobile browser when the overlay was previously
-									opened and scrolled, if you open it again it doesn't
-									reset its scrollTop property */
-							 overlay.scrollTop = 0;
+							window.history.back();
 						}
 		    });
 		});
+		/* Open Overlays based on hash values */
+		function openOverlay(tag){
+			var existing = $('section[aria-hidden="false"]').attr('aria-hidden',true);
+			console.log(existing);
+			document.body.classList.toggle('noscroll', false);
+			document.body.scrollTop = 0;
+			var overlay = $(tag+'-overlay');
+			if(overlay.length === 0)
+				return;
+			console.log(overlay);
+			 /* Toggle the aria-hidden state on the overlay and the
+					no-scroll class on the body */
+			 overlay.attr('aria-hidden', false);
+			 document.body.classList.toggle('noscroll', true);
+
+			 /* On some mobile browser when the overlay was previously
+					opened and scrolled, if you open it again it doesn't
+					reset its scrollTop property */
+					console.log(overlay.scrollTop)
+			 overlay.scrollTop = 0;
+		}
+		window.onhashchange = function(){
+			console.log(location.hash);
+			openOverlay(location.hash);
+		}
+		openOverlay(location.hash);
 	</script>
 
 	<!-- Main -->
