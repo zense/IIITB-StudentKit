@@ -322,6 +322,43 @@
 		}
 		readFiles('faq');
 		// readFiles('test',"TEST","docs/faq.md");
+
+		$(function () {
+		    var rx = /INPUT|TEXTAREA/i;
+		    var rxT = /RADIO|CHECKBOX|SUBMIT/i;
+
+		    $(document).bind("keydown keypress", function (e) {
+		        var preventKeyPress;
+		        if (e.keyCode == 8) {
+		            var d = e.srcElement || e.target;
+		            if (rx.test(e.target.tagName)) {
+		                var preventPressBasedOnType = false;
+		                if (d.attributes["type"]) {
+		                    preventPressBasedOnType = rxT.test(d.attributes["type"].value);
+		                }
+		                preventKeyPress = d.readOnly || d.disabled || preventPressBasedOnType;
+		            } else {preventKeyPress = true;}
+		        } else { preventKeyPress = false; }
+
+		        if (preventKeyPress || e.keyCode == 27){
+							e.preventDefault();
+							var overlay = $('section[aria-hidden="false"]');
+							console.log(overlay);
+							 /* Detect the button class name */
+							 var overlayOpen = this.className === 'open-overlay';
+
+							 /* Toggle the aria-hidden state on the overlay and the
+									no-scroll class on the body */
+							 overlay.attr('aria-hidden', true);
+							 document.body.classList.toggle('noscroll', overlayOpen);
+
+							 /* On some mobile browser when the overlay was previously
+									opened and scrolled, if you open it again it doesn't
+									reset its scrollTop property */
+							 overlay.scrollTop = 0;
+						}
+		    });
+		});
 	</script>
 
 	<!-- Main -->
