@@ -22,7 +22,7 @@
    background: rgba(255,255,255, 1);
 }
 .overlay {
-    background:  rgba(40,40,40, .75);
+    background:  #ffffff;/*rgba(40,40,40, .75);*/
 }
 
 * { box-sizing: border-box; }
@@ -35,4 +35,20 @@ pre + p { margin: 5vh 0; }
   font-size: 100px;
   margin: 30px 15px;
   position: fixed;
+}
+
+.back1 {
+  background: #7FDBFF; /* For browsers that do not support gradients */
+  background: -webkit-linear-gradient(left top, #7FDBFF, #F012BE); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(bottom right, #7FDBFF, #F012BE); /* For Opera 11.1 to 12.0*/
+  background: -moz-linear-gradient(bottom right, #7FDBFF, #F012BE); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(to bottom right, #7FDBFF, #F012BE); /* Standard syntax */
+}
+
+.back2 {
+  background: #85144b; /* For browsers that do not support gradients */
+  background: -webkit-linear-gradient(left top,  #85144b, #7FDBFF); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(bottom right,  #85144b, #7FDBFF); /* For Opera 11.1 to 12.0*/
+  background: -moz-linear-gradient(bottom right,  #85144b, #7FDBFF); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(to bottom right,  #85144b, #7FDBFF); /* Standard syntax */
 }
