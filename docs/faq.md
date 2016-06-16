@@ -253,8 +253,8 @@ programme, I finish one year early.**
   course provides an opportunity for industry internship/thesis for the final part of the
   program - very valuable for work experience and developing research acumen.Also it is 
   easy to plan a set of courses/electives for forthcoming years because they are 
-  being covered in the same institute (the knowledge requirements are better known)
-  - consider finishing a fundamentals course in one institute and opting for the 
+  being covered in the same institute (the knowledge requirements are better known).
+  Consider finishing a fundamentals course in one institute and opting for the 
   advanced course in a different one, it is hard to gauge the standards expected.
   
   Weigh 'your' options and plan well!!! That's the only true comparator.
