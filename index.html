@@ -112,7 +112,7 @@
 						</a>
 					</li>
 					<li class="wow fadeInUp back2" data-wow-duration="0.8s" data-wow-delay="0.8s" data-stellar-background-ratio="0.5">
-						<a href="#">
+						<a class="open-overlay" data-tag="induction" href="#required">
 							<div class="fh5co-overlay"></div>
 							<div class="container">
 								<div class="fh5co-text">
@@ -270,7 +270,10 @@
 
 	<script>
 		new WOW().init();
-		var converter =  new showdown.Converter();
+		var converter =  new showdown.Converter({
+	    'github_flavouring': true,
+	    'tables': true
+		});
 		function mdload(link, element){
 			$.get(link).done(function(data) {
 				$(element).append(converter.makeHtml(data));
@@ -296,8 +299,9 @@
 			section.append(newDiv);
 			$('body').append(section);
 		}
-		readFiles('faq');
-		// readFiles('test',"TEST","docs/faq.md");
+		readFiles('faq', 'FAQ');
+		readFiles('induction','Induction Schedule');
+		readFiles('required', 'Required Items');
 
 		$(function () {
 		    var rx = /INPUT|TEXTAREA/i;
