@@ -206,7 +206,7 @@ IIIT admissions?**
 
  No, there is no reservation.
 
-7. **Nearby Hotels around IIITB.**
+7. **What are the nearby Hotels around IIITB?**
 
   There are a variety of hotels available around IIITB, in all budget
   brackets. More information regarding the same can be obtained from the
@@ -219,20 +219,45 @@ IIIT admissions?**
 8. **I have received admission in IITs. Why should I consider joining
 IIIT Bangalore?**
 
+  No doubt, IIT's are the top-most institutes in the country and have been 
+  pioneers in higher education over the last few decades but IIIT Bangalore,
+  since its inception, has been considered one of the top institute for post-
+  graduation, rated even above some IIT's
+
   The answer to your question is subjective, and depends on your point of
   view, your rank and your aim in life.
 
   If for instance you have a decent rank in JEE which guarantees you a
-  decent branch in an old IIT , then by all means go for it.
-
-  The trouble starts when you have a borderline rank. It then comes down
+  decent branch in an old IIT , then by all means go for it. The trouble
+  starts when you have a borderline rank. It then comes down
   to you, whether you want the IIT tag or the branch of your choice.
+  
+  We have once proven that IIITB does not lag behind the IIT's. With the 
+  introduction to the iMTech course, we plan to do it again. The students 
+  here are extremely passionate about their course and many have even preferred
+  joining IIITB over the new IIT's. IIT's are considered superior to us and this
+  drives us to put in an extra effort to show that we are second to none.
 
 9. **Why should I join the 5-year dual degree programme? In the 4-year
 programme, I finish one year early.**
 
-  In a 5 year programme, you complete both a BTech and MTech which would
-  have otherwise taken you 6 years. Hence, you are saving an year.
+  Firstly - the fact that it is an 'integrated' course which helps you gain
+  a year as opposed to typical BTech + MTech routes (5 yrs vs 6 yrs). A seamless
+  transition between undergraduate and master's courses allows for exposure
+  to greater detail and greater breadth. And if you are keen to gain some specialization
+  in your field by means of a Master's course,then why not choose an option that 
+  saves you an year?
+  
+  Also,everything depends on what you expect to achieve in terms of academic competence
+  at the end of college. That depends upon how 'effective' a course will be. The iMTech
+  course provides an opportunity for industry internship/thesis for the final part of the
+  program - very valuable for work experience and developing research acumen.Also it is 
+  easy to plan a set of courses/electives for forthcoming years because they are 
+  being covered in the same institute (the knowledge requirements are better known)
+  - consider finishing a fundamentals course in one institute and opting for the 
+  advanced course in a different one, it is hard to gauge the standards expected.
+  
+  Weigh 'your' options and plan well!!! That's the only true comparator.
 
 10. **Is branch change allowed?**
 
@@ -246,7 +271,7 @@ programme, I finish one year early.**
   of IITs, their fees is nearly the same as that of IIITB
 
   Also, IIITB provides much better facilities compared to most government
-  colleges (single rooms, hot water etc)
+  colleges (single rooms, hot water etc).
 
 12. **I am not able to pay the fee. Is any financial assistance
 available?**
@@ -278,11 +303,17 @@ wise)?**
 
   Branch Opening Closing
 
-  CSE 185 185
+  CSE     185     185
 
-  ECE 200 168
+  ECE     200     168
 
 15. **How are the sports facilities ?**
 
-  IIITB offers a range of sporting facilities like TT courts, Badminton
-  courts etc.
+  IIITB believes in the fitness of mind and body. There is a compulsory
+  Physical Education course for the first year students during which
+  they are exposed to physical exercises and other sports.
+  
+  The seniors are enthusiastic about sports and can be regularly found 
+  playing outdoor sports. Also, indoor sports such as table-tennis, chess,
+  carrom and others can be played in the Multi-Purpose Hall.
+  
