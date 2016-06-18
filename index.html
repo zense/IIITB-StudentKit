@@ -295,6 +295,7 @@
 			newDiv.append('<h1>'+Title+"</h1>");
 			mdload(filename,newDiv);
 			section.attr('aria-hidden', true);
+			section.hide();
 			section.append('<a class="close-overlay" href="javascript:void(0)" onclick="window.history.back();">&times</a>');
 			section.append(newDiv);
 			$('body').append(section);
@@ -329,7 +330,7 @@
 		});
 		/* Open Overlays based on hash values */
 		function openOverlay(tag){
-			var existing = $('section[aria-hidden="false"]').attr('aria-hidden',true);
+			var existing = $('section[aria-hidden="false"]').attr('aria-hidden',true).hide();
 			console.log(existing);
 			document.body.classList.toggle('noscroll', false);
 			document.body.scrollTop = 0;
@@ -340,6 +341,7 @@
 			 /* Toggle the aria-hidden state on the overlay and the
 					no-scroll class on the body */
 			 overlay.attr('aria-hidden', false);
+			 overlay.show();
 			 document.body.classList.toggle('noscroll', true);
 
 			 /* On some mobile browser when the overlay was previously
