@@ -10,7 +10,11 @@
 [aria-hidden="true"] { display: none; }
 [aria-hidden="false"] { display: block; }
 
-
+img {
+  max-width: 100%;
+  display: block;
+  margin: auto;
+}
 /* this code is not strictly necessary: just to make this demo a bit pleasant */
 
 .overlay div {
