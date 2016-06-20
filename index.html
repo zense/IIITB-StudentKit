@@ -40,6 +40,8 @@
 	<!-- Icomoon Icon Fonts-->
 	<link rel="stylesheet" href="css/icomoon.css">
 
+	<link rel="stylesheet" href="http://archive.nicinabox.com/superslides/dist/stylesheets/superslides.css">
+
 	<!-- Magnific Popup-->
 	<link rel="stylesheet" href="css/magnific-popup.css">
 
@@ -127,7 +129,7 @@
 						</a>
 					</li>
 					<li class="wow fadeInUp back1" data-wow-duration="0.8s" data-wow-delay="0.8s" data-stellar-background-ratio="0.5">
-						<a href="/IIITB-StudentKit/files/Hotels-near-IIITB.pdf" target="_blank">
+						<a href="#hotels">
 							<div class="fh5co-overlay"></div>
 							<div class="container">
 								<div class="fh5co-text">
@@ -305,6 +307,7 @@
 		readFiles('required', 'Required Items');
 		readFiles('howtoreach', 'How to Reach IIIT-B');
 		readFiles('placestovisit', 'Places to Visit in & around Bangalore');
+		readFiles('hotels', 'Hotels around IIIT-B');
 
 		$(function () {
 		    var rx = /INPUT|TEXTAREA/i;
@@ -360,6 +363,12 @@
 
 	<!-- Main -->
 	<script src="js/main.js"></script>
+
+	<script src="http://archive.nicinabox.com/superslides/dist/jquery.superslides.js"></script>
+
+	 <script type="text/javascript">
+		$('#slides').superslides('start');
+	 </script>
 
 	</body>
 </html>
