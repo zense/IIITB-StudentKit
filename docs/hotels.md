@@ -3,7 +3,7 @@
 26-A, Electronic City Phase - I, Hosur Road, Opp. Infosys,
 Bengaluru, Karnataka 560100
 
-Phone: **080 4040 8888**
+Phone: [**080 4040 8888**](tel:080 4040 8888)
 
 Standard Charge per night: **₹ 3176**
 
@@ -14,7 +14,7 @@ It is the nearest hotel to the college.
 Address: No.54B/, 55A, Hosur Main Road, Electronics City Phase 1,
 Electronic City, Bengaluru, Karnataka 560100
 
-Phone: **080 4423 2323**
+Phone: [**080 4423 2323**](tel:080 4423 2323)
 
 Standard Charge per night: **₹ 3062**
 
@@ -23,7 +23,7 @@ Standard Charge per night: **₹ 3062**
 Address: No. V-8, 3rd Cross, Keonics Road, Electronic City Phase 1,
 Bengaluru, Karnataka 560100
 
-Phone: **080 4166 3792**
+Phone: [**080 4166 3792**](tel:080 4166 3792)
 
 Standard Charge per night: **₹ 2445**
 
@@ -32,7 +32,7 @@ Standard Charge per night: **₹ 2445**
 Address: 56-A, Opposite Wipro Gate No. 5, Wipro Avenue, Electronics City
 Phase 1, Bengaluru, Karnataka 560100
 
-Phone: **080 4040 9090**
+Phone: [**080 4040 9090**](tel:080 4040 9090)
 
 Standard Charge per night: **₹ 4261**
 
@@ -41,7 +41,7 @@ Standard Charge per night: **₹ 4261**
 Address: C, Survey No-66, floor, Wipro Doddathoguru, 56, 2nd Main Rd,
 Electronics City Phase 1, Bengaluru, Karnataka 560100
 
-Phone: **093139 31393**
+Phone: [**093139 31393**](tel:093139 31393)
 
 Standard Charge per night: **₹ 2419**
 
@@ -50,7 +50,7 @@ Standard Charge per night: **₹ 2419**
 Address: V-6, 1st Main Rd, Electronics City Phase 1, Industrial Estate,
 Electronic City, Bengaluru, Karnataka 560100
 
-Phone: **070222 81101**
+Phone: [**070222 81101**](tel:070222 81101)
 
 Standard Charge per night: **₹ 2790**
 
@@ -59,7 +59,7 @@ Standard Charge per night: **₹ 2790**
 Address: 56D, Electronic City I, Opp. Wipro Gate 5, Bengaluru, Karnataka
 560100
 
-Phone: **080 4431 0000**
+Phone: [**080 4431 0000**](tel:080 4431 0000)
 
 Standard Charge per night: **₹ 4649**
 
