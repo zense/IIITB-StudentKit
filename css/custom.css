@@ -56,3 +56,82 @@ pre + p { margin: 5vh 0; }
   background: -moz-linear-gradient(bottom right,  #85144b, #7FDBFF); /* For Firefox 3.6 to 15 */
   background: linear-gradient(to bottom right,  #85144b, #7FDBFF); /* Standard syntax */
 }
+
+.cover {
+  width: 80%;
+  height: 90%;
+  margin: 0 10% 5% 10%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 10;
+  padding-top: 5%;
+  display: block;
+  color: #fff;
+  text-shadow: 1px 1px #AAAAAA;
+}
+.cover h2 {
+  color: #fcfcfc;
+  text-shadow: 1px 1px #AAAAAA;
+}
+.cover a{
+  color: #fcfcfc;
+  text-shadow: 1px 1px #AAAAAA;
+}
+
+.btn-responsive {
+    white-space: normal !important;
+    word-wrap: break-word;
+}
+
+.slides-navigation {
+  top: 50%;
+}
+.slides-navigation a {
+  -webkit-border-radius: 30px;
+  -moz-border-radius: 30px;
+  -ms-border-radius: 30px;
+  -o-border-radius: 30px;
+  border-radius: 30px;
+  display: block;
+  text-decoration: none;
+  border: 3px solid #fff;
+  color: white;
+  font-weight: bold;
+  font-size: 26px;
+  margin: 0 25px;
+  text-shadow: 0 1px 1px #000;
+  text-align: center;
+  height: 40px;
+  width: 40px;
+  top: -40px;
+  padding-top: 5px;
+  -webkit-box-shadow: 0 1px 1px black;
+  -moz-box-shadow: 0 1px 1px black;
+  box-shadow: 0 1px 1px black;
+  -webkit-transition: background 0.15s ease;
+  -moz-transition: background 0.15s ease;
+  -o-transition: background 0.15s ease;
+  transition: background 0.15s ease;
+}
+.slides-navigation a:hover {
+  background: rgba(0, 0, 0, 0.4);
+}
+@media screen and (max-width: 767px) {
+  .slides-navigation {
+    display: none;
+  }
+}
+
+.slides-pagination a {
+  width: 15px;
+  height: 15px;
+  margin: 5px 2px;
+  border-color: white;
+  -webkit-box-shadow: 0 1px 1px black;
+  -moz-box-shadow: 0 1px 1px black;
+  box-shadow: 0 1px 1px black;
+}
+.slides-pagination a.current {
+  background: white;
+}
