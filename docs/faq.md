@@ -1,3 +1,6 @@
+**Ask any more questions from** [***https://www.facebook.com/groups/391580577698895/***](iMTech Admission Forum 2016)
+
+
 **General FAQ's**
 
 1. **I have received admission in IITs. Why should I consider joining
@@ -26,7 +29,7 @@ IIIT Bangalore?**
 programme, I finish one year early.**
 
   Firstly - the fact that it is an 'integrated' course which helps you gain
-  a year as opposed to typical BTech + MTech routes (5 yrs vs 6 yrs). A seamless
+  a year as opposed to typical BTech + MTech routes (5 yrs V 6 yrs). A seamless
   transition between undergraduate and master's courses allows for exposure
   to greater detail and greater breadth. And if you are keen to gain some specialization
   in your field by means of a Master's course,then why not choose an option that 
@@ -46,9 +49,9 @@ programme, I finish one year early.**
 3. **IIIT fee is higher than the fee at IITs or NITs. Why?**
 
   IIIT fees is higher than IITs and NITs since it is only partially funded
-  by the government(PPP model) unlike the latter institutes, thus, it has
+  by the government (PPP model) unlike the latter institutes, thus, it has
   to manage its own expenses. Also, with the current increment in the fees
-  of IITs, their fees is nearly the same as that of IIITB
+  of IITs, their fees is nearly the same as that of IIITB.
 
   Also, IIITB provides much better facilities compared to most government
   colleges (single rooms, hot water etc).
@@ -60,24 +63,24 @@ available?**
 
   Scholarship amounts vary from year to year depending on the available
   funding. The types are merit and need-based scholarships. The former is
-  generally awarded to those with a high GPA(alternatively, those who are
+  generally awarded to those with a high GPA (alternatively, those who are
   a part of the Deans Merit List).
 
   Need based scholarship covers a larger part of the tuition fee and is
   designed to support those who require financial assistance. Typical
-  amount of these scholarships is 20K-60K(per year).
+  amount of these scholarships is 20K-60K (per year).
   
 5. **What is the criteria for scholarship at IIITB and what costs does
     it cover?**
 
   Scholarship amounts vary from year to year depending on the available
   funding. The types are merit and need-based scholarships. The former is
-  generally awarded to those with a high GPA(alternatively, those who are
+  generally awarded to those with a high GPA (alternatively, those who are
   a part of the Deans Merit List).
 
   Need based scholarship covers a larger part of the tuition fee and is
   designed to support those who require financial assistance. Typical
-  amount of these scholarships is 20K-60K(per year).
+  amount of these scholarships is 20K-60K (per year).
   
 6. **What have been the placements of students from IIITB?**
 
@@ -94,13 +97,13 @@ available?**
   students from IIITB so pursue M.S and PhDs from foreign universities.
 
   Many of our seniors in iMTech batches have completed their internships
-  in MIT (USA),Australia and so forth.
+  in MIT (USA), Australia, Germany and so forth.
 
 8. **What is the infrastructure of IIITB like?**
 
   IIITB has an excellent state-of-art infrastructure. We have spacious
   hostels with all modern facilities, fully air-conditioned Academic Block
-  and a New in-progress Academic Block( “Infosys block”)
+  and a New in-progress Academic Block (“Infosys block”).
 
 9. **Which degree will I be rewarded on graduation?**
 
@@ -120,12 +123,12 @@ wise)?**
   
 11. **Is there any management quota?**
 
-   There is no management quota.
+  There is no management quota.
 
 12. **Is there any SC/ST/BC, women, physically challenged etc. quota for
 IIIT admissions?**
 
- No, there is no reservation.
+  No, there is no reservation.
  
  
 **Admission FAQ's**
@@ -188,6 +191,8 @@ to some other place that I prefer, will I get any refund ?**
 
   - Makemytrip.com
   - Trivago.com etc.
+  
+  Also see the related document to it in the IIITB Student Kit. [***http://studentkit.zense.co.in/#hotels***](http://studentkit.zense.co.in/#hotels)
 
 2. **Is there a hostel facility on campus? What about the other
 facilities?**
