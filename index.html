@@ -104,7 +104,7 @@
 						<p class="wow fadeInUp" data-wow-duration="0.8s" data-wow-delay=".8s">A guide by the students of IIIT-B</p>
 						<p class="wow fadeInUp" data-wow-duration="0.8s" data-wow-delay=".8s">Everything you need to know as you join the IIIT-B community</p>
 						<p class="wow fadeInUp" data-wow-duration="0.8s" data-wow-delay=".8s">Have look at the <b><i><a href="https://www.facebook.com/groups/391580577698895/" target="_blank">iMTech Admission Forum 2016</a></i></b> too</p>
-						<p class="wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="1.1s"><a class="btn btn-success btn-lg btn-responsive" onclick="$('html, body').animate({scrollTop:$('#slides').height()}, 1000);">Click to see</a></p>
+						<p class="wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="1.1s"><a href="javascript:void(0)" onclick="scrollSlide()">Scroll down to see<br/><i class="icon-chevron-circle-down" style="font-size: 5em;"></i></a></p>
 					</div>
 				</div>
 
@@ -391,6 +391,10 @@
 						}
 		    });
 		});
+
+		function scrollSlide() {
+			$('html, body').animate({scrollTop:$('#slides').height()}, 1000);
+		}
 		/* Open Overlays based on hash values */
 		function openOverlay(tag){
 			var existing = $('section[aria-hidden="false"]').attr('aria-hidden',true).hide();
