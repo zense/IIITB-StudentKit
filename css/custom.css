@@ -134,3 +134,8 @@ pre + p { margin: 5vh 0; }
 .slides-pagination a.current {
   background: white;
 }
+
+.fa-lg {
+  font-size: 3em;
+  margin: 0 0.25em;
+}
