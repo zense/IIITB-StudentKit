@@ -1,6 +1,3 @@
-CONTRIBUTORS
--------
-
 **Documents**
 
 - Juhi Singh
