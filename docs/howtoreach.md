@@ -6,12 +6,12 @@
 *Opposite Infosys Gate 2*  
 *Bangalore – 560100*  
 
-**Please see the below links for detailed information**
+**Please see the below links for detailed information and video dir**
 
 [*https://www.mybmtc.com/airportservices*](https://www.mybmtc.com/airportservices)
 
-- How To Reach - Official Page [*http://www.iiitb.ac.in/contact-us/how-to-reach*] (http://www.iiitb.ac.in/contact-us/how-to-reach)
-- Detailed Video Directions to IIITB [*http://vidteq.com/embed3.php?urlid=iiit&*] (http://vidteq.com/embed3.php?urlid=iiit&)
+How To Reach - Official Page [*http://www.iiitb.ac.in/contact-us/how-to-reach*](http://www.iiitb.ac.in/contact-us/how-to-reach)
+Detailed Video Directions to IIITB [*http://vidteq.com/embed3.php?urlid=iiit&*](http://vidteq.com/embed3.php?urlid=iiit&)
 
 
 ## Kempegowda International Airport
