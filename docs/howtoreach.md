@@ -38,6 +38,7 @@ ride estimate on cab app beforehand)
 **Majestic Bus Station (Kempegowda Bus Station)**
 
 Approx 25 kms  
+
 Bus No. **KBS-3E** / **356CA**
 
 Boarding Point - **Majestic Bus Station**
@@ -48,7 +49,8 @@ The distance between this bus stop and IIITB gate is less than 200m.
 
 **Shivajinagar Bus Station**
 
-Approx 25 kms  
+Approx 25 kms 
+
 Route No. **164** / **CS-348D** / **G-3A** / **346P**
 
 Boarding Point - **Shivajinagar TTMC**
@@ -56,6 +58,8 @@ Boarding Point - **Shivajinagar TTMC**
 Deboarding Point – Electronic City Infosys Gate
 
 **Silk Board**
+
+Approx 13 kms  
 
 Bus No. **356CW**
 
