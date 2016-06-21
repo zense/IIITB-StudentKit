@@ -1,4 +1,4 @@
-**Ask any more questions from <a href="https://www.facebook.com/groups/391580577698895/" target="_blank">iMTech Admission Forum 2016 </a>**
+**Ask any more questions from <a href="https://www.facebook.com/groups/391580577698895/" target="_blank"> iMTech Admission Forum 2016 </a>**
 
 
 **General FAQ's**
@@ -87,7 +87,7 @@ available?**
   The first iMTECH batch will pass out in 2017. Although, the placements
   for MTech students have generally been excellent, with a placement
   record of 100% and an average salary of 10-12lpa. For more information:
-
+  Please visit this link:
   [***http://www.iiitb.ac.in/placements/placements-statistics***](http://www.iiitb.ac.in/placements/placements-statistics)
 
 7. **Does a 5 year course put me at a disadvantage for pursuing M.S
@@ -192,7 +192,7 @@ to some other place that I prefer, will I get any refund ?**
   - Makemytrip.com
   - Trivago.com etc.
   
-  Also see the related document to it in the IIITB Student Kit. [***http://studentkit.zense.co.in/#hotels***](http://studentkit.zense.co.in/#hotels)
+  Also see the <a href="http://studentkit.zense.co.in/#hotels" target="_blank"> related document </a> to it in the IIITB Student Kit.
 
 2. **Is there a hostel facility on campus? What about the other
 facilities?**
@@ -240,12 +240,11 @@ Clubs on campus?**
   other clubs like the Literary Society, Zense Developers Group , Comic Club
   and many others.
   
-    -   Zense Developers Group: [*http://zense.co.in/*](http://zense.co.in/)
-    -   Literary Society IIITB: [*https://iiitbmagazine.wordpress.com/*](https://iiitbmagazine.wordpress.com/)
-    -   Aikyam - IIITB Social Work Club:
-        [*https://www.facebook.com/Aikyam-130926363648287/info/?tab=page\_info*](https://www.facebook.com/Aikyam-130926363648287/info/?tab=page_info)
-    -   Comic Club IIITB: [*https://www.facebook.com/millionlaugh/*](https://www.facebook.com/millionlaugh/)
-    -   Music Club IIITB: [*https://www.facebook.com/Music-Club-IIITB-379925368688073/*](https://www.facebook.com/Music-Club-IIITB-3 79925368688073/)
+    -   <a href="http://zense.co.in/" target="_blank"> Zense Developers Group </a>
+    -   <a href="https://iiitbmagazine.wordpress.com/" target="_blank"> Literary Society IIITB </a> 
+    -   <a href="https://www.facebook.com/Aikyam-130926363648287/info/?tab=page\_info" target="_blank"> Aikyam - IIITB Social  Work Club </a>
+    -   <a href="https://www.facebook.com/millionlaugh/" target="_blank"> Comic Club IIITB </a> 
+    -   <a href="https://www.facebook.com/Music-Club-IIITB-379925368688073/" target="_blank"> Music Club IIITB </a>
     -   Information Society Club (ISoC)
     -   Chitrachaya - Photography Club IIITB
     -   Maths Club IIITB
