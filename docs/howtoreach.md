@@ -1,8 +1,15 @@
+***Destination to be reached***
+
 **International Institute of Information Technology Bangalore**  
 *26/C, Electronic City Phase 1*  
 *Hosur Road*  
 *Opposite Infosys Gate 2*  
 *Bangalore – 560100*  
+
+** Please see the below links for detailed information **
+
+- ** How To Reach - Official Page ** [*http://www.iiitb.ac.in/contact-us/how-to-reach*]
+- ** Detailed Video Directions to IIITB** [*http://vidteq.com/embed3.php?urlid=iiit&*]
 
 ## Kempegowda International Airport
 
@@ -28,12 +35,12 @@ ride estimate on cab app beforehand)
 
 ## Bus Station
 
-**Majectic Bus Station (Kempegowda Bus Station)**
+**Majestic Bus Station (Kempegowda Bus Station)**
 
 Approx 25 kms  
 Bus No. **KBS-3E** / **356CA**
 
-Boarding Point - **Kempegowda Bus Station**
+Boarding Point - **Majestic Bus Station**
 
 Deboarding Point – **Electronic City Infosys Gate**
 
@@ -55,11 +62,3 @@ Bus No. **356CW**
 Boarding Point – **Silk Board**
 
 Deboarding Point – **Electronic City Infosys Gate**
-
-**Railway Station**
-
-**KR Puram Railway Station**
-
-**Yeshwantpur Railway Station**
-
-IIIT B can be reached from these Railway stations through Bus or Cab.
