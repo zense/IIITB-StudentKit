@@ -1,5 +1,4 @@
 ***Destination to be reached***
-
 **International Institute of Information Technology Bangalore**  
 *26/C, Electronic City Phase 1*  
 *Hosur Road*  
@@ -7,9 +6,8 @@
 *Bangalore – 560100*  
 
 **Please see the below links for detailed information**
-
-- **How To Reach - Official Page** [*http://www.iiitb.ac.in/contact-us/how-to-reach*]
-- **Detailed Video Directions to IIITB** [*http://vidteq.com/embed3.php?urlid=iiit&*]
+- How To Reach - Official Page [*http://www.iiitb.ac.in/contact-us/how-to-reach*]
+- Detailed Video Directions to IIITB [*http://vidteq.com/embed3.php?urlid=iiit&*]
 
 ## Kempegowda International Airport
 
