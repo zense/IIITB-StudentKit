@@ -22,7 +22,6 @@ img {
    width: 90%;
    max-width: 1200px;
    padding: 60px 30px;
-   min-height: 200vh;
    background: rgba(255,255,255, 1);
 }
 .overlay {
