@@ -63,4 +63,5 @@ Phone: [**080 4431 0000**](tel:080 4431 0000)
 
 Standard Charge per night: **₹ 4649**
 
-**All rates are described as of 13/06/2016.**
+**Prices are mentioned as of 13/06/2016.**
+
