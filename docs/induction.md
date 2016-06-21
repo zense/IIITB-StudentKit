@@ -15,7 +15,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><strong>Monday, 1</strong><sup><strong>st</strong></sup> <strong>July, 2016</strong></p></td>
+<td><p><strong>Monday, 1</strong><sup><strong>st</strong></sup> <strong>August, 2016</strong></p></td>
 <td><p>Registration</p></td>
 <td><p>8:00 AM – 10:00 AM</p>
 <p>Academic Block, Reception Area</p></td>
