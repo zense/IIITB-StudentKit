@@ -9,7 +9,7 @@ pride of place among the gardens of the world and it has come to be
 regarded as one of the best gardens in the East for its layout,
 maintenance, scientific treasure and scenic beauty. Earlier known with
 the name of Rose and Cypress Garden, Lalbagh Botanical Garden is one of
-the most popular tourist attractions in Bangalore. dream work of Hyder
+the most popular tourist attractions in Bangalore. Dream work of Hyder
 Ali, construction of this garden was completed during the reign of Tipu
 Sultan. Boasting of more than 1000 varied species of flora including
 flowers, tropical plants and herbs, this garden has a number of other
@@ -120,7 +120,7 @@ ISKCON TEMPLE
 
 ![](images/media/image13.jpeg)
 
-**What is the mission of human life?** The mission of human life is to
+**What is the mission of human life :P ?** The mission of human life is to
 end the miseries of material existence and attain a blissful life. We
 are constantly searching after happiness, but we often fail in our
 pursuit. We may get a glimpse of happiness, but it does not last
@@ -130,5 +130,5 @@ Lord Sri Krishna, and by nature we are full of happiness – **ānandamayo
 ‘bhyāsāt** (vedānta-sūtra). Then, why do we suffer? Visit this place to
 get all your answers .
 
-**Well though these are some recommended places, there are still a lot
-of places to visit and to enjoy and have a great time in Bangalore.**
+***Well though these are some recommended places, there are still a lot
+of places to visit and to enjoy and have a great time in Bangalore.***
