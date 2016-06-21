@@ -15,9 +15,9 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><strong>Friday, 29</strong><sup><strong>th</strong></sup> <strong>July, 2016</strong></p></td>
+<td><p><strong>Monday, 1</strong><sup><strong>st</strong></sup> <strong>July, 2016</strong></p></td>
 <td><p>Registration</p></td>
-<td><p>8:00 AM – 10:00 PM</p>
+<td><p>8:00 AM – 10:00 AM</p>
 <p>Academic Block, Reception Area</p></td>
 <td></td>
 </tr>
@@ -35,7 +35,7 @@
 <td><p>An interactive session with iMTech Coordinator about the course and electives.</p></td>
 </tr>
 <tr class="even">
-<td><p><strong>Monday, 1</strong><sup><strong>st</strong></sup> <strong>August 2016</strong></p></td>
+<td><p><strong>Tuesday, 2</strong><sup><strong>st</strong></sup> <strong>August 2016</strong></p></td>
 <td><p>Regular Classwork Begins</p></td>
 <td><p>As per the timetable which will be available near the Academic Block, Reception Area Notice Board.</p>
 <p>Also will be given on respective <strong>IIITB Mail</strong></p></td>
