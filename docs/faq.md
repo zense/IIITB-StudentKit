@@ -1,4 +1,4 @@
-**Ask any more questions from <a href="https://www.facebook.com/groups/391580577698895/" target="_blank">example</a>iMTech Admission Forum 2016** [***https://www.facebook.com/groups/391580577698895/***](iMTech Admission Forum 2016)
+**Ask any more questions from <a href="https://www.facebook.com/groups/391580577698895/" target="_blank">iMTech Admission Forum 2016 </a>**
 
 
 **General FAQ's**
