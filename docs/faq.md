@@ -193,7 +193,7 @@ to some other place that I prefer, will I get any refund ?**
   - Makemytrip.com
   - Trivago.com etc.
   
-  Also see the <a href="http://studentkit.zense.co.in/#hotels" target="_blank"> related document </a> to it in the IIITB Student Kit.
+  Also see the **<a href="http://studentkit.zense.co.in/#hotels" target="_blank"> related document </a>** to it in the IIITB Student Kit.
 
 2. **Is there a hostel facility on campus? What about the other
 facilities?**
@@ -241,15 +241,16 @@ Clubs on campus?**
   other clubs like the Literary Society, Zense Developers Group , Comic Club
   and many others.
   
-    -   <a href="http://zense.co.in/" target="_blank"> Zense Developers Group </a>
-    -   <a href="https://iiitbmagazine.wordpress.com/" target="_blank"> Literary Society IIITB </a> 
-    -   <a href="https://www.facebook.com/Aikyam-130926363648287/info/?tab=page\_info" target="_blank"> Aikyam - IIITB Social  Work Club </a>
-    -   <a href="https://www.facebook.com/millionlaugh/" target="_blank"> Comic Club IIITB </a> 
-    -   <a href="https://www.facebook.com/Music-Club-IIITB-379925368688073/" target="_blank"> Music Club IIITB </a>
-    -   Information Society Club (ISoC)
-    -   Chitrachaya - Photography Club IIITB
-    -   Maths Club IIITB
-    -   Film Society - Movie Club IIITB
+    -   **<a href="http://zense.co.in/" target="_blank"> Zense Developers Group </a>**
+    -   **<a href="https://iiitbmagazine.wordpress.com/" target="_blank"> Literary Society IIITB </a>**
+    -   **<a href="https://www.facebook.com/Aikyam-130926363648287/info/?tab=page\_info" target="_blank"> Aikyam - IIITB Social  Work Club </a>**
+    -   **<a href="https://www.facebook.com/millionlaugh/" target="_blank"> Comic Club IIITB </a>**
+    -   **<a href="https://www.facebook.com/Music-Club-IIITB-379925368688073/" target="_blank"> Music Club IIITB </a>**
+    -   **Information Society Club (ISoC)**
+    -   **Chitrachaya - Photography Club IIITB**
+    -   **Maths Club IIITB**
+    -   **Film Society - Movie Club IIITB**
+    
 
 8. **What are the Fests held in IIITB?**
 
