@@ -1,12 +1,12 @@
 **At the time of admission, the student has to submit the following original
 documents, along with one set of Xerox copy of certificates:**
-
 * 10th Marksheet/ Certificate/ Date of Birth certificate
 * 11th and 12th Marksheet/ Certificates
 * Transfer Certificate/ Migration Certificate
 * JEE (Main) Score Card.
 * Four stamp size photographs
 * Allotment letter
+
 
 **Necessary Items to be brought to College**
 
