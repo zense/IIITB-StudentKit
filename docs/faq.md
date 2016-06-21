@@ -8,7 +8,7 @@ IIIT Bangalore?**
 
   No doubt, IIT's are the top-most institutes in the country and have been 
   pioneers in higher education over the last few decades but IIIT Bangalore,
-  since its inception, has been considered one of the top institute for post-
+  since its inception, it has been considered one of the top institute for post-
   graduation, rated even above some IIT's
 
   The answer to your question is subjective, and depends on your point of
@@ -86,8 +86,9 @@ available?**
 
   The first iMTECH batch will pass out in 2017. Although, the placements
   for MTech students have generally been excellent, with a placement
-  record of 100% and an average salary of 10-12lpa. For more information:
-  Please visit this link:
+  record of 100% and an average salary of 10-12lpa. For more info, please
+  visit this link:
+  
   [***http://www.iiitb.ac.in/placements/placements-statistics***](http://www.iiitb.ac.in/placements/placements-statistics)
 
 7. **Does a 5 year course put me at a disadvantage for pursuing M.S
