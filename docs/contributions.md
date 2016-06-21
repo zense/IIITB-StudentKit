@@ -1,17 +1,25 @@
-At the time of admission, the student has to submit the following original documents, along with one set of Xerox copy of certificates:
+CONTRIBUTORS
+-------
 
-1. 10th Marksheet/ Certificate/ Date of Birth certificate
+**Documents**
 
-2. 11th and 12th Marksheet/ Certificates
+Akshay Pant
+Anshika Gupta
+Anshuk Uppal
+Himank Kansal
+Juhi Singh
+Prachi Dhamange
+SaiVivek Cherukuri
+Vaibhav Aggarwal
 
-3. Transfer Certificate/ Migration Certificate
+**Website and Inputs**
 
-4. JEE (Main) Score Card/ NTSE/KVPY/ Olympiad/SAT Score card (as applicable)
+Aditya Thiruvengadam
+Infin8 Fest Committee
+Zense Developer Group
 
-5. Visa / PIO / Passport etc (Original Passport will be returned back)-For DASA Students
+**Photo Credits**
 
-6. Four stamp size photographs
+Bhargav Sridhar
 
-7. Allotment letter
-
-8. Undertaking by the student and Parent/Guardian. Click here for Undertaking Form
+***Your name could be here next year....so come quick :P***
