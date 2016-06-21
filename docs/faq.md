@@ -246,12 +246,13 @@ Clubs on campus?**
     -   **<a href="https://www.facebook.com/Aikyam-130926363648287/info/?tab=page\_info" target="_blank"> Aikyam - IIITB Social  Work Club </a>**
     -   **<a href="https://www.facebook.com/millionlaugh/" target="_blank"> Comic Club IIITB </a>**
     -   **<a href="https://www.facebook.com/Music-Club-IIITB-379925368688073/" target="_blank"> Music Club IIITB </a>**
-    -   **Information Society Club (ISoC)**
-    -   **Chitrachaya - Photography Club IIITB**
-    -   **Maths Club IIITB**
-    -   **Film Society - Movie Club IIITB**
+    -   ***Information Society Club (ISoC)***
+    -   ***Chitrachaya - Photography Club IIITB***
+    -   ***Maths Club IIITB***
+    -   ***Film Society - Movie Club IIITB***
     
-
+    
+  
 8. **What are the Fests held in IIITB?**
 
   An annual intracollege sports fest Spandan, is held each year, which
