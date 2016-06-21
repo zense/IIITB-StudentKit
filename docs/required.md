@@ -1,3 +1,13 @@
+**At the time of admission, the student has to submit the following original
+documents, along with one set of Xerox copy of certificates:**
+
+* 10th Marksheet/ Certificate/ Date of Birth certificate
+* 11th and 12th Marksheet/ Certificates
+* Transfer Certificate/ Migration Certificate
+* JEE (Main) Score Card.
+* Four stamp size photographs
+* Allotment letter
+
 **Necessary Items to be brought to College**
 
 Apart from your baggage (clothes, footwear etc.), we expect you to bring
@@ -14,12 +24,12 @@ competitive prices (can be brought from home too):
 * Sanitary Items - Buckets, Mugs, Soaps etc.
 * Cloth Hangers
 
-_There is a D-mart outlet located approximately 1.5kms away from campus
-for purchasing necessary daily-use utilities, fruits/snacks and clothes._
+***There is a D-mart outlet located approximately 1.5kms away from campus
+for purchasing necessary daily-use utilities, fruits/snacks and clothes.***
 
-_Also the students don’t need to bring curtains and brooms as
+***Also the students don’t need to bring curtains and brooms, as
 curtains will be already installed in your respective rooms and the
-cleaning will be taken care of by the cleaning staff._
+cleaning will be taken care of by the cleaning staff.***
 
 **Cell phone Connections**
 
@@ -39,8 +49,8 @@ SBI , ICICI, HDFC, Indian Bank ATMs are located just outside the campus.
 All students all advised to carry a set of necessary documents if you
 want to open an account at the SBI branch. The institution or management
 would not provide any further help in this matter. Also an ATM inside
-the campus is expected soon integrated into the newly built men’s hostel
-block.
+the campus is expected soon which will be integrated into the newly built
+men’s hostel block.
 
 **Medicines**
 
@@ -50,6 +60,6 @@ any enrolled candidate has any medical condition, severe allergies or
 any chronic ailment, it is advised to bring the medicines you might need
 in an emergency.
 
-_Also the management has made the facility of a medical consultant
+***Also the management has made the facility of a medical consultant
 available in campus two days in a week, further details will be made
-available to you once you complete your admission procedures._
+available to you once you complete your admission procedures.***
