@@ -10,8 +10,8 @@
 
 ### Website and Inputs
   - Aditya Thiruvengadam
-  - [Infin8 Fest Committee](https://infin8.zense.co.in)
-  - [Zense Developers Group](https://zense.co.in)
+  - [Infin8 Fest Committee](http://infin8.zense.co.in)
+  - [Zense Developers Group](http://zense.co.in)
 
 ### Photo Credits
   - Bhargav Sridhar
