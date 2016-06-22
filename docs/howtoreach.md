@@ -6,7 +6,7 @@
 *Opposite Infosys Gate 2*  
 *Bangalore – 560100*  
 
-**Please see the below links for detailed information and video dir**
+**Please see the below links for detailed information and video directions**
 
 - <a href="http://www.iiitb.ac.in/contact-us/how-to-reach" target="_blank"> How To Reach - Official Page </a> 
 - <a href="http://vidteq.com/embed3.php?urlid=iiit&"> Detailed Video Directions to IIITB </a> 
