@@ -10,9 +10,9 @@
 
 ### Website and Inputs
   - Aditya Thiruvengadam
-  - [Infin8 Fest Committee](http://infin8.zense.co.in)
-  - [Zense Developers Group](http://zense.co.in)
-
+  - <a href="http://infin8.zense.co.in" target="_blank"> Infin8 Fest Committee </a>
+  - <a href="http://zense.co.in" target="_blank"> Zense Developers Group </a>
+  
 ### Photo Credits
   - Bhargav Sridhar
 
