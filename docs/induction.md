@@ -78,8 +78,8 @@
 <td><p>Independence Day Celebrations</p></td>
 <td><p>9:00 AM – 10:00 AM</p>
 <p>Reception Area, Academic Block</p></td>
-<td><p>Valar Morghulis</p>
-<p>(GOT ....must watch).</p></td>
+<td><p>Vande Mataram !!</p>
+</td>
 </tr>
 <tr class="even">
 <td><p><strong>Not decided</strong></p></td>
@@ -117,14 +117,14 @@
 <td><p>Freshers!!!!!</p></td>
 <td><p>Unlimited time</p>
 <p>Multi-Purpose Hall</p></td>
-<td><p>A night everyone was waiting for....!!!!</p></td>
+<td><p>A night to wait for....!!!!</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Thursday, 15</strong><sup><strong>th</strong></sup> <strong>September 2016</strong></p></td>
 <td><p>Foundation Day</p></td>
 <td><p>5:00 PM - 8:00 PM</p>
 <p>Multi-Purpose Hall</p></td>
-<td><p>A cake everyone was waiting for....!!!!:P</p></td>
+<td><p>Celebrations of Foundation day of the college</p></td>
 </tr>
 </tbody>
 </table>
