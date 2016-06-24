@@ -49,7 +49,7 @@
 <td><p>Coffee with the Director</p></td>
 <td><p>The class will be divide in probably 4 groups and to know the further details about it you have to reach the college first.
 <p>Faculty Lounge, Academic Block</p></td>
-<td><p>An interactive session hosted by the director. Make your impression count.</p></td>
+<td><p>An interactive session with the Director, Professor S Sadagopan. Make your impression count.</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Saturday/Sunday, 6/7</strong><sup><strong>th</strong></sup> <strong>August</strong></p>
