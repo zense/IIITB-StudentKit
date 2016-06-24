@@ -74,8 +74,8 @@
 <td><p>IIITB's GOT TALENT</p>
 <p>Introduction to Clubs</p></td>
 <td><p>8:00 – 10:00 PM</p>
-<p>Venue will be coordinated by the respective clubs.</p></td>
-<td><p>Place which needs students (Don't be SHY there !). Better enjoy here. Come out of your closet. Dare to dream big and let your talent come out.</p></td>
+<p>Venue will be coordinated by the respective clubs</p></td>
+<td><p>Place which needs students (Don't be SHY there!). Better enjoy here. Come out of your closet. Dare to dream big and let your talent come out.</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Monday, August 15</strong><sup><strong>th</strong></sup></p></td>
@@ -89,15 +89,15 @@
 <td><p><strong>Will be informed</strong></p></td>
 <td><p>First Batch Photo</p></td>
 <td><p>Probably in the afternoon.</p>
-<p>Venue will be coordinated by the IIITB Media Lab.</p></p></td>
-<td><p>It's time to pose up. Girls:Do not pout here XD</p>
+<p>Venue will be coordinated by the IIITB Media Lab</p></p></td>
+<td><p>It's time to pose up. Girls : Do not pout here XD</p>
 <p>A photo to remember for your whole life.</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Will be informed</strong></p></td>
 <td><p>Meeting the Zense Developer Group</p></td>
-<td><p><strong>Good Time for all the coders out there.</strong></p>
-<p>Venue will be coordinated by Zense members.</p></td>
+<td><p><strong>Good Time for all the coders out there</strong></p>
+<p>Venue will be coordinated by Zense members</p></td>
 <td><p>Get amazed by meeting with the highly skilled members of the group. You are lucky and we mean it.</p></td>
 </tr>
 <tr class="even">
@@ -110,18 +110,18 @@
 <td><p><strong>Will be informed</strong></p></td>
 <td><p>iMTech SAC (Students Activity Council) Elections</p></td>
 <td><p>8:00 PM – 10:00 PM</p>
-<p>MCR Room No – 106,Academic Block</p></td>
+<p>MCR (Main Class Room) Room 106,Academic Block</p></td>
 <td><p>This involves serious politics and underage are not allowed to vote. So better sit in a corner and gain some experience.</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Sunday, 21</strong><sup><strong>st</strong></sup> <strong>August </strong></p></td>
 <td><p>Infin8 Fest Meeting</p></td>
-<td><p><strong>Again will be informed.</strong></p></td>
-<td><p>The socio cultural fest of the college. Come up with good ideas and do give your contributions in the meeting. </p></td>
+<td><p><strong>Again will be informed by the Infin8 Committee members</strong></p></td>
+<td><p>The socio cultural fest of the college. Come up with good ideas and do give your contributions in the meeting.</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>WAIT </strong></p></td>
-<td><p>Yes the most awaited thing for a junior FRESHER's PARTY.</p></td>
+<td><p>Yes the most awaited thing for a junior FRESHER's PARTY!!</p></td>
 <td><p>Late night fun </p>
 <p>Multi-Purpose Hall</p></td>
 <td><p>Suit up guys, you need to impress the girls. And yes, girls get your beauty mode on with all the make ups you have carried from home, time to use it. Dance,Drink (water XD) and yes better come up with some performances. We are waiting!! </p></td>
