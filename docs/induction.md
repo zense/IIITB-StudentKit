@@ -53,7 +53,7 @@
 </tr>
 <tr class="even">
 <td><p><strong>Saturday/Sunday, 6/7</strong><sup><strong>th</strong></sup> <strong>August</strong></p>
-<p><strong>(Finalized date will be told later.)</strong></p></td>
+<p><strong>(Finalized date will be told later)</strong></p></td>
 <td><p>Inter Batch Informals. Commonly known as ragging in other colleges.</p></td>
 <td><p> TIME-(BAD XD) It's time to meet your seniors.</p>
 <p>8:00 PM – 10:00 PM</p>
