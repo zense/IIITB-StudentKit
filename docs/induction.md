@@ -42,7 +42,7 @@
 <td><p>Excited ! You need to Wait. Timings will be informed on the day of orientation.</p>
 <p>Also the information will be sent on respective <strong>IIITB Mail</strong></p>
 <p>Respective iMTech 2016 Classroom</p></td>
-<td><p>I know it's tough but do get early guys and enjoy the breakfast before going to class. Don't forget to take a notebook atleast along with you XD</td>
+<td><p>We know it's tough but do get early guys and enjoy the breakfast before going to class. Don't forget to take a notebook atleast along with you XD</td>
 </tr>
 <tr class="odd">
 <td><p><strong>Yet to be declared</strong></p></td>
