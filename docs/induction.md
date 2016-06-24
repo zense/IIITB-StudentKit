@@ -52,7 +52,7 @@
 <p>Group 3 -</p>
 <p>Group 4 -</p>
 <p>Faculty Lounge, Academic Block</p></td>
-<td><p> An interactive session with the Director Professor S Sadagopan</p></td>
+<td><p> An interactive session with the Director, Professor S Sadagopan</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Saturday/Sunday, 6/7</strong><sup><strong>th</strong></sup> <strong>August 2016</strong></p>
