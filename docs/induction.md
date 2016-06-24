@@ -125,7 +125,7 @@
 </tr>
 <tr class="even">
 <td><p><strong>Thursday, 15</strong><sup><strong>th</strong></sup> <strong>September 2016</strong></p></td>
-<td><p>Foundation Day</p></td>
+<td><p>Foundation Day Celebrations</p></td>
 <td><p>5:00 PM - 8:00 PM</p>
 <p>Multi Purpose Hall</p></td>
 <td><p>Birthday Celebrations</p></td>
