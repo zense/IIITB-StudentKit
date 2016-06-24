@@ -95,7 +95,7 @@
 </tr>
 <tr class="odd">
 <td><p><strong>Will be informed</strong></p></td>
-<td><p>Introduction to Zense</p></td>
+<td><p>Meeting the Zense Developer Group</p></td>
 <td><p><strong>Good Time for all the coders out there.</strong></p></td>
 <td><p>Get amazed by meeting with the highly skilled members of the Group. You are lucky and we mean it.</p></td>
 </tr>
