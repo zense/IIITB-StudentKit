@@ -63,6 +63,10 @@
         </div>
         <!-- Add Pagination -->
         <div class="swiper-pagination"></div>
+
+        <div class="swiper-button-prev"></div>
+        <div class="swiper-button-next"></div>
+
     </div>
     <br><br><br><br><br><br><br><br>
 
@@ -80,6 +84,10 @@
         </div>
         <!-- Add Pagination -->
         <div class="swiper-pagination"></div>
+
+        <div class="swiper-button-prev"></div>
+        <div class="swiper-button-next"></div>
+
     </div>
     <br><br><br><br><br><br><br><br>
     <center> Films by IIITB Students</center>
@@ -95,6 +103,10 @@
         </div>
         <!-- Add Pagination -->
         <div class="swiper-pagination"></div>
+
+        <div class="swiper-button-prev"></div>
+        <div class="swiper-button-next"></div>
+
     </div>
 
     <br><br>
@@ -110,16 +122,20 @@
         slidesPerView: 2,
         slidesPerColumn: 1,
         paginationClickable: true,
-        spaceBetween: 30
+        spaceBetween: 30,
+        nextButton: '.swiper-button-next',
+        prevButton: '.swiper-button-prev'
     });
     </script>
 
       <script>
         var swiper1 = new Swiper('.s1', {
         pagination: '.swiper-pagination',
-        slidesPerView: 3,
-        slidesPerColumn: 2,
+        slidesPerView: 2,
+        slidesPerColumn: 1,
         paginationClickable: true,
+        nextButton: '.swiper-button-next',
+        prevButton: '.swiper-button-prev',
         spaceBetween: 30
     });
     </script>
@@ -130,6 +146,8 @@
         slidesPerView: 2,
         slidesPerColumn: 1,
         paginationClickable: true,
+        nextButton: '.swiper-button-next',
+        prevButton: '.swiper-button-prev',
         spaceBetween: 30
     });
     </script>
