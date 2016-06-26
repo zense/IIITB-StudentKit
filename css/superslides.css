@@ -1,5 +1,7 @@
 #slides {
   position: relative;
+  height: 5px;
+  width: 10px;
 }
 #slides .slides-container {
   display: none;
