@@ -10,7 +10,7 @@
 
 ### Website and Inputs
   - Aditya Thiruvengadam
-  - <a href="http://infin8.zense.co.in" target="_blank"> Infin8 Fest Committee </a>
+  - <a href="https://www.facebook.com/iiitb.infin8/?ref=aymt_homepage_panel" target="_blank"> Infin8 Fest Committee </a>
   - <a href="http://zense.co.in" target="_blank"> Zense Developers Group </a>
   
 ### Photo Credits
