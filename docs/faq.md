@@ -4,6 +4,8 @@
 
 ***<a href="http://www.iiitb.ac.in/imtech_2015_curriculum_presentation.pdf" target="_blank"> Information about the iMTech course structure and electives </a>***
 
+### <a href="https://www.quora.com/topic/International-Institute-of-Information-Technology-Bangalore-IIIT-B/faq" target="_blank">Important Quora Q/A's</a>
+
 
 ##General FAQ's
 
@@ -338,5 +340,7 @@ available in its vicinity?**
   No, students aren't allowed to bring Electric Kettles, Irons and so
   forth.
   
-###Important Quora Q/A's to look at
+
+
+
 
