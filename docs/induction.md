@@ -49,7 +49,7 @@
 <td><p>Coffee with the Director</p></td>
 <td><p>Timings yet to be announced.
 <p>Faculty Lounge, Academic Block</p></td>
-<td><p>Get ready for a personal interaction and coffee with the Director himself! (More information regarding the same will be provided later). Make your impression count!</p></td>
+<td><p>Get ready for a personal interaction and coffee with the Director himself! (More information regarding the same will be provided later). Make your impression count.</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Saturday/Sunday, 6/7</strong><sup><strong>th</strong></sup> <strong>August</strong></p>
@@ -59,7 +59,7 @@
 <p>8:00 PM – 10:00 PM</p>
 <p>MCR (Main Class Room), Room 106, Academic Block</p></td>
 <td><p> It will be an inter-batch meet that allows you to interact with the students from other batches!</p>
-<p>You will get to meet new people and make new friends! So be there! </p></td>
+<p>You will get to meet new people and make new friends. So be there! </p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Will be informed </strong></p></td>
@@ -76,7 +76,7 @@
 <p>Introduction to Clubs</p></td>
 <td><p>8:00 – 10:00 PM</p>
 <p>Venue will be coordinated by the respective clubs</p></td>
-<td><p>An introduction and opportunity to join, all the clubs existing in our college. You can’t also create your very own club!(The possibilities are endless!</p><p>Dare to dream big and let your talents out !</p></td>
+<td><p>An introduction and opportunity to join, all the clubs existing in our college. You can also create your very own club!(The possibilities are endless!)</p><p>Dare to dream big and let your talents out!</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Monday, August 15</strong><sup><strong>th</strong></sup></p></td>
@@ -105,7 +105,7 @@
 <td><p><strong>Will be announced</strong></p></td>
 <td><p>IIITB Literary Society (8Bit Magazine) Meeting</p></td>
 <td><p><strong>Time will be declared later</strong></p></td>
-<td><p> A meeting with the IIITB Literary Society which is responsible for the conception and running of our magazine. This is the club that makes sure that your creativity has an outlet and an audience.</p><p>So grab the opportunity to let out your inner Tolstoy, Dickens,Wordsworth or even Chetan Bhagat!(Completely Your choice!) </td>
+<td><p> A meeting with the IIITB Literary Society which is responsible for the conception and running of our magazine. This is the club that makes sure that your creativity has an outlet and an audience.</p><p>So grab the opportunity to let out your inner Tolstoy, Dickens,Wordsworth or even Chetan Bhagat!(Completely your choice!) </td>
 </tr>
 <tr class="odd">
 <td><p><strong>Will be informed</strong></p></td>
