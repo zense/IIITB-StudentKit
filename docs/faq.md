@@ -5,7 +5,7 @@
 ***<a href="http://www.iiitb.ac.in/imtech_2015_curriculum_presentation.pdf" target="_blank"> Information about the iMTech course structure and electives </a>***
 
 
-#General FAQ's
+##General FAQ's
 
 1. **I have received admission in IITs. Why should I consider joining
 IIIT Bangalore?**
@@ -136,7 +136,7 @@ IIIT admissions?**
   No, there is no reservation.
  
  
-**Admission FAQ's**
+##Admission FAQ's
 
 1. **What is the cutoff for the first list?**
 
@@ -186,7 +186,7 @@ to some other place that I prefer, will I get any refund ?**
   Networking.
 
 
-**Facilities FAQ's**
+##Facilities FAQ's
 
 1. **What are the nearby Hotels around IIITB?**
 
@@ -337,4 +337,6 @@ available in its vicinity?**
 
   No, students aren't allowed to bring Electric Kettles, Irons and so
   forth.
+  
+###Important Quora Q/A's to look at
 
