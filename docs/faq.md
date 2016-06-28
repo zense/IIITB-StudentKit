@@ -253,7 +253,7 @@ Clubs on campus?**
   and many others.
   
     -   **<a href="http://zense.co.in/" target="_blank"> Zense Developers Group </a>**
-    -   <a href="https://www.facebook.com/iiitb.infin8/?ref=aymt_homepage_panel" target="_blank"> Infin8 Fest Committee </a>
+    -   **<a href="https://www.facebook.com/iiitb.infin8/?ref=aymt_homepage_panel" target="_blank"> Infin8 Fest Committee </a>**
     -   **<a href="https://iiitbmagazine.wordpress.com/" target="_blank"> Literary Society IIITB </a>**
     -   **<a href="https://www.facebook.com/Aikyam-130926363648287/info/?tab=page\_info" target="_blank"> Aikyam - IIITB Social  Work Club </a>**
     -   **<a href="https://www.facebook.com/millionlaugh/" target="_blank"> Comic Club IIITB </a>**
