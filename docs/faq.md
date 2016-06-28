@@ -5,7 +5,7 @@
 ***<a href="http://www.iiitb.ac.in/imtech_2015_curriculum_presentation.pdf" target="_blank"> Information about the iMTech course structure and electives </a>***
 
 
-**<u>General FAQ's</u>**
+#General FAQ's
 
 1. **I have received admission in IITs. Why should I consider joining
 IIIT Bangalore?**
