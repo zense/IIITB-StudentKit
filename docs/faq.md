@@ -1,8 +1,8 @@
-**Ask any more questions from <a href="https://www.facebook.com/groups/391580577698895/" target="_blank"> iMTech Admission Forum 2016 </a>**
+***Ask any more questions from <a href="https://www.facebook.com/groups/391580577698895/" target="_blank"> iMTech Admission Forum 2016 </a>***
 
-**<a href="http://www.iiitb.ac.in/admissions/iiitb_Admission_brochure_2016_v10.pdf" target="_blank"> IIITB Admission Brochure 2016 </a>**
+***<a href="http://www.iiitb.ac.in/admissions/iiitb_Admission_brochure_2016_v10.pdf" target="_blank"> IIITB Admission Brochure 2016 </a>***
 
-**<a href="http://www.iiitb.ac.in/imtech_2015_curriculum_presentation.pdf" target="_blank"> Information about the iMTech course structure and electives </a>**
+***<a href="http://www.iiitb.ac.in/imtech_2015_curriculum_presentation.pdf" target="_blank"> Information about the iMTech course structure and electives </a>***
 
 
 **General FAQ's**
