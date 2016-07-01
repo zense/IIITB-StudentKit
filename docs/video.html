@@ -1,10 +1,18 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
 <head>
-    <meta charset="utf-8">
-    <title>Video Gallery</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
 
+    <meta charset="utf-8">
+    <title>Gallery</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
+    
+    <!--<link rel="stylesheet" href="../css/blueimp-gallery.css">  
+    <link rel="stylesheet" href="../css/blueimp-gallery-indicator.css">
+    <link rel="stylesheet" href="../css/blueimp-gallery-video.css">
+    <link rel="stylesheet" href="../css/demo1.css">-->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7"
+    crossorigin="anonymous">
+    <link rel="stylesheet" href="../css/jBox.css" />
     <!-- Link Swiper's CSS -->
     <link rel="stylesheet" href="../css/swiper.min.css">
 
@@ -17,6 +25,12 @@
         color:#000;
         margin: 0;
         padding: 0;
+    }
+    img{
+    width:25%;
+    margin:0;
+    padding:0;
+    float:left;
     }
     .swiper-container {
         width: 100%;
@@ -42,35 +56,119 @@
         -webkit-align-items: center;
         align-items: center;
     }
+  </style>
+    </head>
+    <body>
+    <center><h1>Gallery</h1></center>
+<!--<p><a href="https://github.com/blueimp/Gallery">blueimp Gallery</a> is a touch-enabled, responsive and customizable image &amp; video gallery, carousel and lightbox, optimized for both mobile and desktop web browsers.<br>
+It features swipe, mouse and keyboard navigation, transition effects, slideshow functionality, fullscreen support and on-demand content loading and can be extended to display additional content types.</p>-->
+<!--<ul class="navigation">
+    <li><a href="https://github.com/blueimp/Gallery/tags">Download</a></li>
+    <li><a href="https://github.com/blueimp/Gallery">Source Code</a></li>
     
+    <li><a href="https://blueimp.net">&copy; Sebastian Tschan</a></li>
+</ul>-->
+<!--<p><a href="https://github.com/blueimp/Gallery">blueimp Gallery</a> is based on <a href="http://swipejs.com/">Swipe</a>.</p>-->
+<br>
+<center><h2>Hostel</h2>
 
+<div class="container">
 
+        <img class="jbox-img" src="../images/hostel/1" alt="Image 1" height="200" width="500"/>
+        <img class="jbox-img" src="../images/hostel/3" alt="Image 3" height="200" width="500"/>
+        <img class="jbox-img" src="../images/hostel/4" alt="Image 4" height="200" width="500"/>
+        <img class="jbox-img" src="../images/hostel/5" alt="Image 5" height="200" width="500"/>
+        <img class="jbox-img" src="../images/hostel/6" alt="Image 6" height="200" width="500"/>
+        <img class="jbox-img" src="../images/hostel/7" alt="Image 7" height="200" width="500"/>
+        <img class="jbox-img" src="../images/hostel/8" alt="Image 8" height="200" width="500"/>
+        <img class="jbox-img" src="../images/hostel/9" alt="Image 9" height="200" width="500"/>
         
-    }
-    </style>
-</head>
-<body>
-<center><h1> Video Gallery </h1></center>
+        
+    </div>
 
-<center>IIITB</center>
-    <!-- Swiper -->
-    <div class="swiper-container s2">
-        <div class="swiper-wrapper">
-           <div class="swiper-slide"><iframe width="500" height="200" src="https://www.youtube.com/embed/BSuepBPG2Yw" frameborder="0" allowfullscreen></iframe></div>
-            <div class="swiper-slide"><iframe width="500" height="200" src="https://www.youtube.com/embed/jecOQQRabqs" frameborder="0" allowfullscreen></iframe></div>
-            
-           
-        </div>
-        <!-- Add Pagination -->
-        <div class="swiper-pagination"></div>
-
-        <div class="swiper-button-prev"></div>
-        <div class="swiper-button-next"></div>
+    <div class="jbox-container">
+        <div class="img-alt-text"></div>
+        <img src="" />
+        <svg version="1.1" class="jbox-prev" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+        viewBox="0 0 306 306" xml:space="preserve">
+            <g>
+                <g id="chevron-right">
+                    <polygon points="211.7,306 247.4,270.3 130.1,153 247.4,35.7 211.7,0 58.7,153" />
+                </g>
+            </g>
+        </svg>
+        <svg version="1.1" class="jbox-next" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+        viewBox="0 0 306 306" xml:space="preserve">
+            <g>
+                <g id="chevron-right">
+                    <polygon points="94.35,0 58.65,35.7 175.95,153 58.65,270.3 94.35,306 247.35,153" />
+                </g>
+            </g>
+        </svg>
+        <svg version="1.1" class="jbox-close" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+       viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
+            <path d="M512,51.75L460.25,0L256,204.25L51.75,0L0,51.75L204.25,256L0,460.25L51.75,512L256,307.75L460.25,512L512,460.25
+    L307.75,256L512,51.75z" />
+        </svg>
 
     </div>
-    <br><br><br><br><br><br><br><br>
 
-<center> Projects by IIITB Students</center>
+<br><br><br><br><br><br><br><br><br>
+<center><h2>Mess</h2>
+     <div class="container">
+
+        <img class="jbox-img" src="../images/img (1).jpg" alt="Image 1" />
+        <img class="jbox-img" src="../images/img (2).jpg" alt="Image 2" />
+        <img class="jbox-img" src="../images/img (3).jpg" alt="Image 3" />
+        <img class="jbox-img" src="../images/img (4).jpg" alt="Image 4" />
+        <img class="jbox-img" src="../images/img (5).jpg" alt="Image 5" />
+        <img class="jbox-img" src="../images/img (6).jpg" alt="Image 6" />
+        <img class="jbox-img" src="../images/img (7).jpg" alt="Image 7" />
+        <img class="jbox-img" src="../images/img (8).jpg" alt="Image 8" />
+        <img class="jbox-img" src="../images/img (9).jpg" alt="Image 9" />
+        <img class="jbox-img" src="../images/img (10).jpg" alt="" />
+        <img class="jbox-img" src="../images/img (11).jpg" alt="" />
+        <img class="jbox-img" src="../images/img (12).jpg" alt="" />
+
+    </div>
+
+    <div class="jbox-container">
+        <div class="img-alt-text"></div>
+        <img src="" />
+        <svg version="1.1" class="jbox-prev" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+        viewBox="0 0 306 306" xml:space="preserve">
+            <g>
+                <g id="chevron-right">
+                    <polygon points="211.7,306 247.4,270.3 130.1,153 247.4,35.7 211.7,0 58.7,153" />
+                </g>
+            </g>
+        </svg>
+        <svg version="1.1" class="jbox-next" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+        viewBox="0 0 306 306" xml:space="preserve">
+            <g>
+                <g id="chevron-right">
+                    <polygon points="94.35,0 58.65,35.7 175.95,153 58.65,270.3 94.35,306 247.35,153" />
+                </g>
+            </g>
+        </svg>
+        <svg version="1.1" class="jbox-close" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+       viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
+            <path d="M512,51.75L460.25,0L256,204.25L51.75,0L0,51.75L204.25,256L0,460.25L51.75,512L256,307.75L460.25,512L512,460.25
+    L307.75,256L512,51.75z" />
+        </svg>
+
+    </div>
+<!-- The Gallery as inline carousel, can be positioned anywhere on the page -->
+<!--<div id="blueimp-image-carousel" class="blueimp-gallery blueimp-gallery-carousel">
+    <div class="slides"></div>
+    <h3 class="title"></h3>
+    <a class="prev">‹</a>
+    <a class="next">›</a>
+    <a class="play-pause"></a>
+</div>-->
+<br>
+
+<h2> Projects by IIITB Students</h2>
     <!-- Swiper -->
     <div class="swiper-container s1">
         <div class="swiper-wrapper">
@@ -90,7 +188,27 @@
 
     </div>
     <br><br><br><br><br><br><br><br>
-    <center> Films by IIITB Students</center>
+<h2>IIITB Campus</h2>
+
+      <!-- Swiper -->
+    <div class="swiper-container s2">
+        <div class="swiper-wrapper">
+           <div class="swiper-slide"><iframe width="500" height="200" src="https://www.youtube.com/embed/BSuepBPG2Yw" frameborder="0" allowfullscreen></iframe></div>
+            <div class="swiper-slide"><iframe width="500" height="200" src="https://www.youtube.com/embed/jecOQQRabqs" frameborder="0" allowfullscreen></iframe></div>
+            
+           
+        </div>
+        <!-- Add Pagination -->
+        <div class="swiper-pagination"></div>
+
+        <div class="swiper-button-prev"></div>
+        <div class="swiper-button-next"></div>
+
+    </div>
+    <br><br><br><br><br><br><br><br>
+
+
+    <h2> Films by IIITB Students</h2>
     <!-- Swiper -->
     <div class="swiper-container">
         <div class="swiper-wrapper">
@@ -110,6 +228,42 @@
     </div>
 
     <br><br>
+<!-- The Gallery as inline carousel, can be positioned anywhere on the page -->
+<!--<div id="blueimp-video-carousel" class="blueimp-gallery blueimp-gallery-controls blueimp-gallery-carousel">
+    <div class="slides"></div>
+    <h3 class="title"></h3>
+    <a class="prev">‹</a>
+    <a class="next">›</a>
+    <a class="play-pause"></a>
+</div>-->
+<!--<h2>Lightbox image gallery</h2>-->
+<!-- The container for the list of example images -->
+<!--<div id="links" class="links"></div>-->
+<!-- The Gallery as lightbox dialog, should be a child element of the document body -->
+<!--<div id="blueimp-gallery" class="blueimp-gallery">
+    <div class="slides"></div>
+    <h3 class="title"></h3>
+    <a class="prev">‹</a>
+    <a class="next">›</a>
+    <a class="close">×</a>
+    <a class="play-pause"></a>
+    <ol class="indicator"></ol>
+</div>-->
+</center>
+<script src="../js/blueimp-helper.js"></script>
+<script src="../js/blueimp-gallery.js"></script>
+<script src="../js/blueimp-gallery-fullscreen.js"></script>
+<script src="../js/blueimp-gallery-indicator.js"></script>
+<script src="../js/blueimp-gallery-video.js"></script>
+<script src="../js/blueimp-gallery-vimeo.js"></script>
+<script src="../js/blueimp-gallery-youtube.js"></script>
+<!--<script src="../js/vendor/jquery.js"></script>-->
+<script src="../js/jquery.blueimp-gallery.js"></script>
+<!--<script src="../js/demo.js"></script>-->
+
+    
+
+    
     
 
     <!-- Swiper JS -->
@@ -131,8 +285,8 @@
       <script>
         var swiper1 = new Swiper('.s1', {
         pagination: '.swiper-pagination',
-        slidesPerView: 2,
-        slidesPerColumn: 1,
+        slidesPerView: 3,
+        slidesPerColumn: 2,
         paginationClickable: true,
         nextButton: '.swiper-button-next',
         prevButton: '.swiper-button-prev',
@@ -151,5 +305,16 @@
         spaceBetween: 30
     });
     </script>
+    <script src="../js/jquery.min.js"></script>
+    <script src="../js/jBox-min.js"></script>
+
+    <script>
+        var gallery = new jBox();
+        var gallery1 = new jBox();
+    </script>
+
 </body>
 </html>
+
+
+

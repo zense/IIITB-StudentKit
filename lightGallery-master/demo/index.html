@@ -1,0 +1,352 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Gallery</title>
+        <link href="../dist/css/lightgallery.css" rel="stylesheet">
+        <!-- Link Swiper's CSS -->
+        <link rel="stylesheet" href="../../css/swiper.min.css">
+
+        
+        <style type="text/css">
+            body{
+                background-color: #91b8d4;
+
+            }
+            .swiper-container {
+              width: 100%;
+              height: auto;
+              margin-left: auto;
+              margin-right: auto;
+            }
+            .swiper-slide {
+              background-size: cover;
+              background-position: center;
+              height: 200px;
+              /* Center slide text vertically */
+              display: -webkit-box;
+              display: -ms-flexbox;
+              display: -webkit-flex;
+              display: flex;
+              -webkit-box-pack: center;
+              -ms-flex-pack: center;
+              -webkit-justify-content: center;
+              justify-content: center;
+              -webkit-box-align: center;
+              -ms-flex-align: center;
+              -webkit-align-items: center;
+              align-items: center;
+            }
+            .demo-gallery > ul {
+              margin-bottom: 0;
+            }
+            .demo-gallery > ul > li {
+                float: left;
+                margin-bottom: 15px;
+                margin-right: 20px;
+                width: 200px;
+            }
+            .demo-gallery > ul > li a {
+              border: 3px solid #FFF;
+              border-radius: 3px;
+              display: block;
+              overflow: hidden;
+              position: relative;
+              float: left;
+            }
+            .demo-gallery > ul > li a > img {
+              -webkit-transition: -webkit-transform 0.15s ease 0s;
+              -moz-transition: -moz-transform 0.15s ease 0s;
+              -o-transition: -o-transform 0.15s ease 0s;
+              transition: transform 0.15s ease 0s;
+              -webkit-transform: scale3d(1, 1, 1);
+              transform: scale3d(1, 1, 1);
+              height: 100%;
+              width: 100%;
+            }
+            .demo-gallery > ul > li a:hover > img {
+              -webkit-transform: scale3d(1.1, 1.1, 1.1);
+              transform: scale3d(1.1, 1.1, 1.1);
+            }
+            .demo-gallery > ul > li a:hover .demo-gallery-poster > img {
+              opacity: 1;
+            }
+            .demo-gallery > ul > li a .demo-gallery-poster {
+              background-color: rgba(0, 0, 0, 0.1);
+              bottom: 0;
+              left: 0;
+              position: absolute;
+              right: 0;
+              top: 0;
+              -webkit-transition: background-color 0.15s ease 0s;
+              -o-transition: background-color 0.15s ease 0s;
+              transition: background-color 0.15s ease 0s;
+            }
+            .demo-gallery > ul > li a .demo-gallery-poster > img {
+              left: 50%;
+              margin-left: -10px;
+              margin-top: -10px;
+              opacity: 0;
+              position: absolute;
+              top: 50%;
+              -webkit-transition: opacity 0.3s ease 0s;
+              -o-transition: opacity 0.3s ease 0s;
+              transition: opacity 0.3s ease 0s;
+            }
+            .demo-gallery > ul > li a:hover .demo-gallery-poster {
+              background-color: rgba(0, 0, 0, 0.5);
+            }
+            .demo-gallery .justified-gallery > a > img {
+              -webkit-transition: -webkit-transform 0.15s ease 0s;
+              -moz-transition: -moz-transform 0.15s ease 0s;
+              -o-transition: -o-transform 0.15s ease 0s;
+              transition: transform 0.15s ease 0s;
+              -webkit-transform: scale3d(1, 1, 1);
+              transform: scale3d(1, 1, 1);
+              height: 100%;
+              width: 100%;
+            }
+            .demo-gallery .justified-gallery > a:hover > img {
+              -webkit-transform: scale3d(1.1, 1.1, 1.1);
+              transform: scale3d(1.1, 1.1, 1.1);
+            }
+            .demo-gallery .justified-gallery > a:hover .demo-gallery-poster > img {
+              opacity: 1;
+            }
+            .demo-gallery .justified-gallery > a .demo-gallery-poster {
+              background-color: rgba(0, 0, 0, 0.1);
+              bottom: 0;
+              left: 0;
+              position: absolute;
+              right: 0;
+              top: 0;
+              -webkit-transition: background-color 0.15s ease 0s;
+              -o-transition: background-color 0.15s ease 0s;
+              transition: background-color 0.15s ease 0s;
+            }
+            .demo-gallery .justified-gallery > a .demo-gallery-poster > img {
+              left: 50%;
+              margin-left: -10px;
+              margin-top: -10px;
+              opacity: 0;
+              position: absolute;
+              top: 50%;
+              -webkit-transition: opacity 0.3s ease 0s;
+              -o-transition: opacity 0.3s ease 0s;
+              transition: opacity 0.3s ease 0s;
+            }
+            .demo-gallery .justified-gallery > a:hover .demo-gallery-poster {
+              background-color: rgba(0, 0, 0, 0.5);
+            }
+            .demo-gallery .video .demo-gallery-poster img {
+              height: 48px;
+              margin-left: -24px;
+              margin-top: -24px;
+              opacity: 0.8;
+              width: 48px;
+            }
+            .demo-gallery.dark > ul > li a {
+              border: 3px solid #04070a;
+            }
+            .home .demo-gallery {
+              padding-bottom: 80px;
+            }
+
+            
+        </style>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    </head>
+    <body class="home">
+      <center><h1>Gallery</h1></center>
+
+      <br>
+<center><h2>Hostel</h2></center>
+
+        <div class="demo-gallery">
+            <ul id="lightgallery" class="list-unstyled row">
+                <li class="col-xs-6 col-sm-4 col-md-3" data-responsive="img/1-375.jpg 375, img/1-480.jpg 480, img/1.jpg 800" data-src="img/1-1600.jpg" data-sub-html="<h4>Fading Light</h4><p>Classic view from Rigwood Jetty on Coniston Water an old archive shot similar to an old post but a little later on.</p>">
+                    <a href="">
+                        <img class="img-responsive" src="../../images/hostel/1" width="500" height="200">
+                    </a>
+                </li>
+                <li class="col-xs-6 col-sm-4 col-md-3" data-responsive="img/13-375.jpg 375, img/13-480.jpg 480, img/13.jpg 800" data-src="img/13-1600.jpg" data-sub-html="<h4>Bowness Bay</h4><p>A beautiful Sunrise this morning taken En-route to Keswick not one as planned but I'm extremely happy I was passing the right place at the right time....</p>">
+                    <a href="">
+                        <img class="img-responsive" src="../../images/hostel/3" width="500" height="200">
+                    </a>
+                </li>
+                <li class="col-xs-6 col-sm-4 col-md-3" data-responsive="img/4-375.jpg 375, img/4-480.jpg 480, img/4.jpg 800" data-src="img/4-1600.jpg" data-sub-html="<h4>Bowness Bay</h4><p>A beautiful Sunrise this morning taken En-route to Keswick not one as planned but I'm extremely happy I was passing the right place at the right time....</p>">
+                    <a href="">
+                        <img class="img-responsive" src="../../images/hostel/4" width="500" height="200">
+                    </a>
+                </li>
+                <li class="col-xs-6 col-sm-4 col-md-3" data-responsive="img/4-375.jpg 375, img/4-480.jpg 480, img/4.jpg 800" data-src="img/4-1600.jpg" data-sub-html="<h4>Bowness Bay</h4><p>A beautiful Sunrise this morning taken En-route to Keswick not one as planned but I'm extremely happy I was passing the right place at the right time....</p>">
+                    <a href="">
+                        <img class="img-responsive" src="../../images/hostel/5" width="500" height="200">
+                    </a>
+                </li>
+                <li class="col-xs-6 col-sm-4 col-md-3" data-responsive="img/4-375.jpg 375, img/4-480.jpg 480, img/4.jpg 800" data-src="img/4-1600.jpg" data-sub-html="<h4>Bowness Bay</h4><p>A beautiful Sunrise this morning taken En-route to Keswick not one as planned but I'm extremely happy I was passing the right place at the right time....</p>">
+                    <a href="">
+                        <img class="img-responsive" src="../../images/hostel/6" width="500" height="200">
+                    </a>
+                </li>
+                <li class="col-xs-6 col-sm-4 col-md-3" data-responsive="img/4-375.jpg 375, img/4-480.jpg 480, img/4.jpg 800" data-src="img/4-1600.jpg" data-sub-html="<h4>Bowness Bay</h4><p>A beautiful Sunrise this morning taken En-route to Keswick not one as planned but I'm extremely happy I was passing the right place at the right time....</p>">
+                    <a href="">
+                        <img class="img-responsive" src="../../images/hostel/7" width="500" height="200">
+                    </a>
+                </li>
+                <li class="col-xs-6 col-sm-4 col-md-3" data-responsive="img/4-375.jpg 375, img/4-480.jpg 480, img/4.jpg 800" data-src="img/4-1600.jpg" data-sub-html="<h4>Bowness Bay</h4><p>A beautiful Sunrise this morning taken En-route to Keswick not one as planned but I'm extremely happy I was passing the right place at the right time....</p>">
+                    <a href="">
+                        <img class="img-responsive" src="../../images/hostel/8" width="500" height="200" >
+                    </a>
+                </li>
+                <li class="col-xs-6 col-sm-4 col-md-3" data-responsive="img/4-375.jpg 375, img/4-480.jpg 480, img/4.jpg 800" data-src="img/4-1600.jpg" data-sub-html="<h4>Bowness Bay</h4><p>A beautiful Sunrise this morning taken En-route to Keswick not one as planned but I'm extremely happy I was passing the right place at the right time....</p>">
+                    <a href="">
+                        <img class="img-responsive" src="../../images/hostel/9" width="500" height="200">
+                    </a>
+                </li>
+                <li class="col-xs-6 col-sm-4 col-md-3" data-responsive="img/4-375.jpg 375, img/4-480.jpg 480, img/4.jpg 800" data-src="img/4-1600.jpg" data-sub-html="<h4>Bowness Bay</h4><p>A beautiful Sunrise this morning taken En-route to Keswick not one as planned but I'm extremely happy I was passing the right place at the right time....</p>">
+                    <a href="">
+                        <img class="img-responsive" src="../../images/hostel/10" width="500" height="200">
+                    </a>
+                </li>
+            </ul>
+        </div>
+
+<br><br><br><br><br><br><br>
+<center><h2> Mess </h2></center>
+        <div class="demo-gallery">
+            <ul id="lightgallery1" class="list-unstyled row">
+              
+                <li class="col-xs-6 col-sm-4 col-md-3" data-responsive="img/4-375.jpg 375, img/4-480.jpg 480, img/4.jpg 800" data-src="img/4-1600.jpg" data-sub-html="<h4>Bowness Bay</h4><p>A beautiful Sunrise this morning taken En-route to Keswick not one as planned but I'm extremely happy I was passing the right place at the right time....</p>">
+                    <a href="">
+                        <img class="img-responsive" src="../../images/mess/1">
+                    </a>
+                </li>
+                <li class="col-xs-6 col-sm-4 col-md-3" data-responsive="img/4-375.jpg 375, img/4-480.jpg 480, img/4.jpg 800" data-src="img/4-1600.jpg" data-sub-html="<h4>Bowness Bay</h4><p>A beautiful Sunrise this morning taken En-route to Keswick not one as planned but I'm extremely happy I was passing the right place at the right time....</p>">
+                    <a href="">
+                        <img class="img-responsive" src="../../images/mess/2">
+                    </a>
+                </li>
+                
+            </ul>
+        </div>
+      <br><br><br><br><br>
+
+<!--<center><h2> Projects by IIITB Students</h2></center>
+    
+    <div class="swiper-container s1">
+        <div class="swiper-wrapper">
+           <div class="swiper-slide"><iframe width="500" height="200" src="https://www.youtube.com/embed/4LSpKgnbP_g" frameborder="0" allowfullscreen></iframe></div>
+            <div class="swiper-slide"><iframe width="500" height="200" src="https://www.youtube.com/embed/X8NqyDUxGmA" frameborder="0" allowfullscreen></iframe></div>
+            <div class="swiper-slide"><iframe width="500" height="200" src="https://www.youtube.com/embed/9_HoCsoJ1SM" frameborder="0" allowfullscreen></iframe></div>
+            <div class="swiper-slide"><iframe width="500" height="200" src="https://www.youtube.com/embed/6WqHpGKiHTk" frameborder="0" allowfullscreen></iframe></div>
+            <div class="swiper-slide"><iframe width="500" height="200" src="https://www.youtube.com/embed/dixnmpcEc6Q" frameborder="0" allowfullscreen></iframe></div>
+            <div class="swiper-slide"><iframe width="500" height="200" src="https://www.youtube.com/embed/r1LiVEY1yDs" frameborder="0" allowfullscreen></iframe></div>
+           
+        </div>
+        
+        <div class="swiper-pagination"></div>
+
+        <div class="swiper-button-prev"></div>
+        <div class="swiper-button-next"></div>
+
+    </div>
+    <br><br><br><br><br><br><br><br>
+<center><h2>IIITB Campus</h2></center>
+
+      
+    <div class="swiper-container s2">
+        <div class="swiper-wrapper">
+           <div class="swiper-slide"><iframe width="500" height="200" src="https://www.youtube.com/embed/BSuepBPG2Yw" frameborder="0" allowfullscreen></iframe></div>
+            <div class="swiper-slide"><iframe width="500" height="200" src="https://www.youtube.com/embed/jecOQQRabqs" frameborder="0" allowfullscreen></iframe></div>
+            
+           
+        </div>
+        
+        <div class="swiper-pagination"></div>
+
+        <div class="swiper-button-prev"></div>
+        <div class="swiper-button-next"></div>
+
+    </div>
+    <br><br><br><br><br><br><br><br>
+
+
+    <center><h2> Films by IIITB Students</h2></center>
+    
+    <div class="swiper-container">
+        <div class="swiper-wrapper">
+           <div class="swiper-slide"><iframe width="500" height="200" src="https://www.youtube.com/embed/gOtgQz1wd-c" frameborder="0" allowfullscreen></iframe></div>
+            <div class="swiper-slide"><iframe width="500" height="200" src="https://www.youtube.com/embed/YT1Ex6hPNlI" frameborder="0" allowfullscreen></iframe></div>
+            <div class="swiper-slide"><iframe width="500" height="200" src="https://www.youtube.com/embed/4Hn6X9kmEFk" frameborder="0" allowfullscreen></iframe></div>
+            <div class="swiper-slide"><iframe width="500" height="200" src="https://www.youtube.com/embed/-hcZyBzVfjw" frameborder="0" allowfullscreen></iframe></div>
+            <div class="swiper-slide"><iframe width="500" height="200" src="https://www.youtube.com/embed/7dzhiuhKbrc" frameborder="0" allowfullscreen></iframe></div>
+           
+        </div>
+        
+        <div class="swiper-pagination"></div>
+
+        <div class="swiper-button-prev"></div>
+        <div class="swiper-button-next"></div>
+
+    </div>-->
+
+    <br><br>
+         
+        <script type="text/javascript">
+        $(document).ready(function(){
+            $('#lightgallery').lightGallery();
+            $('#lightgallery1').lightGallery();
+        });
+        </script>
+        <script src="https://cdn.jsdelivr.net/picturefill/2.3.1/picturefill.min.js"></script>
+        <script src="../dist/js/lightgallery.js"></script>
+        <!--<script src="../dist/js/lg-fullscreen.js"></script>-->
+        <script src="../dist/js/lg-thumbnail.js"></script>
+        <!--<script src="../dist/js/lg-video.js"></script>
+        <script src="../dist/js/lg-autoplay.js"></script>
+        <script src="../dist/js/lg-zoom.js"></script>-->
+        <!--<script src="../dist/js/lg-hash.js"></script>
+        <script src="../dist/js/lg-pager.js"></script>
+        <script src="../lib/jquery.mousewheel.min.js"></script>-->
+
+        <!-- Swiper JS -->
+    <script src="../../js/swiper.min.js"></script>
+
+    <!-- Initialize Swiper -->
+    <!--<script>
+    var swiper = new Swiper('.swiper-container', {
+        pagination: '.swiper-pagination',
+        slidesPerView: 2,
+        slidesPerColumn: 1,
+        paginationClickable: true,
+        spaceBetween: 30,
+        nextButton: '.swiper-button-next',
+        prevButton: '.swiper-button-prev'
+    });
+    </script>
+
+      <script>
+        var swiper1 = new Swiper('.s1', {
+        pagination: '.swiper-pagination',
+        slidesPerView: 3,
+        slidesPerColumn: 2,
+        paginationClickable: true,
+        nextButton: '.swiper-button-next',
+        prevButton: '.swiper-button-prev',
+        spaceBetween: 30
+    });
+    </script>
+
+    <script>
+        var swiper2 = new Swiper('.s2', {
+        pagination: '.swiper-pagination',
+        slidesPerView: 2,
+        slidesPerColumn: 1,
+        paginationClickable: true,
+        nextButton: '.swiper-button-next',
+        prevButton: '.swiper-button-prev',
+        spaceBetween: 30
+    });
+    </script>-->
+    </body>
+</html>
