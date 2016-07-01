@@ -188,6 +188,9 @@ to some other place that I prefer, will I get any refund ?**
   Yes The curriculum is same for the first 2 years. We share the same core
   subjects like Data Structures, Programming,Digital Design and
   Networking.
+  
+9.  ** Is there any additional fee to participate in the further rounds?
+  No, there is no additional fee to pay for participation in the further rounds.
 
 
 ##Facilities FAQ's
