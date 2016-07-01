@@ -189,7 +189,7 @@ to some other place that I prefer, will I get any refund ?**
   subjects like Data Structures, Programming,Digital Design and
   Networking.
   
-9.  ** Is there any additional fee to participate in the further rounds?
+9.  **Is there any additional fee to participate in the further rounds?**
   No, there is no additional fee to pay for participation in the further rounds.
 
 
