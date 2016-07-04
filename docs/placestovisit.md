@@ -133,6 +133,8 @@ get all your answers.
 ST. MARK'S CATHEDRAL
 -------------
 
+![](images/media/image14.jpg)
+
 Founded in 1808 and consecrated in 1816, St. Mark’s Cathedral is located on
 the popular M.G. Road in Bangalore. The cathedral is built in old colonial
 style architecture, with a beautiful dome over a semicircular chancel and Roman
@@ -141,6 +143,8 @@ arches decorating the walls. It was built along the lines of the
 
 BANGALORE PALACE
 -------------
+
+![](images/media/image15.jpg)
 
 Scenic palace which bears striking resemblance to England’s Windsor Castle,
 Bangalore Palace is a scenic tourist hotspot with a majestic castle-like structure
@@ -153,6 +157,8 @@ within the premises so capture some of the greatness in your lens!
 TIPU SULTAN'S PALACE
 -------------
 
+![](images/media/image16.jpg)
+
 The grand summer palace of Tipu Sultan has now been converted into a museum, and
 it is a must-see attraction in Bangalore. Magnificent figures, paintings and other
 artwork adorn this palace. A unique feature of the palace is that it had been 
@@ -160,6 +166,8 @@ constructed using pure teak wood, something that is hard to find in today’s wo
 
 BANGALORE TURF CLUB
 -------------
+
+![](images/media/image17.jpg)
 
 Bangalore Race Course is considered as one of the best and most challenging in the
 country. The race track with its demanding gradients and bends is known to test the
@@ -169,6 +177,8 @@ their steeds to victory on this course.
 MUTHYALA MADUVU
 -------------
 
+![](images/media/image18.jpg)
+
 At a distance of 43 Kms from Bangalore (towards Hosur on NH7, diversion at Chandapura
 after Electronic City via Anekal), Muthyala Maduvu is a small & cute waterfall.
 Also known as Pearl Valley, this is one of the popular Bangalore tourist places to visit
@@ -177,6 +187,8 @@ over around 100 well laid steps from the parking place takes you to the falls.
 
 RANGANATHA SWAMY TEMPLE – MAGADI
 -------------
+
+![](images/media/image19.jpg)
 
 At a distance of 2 km from Magadi Bus station and 44.5 km from Bangalore City Junction,
 The Ranganatha Swamy Temple located in Magadi is an ancient temple and a protected monument.
@@ -192,6 +204,8 @@ Jayachamaraja Wodeyar of Mysore.
 SAVANDURGA HILLS
 -------------
 
+![](images/media/image20.jpg)
+
 At a distance of 48 km from Bangalore City Junction, 31 km from Ramanagara and 13 km from Magadi,
 The Savandurga hill is considered to be among the largest monolith hills in Asia. Savandurga hills
 are located at an altitude of 1226 m above the sea level and are also considered to be a part
@@ -205,6 +219,8 @@ involve the use of good rock climbing equipment.
 
 SHIVAGANGA HILL
 -------------
+
+![](images/media/image21.jpg)
 
 At a distance of 50 Kms from Bangalore (close to NH4 towards Tumkur), Shivaganga Hill lies at an
 altitude of 4599 ft and it is a good short trekking destination near Bangalore and a
@@ -221,6 +237,8 @@ Dobbaspet (before Tumkur) towards left and Shivaganga Hill is about 7 Kms from h
 JANAPADA LOKA / FOLK ART MUSEUM
 -------------
 
+![](images/media/image22.jpg)
+
 At a distance of 52 Kms from Bangalore City Railway Station, the Folk Art Museum or Janapada Loka
 is situated on the Bangalore - Mysore highway near Ramanagaram. This is one of the popular places of i
 nterest in Bangalore. Numerous collections of masks, artifacts, costumes, collection of folk music
@@ -233,6 +251,8 @@ also has an amazing amphitheatre. There is a lake at the rear end of the museum 
 
 BHOGA NANDEESHWARA TEMPLE – NANDI
 -------------
+
+![](images/media/image23.jpg)
 
 At a distance of 54 km from Bangalore City Railway Station, 6.5 km from Chikkaballapur,
 9.5 km from Nandi Hills, Bhoga Nandeeshwara Temple situated in Nandi village is a grand temple
@@ -247,6 +267,8 @@ by Archeology department.
 NANDI HILLS
 -------------
 
+![](images/media/image24.jpg)
+
 At a distance of 60 Kms from Bangalore (situated close to NH207 towards Chik Ballapur), Nandi
 Hills or Nandidurga is a popular tourist place to visit near Bangalore. It is geographically
 located close to Skandagiri. With an altitude of about 1,478 meter, it is one of the best
@@ -257,6 +279,8 @@ the best option.
 
 SKANDAGIRI / KALAVARA DURGA
 -------------
+
+![](images/media/image25.jpg)
 
 At a distance of 61 km from Bangalore City Junction and 5 km from Chikballapur, Skandagiri is
 an ancient mountain fortress lies at an altitude of about 1350 m. It is geographically located clos
@@ -272,6 +296,8 @@ is from May to December.
 MAKALIDURGA
 -------------
 
+![](images/media/image26.jpg)
+
 At a distance of 61 km from Bangalore City Junction, 18 km from Doddaballapura and 6.4 km from Ghati
 Subramanya Temple, Makalidurga is a hill fort situated near the village of Makali in Karnataka.
 This is one of the top things to do in Bangalore. Makalidurga Trek is a moderately difficult trek.
@@ -283,6 +309,8 @@ are the best time to trek in Makalidurga.
 SANGAMA & MEKEDATU
 -------------
 
+![](images/media/image27.jpg)
+
 At a distance of 93 Kms from Bangalore (via Kanakapura), 107 Kms from Mysore, Sangama and Mekedatu
 are two lovely places situated nearby. This is one of the famous weekend getaways from Bangalore.
 Sangama is the place where Arakavathi river merges with River Kaveri. From this point, ab
@@ -293,6 +321,8 @@ to reach Mekedatu.
 
 BHEEMESHWARI
 -------------
+
+![](images/media/image28.jpg)
 
 At a distance of 103 km from Bangalore City Junction and 58 km from Mandya and 84 km from Mysore
 Junction, Bheemeshwari is a small town in Mandya district of Karnataka. It is located between th
@@ -311,6 +341,8 @@ other water birds flock around the area.
 KOTILINGESHWARA
 -------------
 
+![](images/media/image29.jpg)
+
 At a distance of 100 kms from Bangalore, 35 kms from Kolar and 14 kms from Bangarapet,
 Sri Kotilingeshwara Temple is a wonderful temple situated at Kammasandra village between
 Bangarapet and Bethamangala. This is one of the popular pilgrimage sites to visit around Bangalore.
@@ -323,6 +355,8 @@ available from Bangarapet.
 
 SHIVASAMUDRAM FALLS
 -------------
+
+![](images/media/image30.jpg)
 
 Shivasamudram falls is located in Mandya District. It is located at a distance of 27 km
 from Somanathapura and 80 km from Mysore. Shivanasamudra Falls is the second biggest waterfall
