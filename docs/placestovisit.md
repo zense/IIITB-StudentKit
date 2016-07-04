@@ -228,7 +228,7 @@ and videos of folk dances are exhibited in the museum. Spread over 15 acres, the
 museum are kept in three buildings namely Lokamahal, Lokamatha Mandira and Chitrakuteera.
 The other attraction of the museum is a huge elegantly carved temple chariot. The museum 
 also has an amazing amphitheatre. There is a lake at the rear end of the museum with boating facility.
-<br>
+<br><br>
 **Timings:** 10.30 AM to 5 PM.
 
 BHOGA NANDEESHWARA TEMPLE – NANDI
@@ -241,7 +241,7 @@ It is one of the best temples near Bangalore and one of the top Bangalore touris
 The beautiful temple tank situated on northern side of the main shrine is a must visit.
 The tank has large corridors built all around the tank. The temple is currently maintained
 by Archeology department. 
-<br>
+<br><br>
 **Timings:** 8 AM to 6 PM
 
 NANDI HILLS
@@ -318,8 +318,8 @@ The temple attracks large crowd during weekends. It is advised to reach the temp
 the morning (preferably, 8 AM) to avoid the crowd. Mahashivaratri (Feb) is the major festival
 celebrated here which usually attracts around 2 lakh devotees. Public transportation is
 available from Bangarapet.
-<br>
-*Timings:* 6 AM to 6 PM
+<br><br>
+**Timings:** 6 AM to 6 PM
 
 SHIVASAMUDRAM FALLS
 -------------
