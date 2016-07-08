@@ -189,10 +189,13 @@ to some other place that I prefer, will I get any refund ?**
   subjects like Data Structures, Programming,Digital Design and
   Networking.
   
-9.  **Is there any additional fee to submit for participating in further rounds?**
+9.  **I have been offered both CSE and ECE in the offer letter. I selected CSE or ECE respectively in the acceptance mail. Does     it mean i will get CSE or ECE respectively?**
+
+  Yes, you will get what you chose in the acceptance mail to the admin.
+  
+10.  **Is there any additional fee to submit for participating in further rounds?**
 
   No, there is no additional fee to submit to participate in further rounds.
-
   
 
 
