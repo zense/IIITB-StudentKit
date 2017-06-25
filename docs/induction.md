@@ -16,9 +16,9 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><strong>Monday, 1</strong><sup><strong>st</strong></sup> <strong>August</strong></p></td>
-<td><p>Registration</p></td>
-<td><p>8:00 AM – 10:00 AM</p>
+<td><p><strong>Saturday , 31</strong><sup><strong>st</strong></sup> <strong>July</strong></p></td>
+<td><p>Registration and verification of docs</p></td>
+<td><p>9:00 AM – 1:00 PM</p>
 <p>Reception Area, Academic Block</p></td>
 <td><p>Special Day! For the very first time you are going to enter the college as a student.</p></td>
 </tr>
@@ -27,13 +27,12 @@
 <td><p>Orientation</p></td>
 <td><p>10:00 AM – 12:00 PM</p>
 <p>Room 307, Academic Block</p></td>
-<td><p>Get your documents verified with a welcome note from students as well as faculty.</p></td>
+<td><p>Welcome note from faculty and students.</p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>Get to know your iMTech Coordinator!</p></td>
-<td><p>1:00 PM – 2:00 PM</p>
-<p>Room 307, Academic Block</p></td> 
+<td><p>After Lunch</p>
 <td><p>Get all your doubts cleared in this interactive session with iMTech Coordinator about the course and electives.</p></td>
 </tr>
 <tr class="even">
