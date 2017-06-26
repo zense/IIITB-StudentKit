@@ -1,6 +1,6 @@
-***Ask any more questions from <a href="https://www.facebook.com/groups/391580577698895/" target="_blank"> iMTech Admission Forum 2016 </a> (Click on the <a href="https://www.facebook.com/groups/391580577698895/" target="_blank">link</a>)***
+***Ask any more questions from <a href="https://www.facebook.com/groups/391580577698895/" target="_blank"> iMTech Admission Forum 2017 </a> (Click on the <a href="https://www.facebook.com/groups/391580577698895/" target="_blank">link</a>)***
 
-***<a href="http://www.iiitb.ac.in/admissions/iiitb_Admission_brochure_2016_v10.pdf" target="_blank"> IIITB Admission Brochure 2016 </a>(Click on the <a href="http://www.iiitb.ac.in/admissions/iiitb_Admission_brochure_2016_v10.pdf" target="_blank">link</a>)***
+***<a href="http://www.iiitb.ac.in/admissions/iiitb_Admission_brochure_2016_v10.pdf" target="_blank"> IIITB Admission Brochure 2017 </a>(Click on the <a href="http://www.iiitb.ac.in/admissions/iiitb_Admission_brochure_2016_v10.pdf" target="_blank">link</a>)***
 
 ***<a href="http://www.iiitb.ac.in/imtech_2015_curriculum_presentation.pdf" target="_blank"> Information about the iMTech course structure and electives </a>(Click on the <a href="http://www.iiitb.ac.in/imtech_2015_curriculum_presentation.pdf" target="_blank">link</a>)***
 
@@ -14,7 +14,7 @@
 1. **I have received admission in IITs. Why should I consider joining
 IIIT Bangalore?**
 
-  No doubt, IIT's are the top-most institutes in the country and have been 
+  No doubt, IIT's are the top-most institutes in the country and have been
   pioneers in higher education over the last few decades but IIIT Bangalore,
   since its inception, it has been considered one of the top institute for post-
   graduation, rated even above some IIT's
@@ -26,9 +26,9 @@ IIIT Bangalore?**
   decent branch in an old IIT , then by all means go for it. The trouble
   starts when you have a borderline rank. It then comes down
   to you, whether you want the IIT tag or the branch of your choice.
-  
-  We have once proven that IIITB does not lag behind the IIT's. With the 
-  introduction to the iMTech course, we plan to do it again. The students 
+
+  We have once proven that IIITB does not lag behind the IIT's. With the
+  introduction to the iMTech course, we plan to do it again. The students
   here are extremely passionate about their course and many have even preferred
   joining IIITB over the new IIT's. IIT's are considered superior to us and this
   drives us to put in an extra effort to show that we are second to none.
@@ -40,20 +40,20 @@ programme, I finish one year early.**
   a year as opposed to typical BTech + MTech routes (5 yrs V 6 yrs). A seamless
   transition between undergraduate and master's courses allows for exposure
   to greater detail and greater breadth. And if you are keen to gain some specialization
-  in your field by means of a Master's course,then why not choose an option that 
+  in your field by means of a Master's course,then why not choose an option that
   saves you an year?
-  
+
   Also,everything depends on what you expect to achieve in terms of academic competence
   at the end of college. That depends upon how 'effective' a course will be. The iMTech
   course provides an opportunity for industry internship/thesis for the final part of the
-  program - very valuable for work experience and developing research acumen.Also it is 
-  easy to plan a set of courses/electives for forthcoming years because they are 
+  program - very valuable for work experience and developing research acumen.Also it is
+  easy to plan a set of courses/electives for forthcoming years because they are
   being covered in the same institute (the knowledge requirements are better known).
-  Consider finishing a fundamentals course in one institute and opting for the 
+  Consider finishing a fundamentals course in one institute and opting for the
   advanced course in a different one, it is hard to gauge the standards expected.
-  
+
   Weigh 'your' options and plan well!!! That's the only true comparator.
- 
+
 3. **IIIT fee is higher than the fee at IITs or NITs. Why?**
 
   IIIT fees is higher than IITs and NITs since it is only partially funded
@@ -63,7 +63,7 @@ programme, I finish one year early.**
 
   Also, IIITB provides much better facilities compared to most government
   colleges (single rooms, hot water etc).
-  
+
 4. **I am not able to pay the fee. Is any financial assistance
 available?**
 
@@ -77,7 +77,7 @@ available?**
   Need based scholarship covers a larger part of the tuition fee and is
   designed to support those who require financial assistance. Typical
   amount of these scholarships is 20K-60K (per year).
-  
+
 5. **What is the criteria for scholarship at IIITB and what costs does
     it cover?**
 
@@ -89,14 +89,14 @@ available?**
   Need based scholarship covers a larger part of the tuition fee and is
   designed to support those who require financial assistance. Typical
   amount of these scholarships is 20K-60K (per year).
-  
+
 6. **What have been the placements of students from IIITB?**
 
   The first iMTECH batch will pass out in 2017. Although, the placements
   for MTech students have generally been excellent, with a placement
   record of 100% and an average salary of 10-12lpa. For more info, please
   visit this link:
-  
+
   [***http://www.iiitb.ac.in/placements/placements-statistics***](http://www.iiitb.ac.in/placements/placements-statistics)
 
 7. **Does a 5 year course put me at a disadvantage for pursuing M.S
@@ -118,18 +118,18 @@ available?**
 
   The degree give is subject to UGC regulation much like all other five
   year programs in the country (including the five year courses in IITs)
- 
+
 10. **What are opening and closing JEE (Main) Marks in 2015 (branch
 wise)?**
 
-  The cutoffs for 2015 were:
+  The cutoffs for 2016 were:
 
   Branch Opening Closing
 
-  CSE     185     185
+  CSE     242     190
 
-  ECE     200     168
-  
+  ECE     N/A     178
+
 11. **Is there any management quota?**
 
   There is no management quota.
@@ -138,15 +138,15 @@ wise)?**
 IIIT admissions?**
 
   No, there is no reservation.
- 
- 
+
+
 ##Admission FAQ's
 
 1. **What is the cutoff for the first list?**
 
-  The cutoff for the first list was 200. The college accepted roughly 180
+  The cutoff for the first list was 202. The college accepted roughly 232
   students in the first list.
-  
+
 2. **What is the last date to apply for a 100% refund at IIIT
     Bangalore?**
 
@@ -161,11 +161,11 @@ IIIT admissions?**
   offered CSE depending upon the vacancies in the CSE branch. Also,
   Students who have just been offered CSE, can be given an option of
   choosing between CSE and ECE later.
-  
+
 4. **Is branch change allowed?**
 
   No branch change is not allowed after admission.
-  
+
 5. **If I pay the acceptance fees for iMtech at IIITB and later make it
 to some other place that I prefer, will I get any refund ?**
 
@@ -181,22 +181,22 @@ to some other place that I prefer, will I get any refund ?**
   IIITB is a totally ragging free campus. There is a healthy relationship
   between seniors and juniors. Juniors can take help or guidance from
   seniors without any hesitation.
-  
+
 8.  **Is the curriculum for ECE and CSE same for the first 4
     semesters?**
 
   Yes, the curriculum is same for the first 2 years. We share the same core
   subjects like Data Structures, Programming,Digital Design and
   Networking.
-  
+
 9.  **I have been offered both CSE and ECE in the offer letter. I selected CSE or ECE respectively in the acceptance mail. Does     it mean i will get CSE or ECE respectively?**
 
   Yes, you will get what you chose in the acceptance mail to the admin.
-  
+
 10.  **Is there any additional fee to submit for participating in further rounds?**
 
   No, there is no additional fee to submit to participate in further rounds.
-  
+
 
 
 ##Facilities FAQ's
@@ -209,7 +209,7 @@ to some other place that I prefer, will I get any refund ?**
 
   - Makemytrip.com
   - Trivago.com etc.
-  
+
   Also see the **<a href="http://studentkit.zense.co.in/#hotels" target="_blank"> related document </a>** to it in the IIITB Student Kit.
 
 2. **Is there a hostel facility on campus? What about the other
@@ -220,7 +220,7 @@ facilities?**
   compulsory for everyone. Other facilities include a state of the art
   mess, canteen (operational from 6 am to 2 am), Hot water for drinking
   and bathing round the clock, water coolers for drinking water etc.
-  
+
 3. **How many students will share a room?**
 
   Two people will share the room in Men's Hostel for the first two years
@@ -233,36 +233,36 @@ facilities?**
   IIITB believes in the fitness of mind and body. There is a compulsory
   Physical Education course for the first year students during which
   they are exposed to physical exercises and other sports.
-  
-  The seniors are enthusiastic about sports and can be regularly found 
+
+  The seniors are enthusiastic about sports and can be regularly found
   playing outdoor sports. Also, indoor sports such as table-tennis, chess,
   carrom and others can be played in the Multi-Purpose Hall.
-  
+
 5. **Are there any Lawn-Tennis facilities around the campus to join and
     play as an outsider?**
 
   There are multiple lawn tennis academies near the campus, which one can
   join.
-  
+
 6. **How's the internet facility at IIIT Bangalore?**
 
   IIITB offers the best possible internet connectivity to all it's
   students. All students need to register their devices once and then can
   use WiFi or LAN to connect to the internet. The connection speed is good
   enough and allows one to surf the web conveniently.
-  
+
 7. **Is there any robotics group in campus? What are the Extracurricular
 Clubs on campus?**
 
   No currently there is no robotics club in campus.
-  
+
   However, iMTech students have done projects on iRobot as First Semester project.
   Please go to this link to see **<a href="http://studentkit.zense.co.in/docs/video.html" target="_blank">
   Projects @ IIITB </a>.**
-  
+
   Also we have multiple other clubs like the Literary Society, Zense Developers Group , Comic Club
   and many others.
-  
+
     -   **<a href="http://zense.co.in/" target="_blank"> Zense Developers Group </a>**
     -   **<a href="https://www.facebook.com/iiitb.infin8/?ref=aymt_homepage_panel" target="_blank"> Infin8 Fest Committee </a>**
     -   **<a href="https://iiitbmagazine.wordpress.com/" target="_blank"> Literary Society IIITB </a>**
@@ -273,16 +273,16 @@ Clubs on campus?**
     -   ***Chitrachaya - Photography Club IIITB***
     -   ***Maths Club IIITB***
     -   ***Film Society - Movie Club IIITB***
-    
-    
-  
+
+
+
 8. **What are the Fests held in IIITB?**
 
   An annual intracollege sports fest Spandan, is held each year, which
   sees participation from both students and alumni alike.Also, we have a
   student run cultural fest in works (Infin8) which had its trial run last
   year.
-  
+
 9. **Is the transport facility (college bus) available?**
 
   No we do not provide transport facility but IIIT-B campus is very
@@ -297,7 +297,7 @@ available in its vicinity?**
   the city and boasts of having the headquarters of Infosys, Wipro etc
   Hence facilities like reasonable food outlets, hospitals, hotels etc are
   all very easily reachable.
-  
+
 11. **How many months vacation do students generally get?**
 
   We get a weeks vacation as Mid-Semester break and long vacations of
@@ -356,8 +356,3 @@ available in its vicinity?**
 
   No, students aren't allowed to bring Electric Kettles, Irons and so
   forth.
-  
-
-
-
-
