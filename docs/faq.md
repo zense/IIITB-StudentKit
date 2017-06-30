@@ -1,6 +1,6 @@
-***Ask any more questions from <a href="https://www.facebook.com/groups/391580577698895/" target="_blank"> iMTech Admission Forum 2017 </a> (Click on the <a href="https://www.facebook.com/groups/391580577698895/" target="_blank">link</a>)***
+***Ask any more questions from <a href="https://www.facebook.com/groups/391580577698895/" target="_blank"> iMTech Admission Forum 2017 </a> (Click the <a href="https://www.facebook.com/groups/391580577698895/" target="_blank">link</a>)***
 
-***<a href="http://www.iiitb.ac.in/admissions/iiitb_Admission_brochure_2016_v10.pdf" target="_blank"> IIITB Admission Brochure 2017 </a>(Click on the <a href="http://www.iiitb.ac.in/admissions/iiitb_Admission_brochure_2016_v10.pdf" target="_blank">link</a>)***
+***<a href="http://www.iiitb.ac.in/admissions/iiitb_Admission_brochure_2016_v10.pdf" target="_blank"> IIITB Admission Brochure 2017 </a>(Click the <a href="http://www.iiitb.ac.in/admissions/iiitb_Admission_brochure_2016_v10.pdf" target="_blank">link</a>)***
 
 ***<a href="http://www.iiitb.ac.in/imtech_2015_curriculum_presentation.pdf" target="_blank"> Information about the iMTech course structure and electives </a>(Click on the <a href="http://www.iiitb.ac.in/imtech_2015_curriculum_presentation.pdf" target="_blank">link</a>)***
 
@@ -125,11 +125,12 @@ wise)?**
 
   The cutoffs for 2016 were:
 
-  Branch    Opening    Closing
+| Branch | Opening  | Closing  |
+| :---:   | :-: | :-: |
+| CSE | 242 | 190 |
+| :---:   | :-: | :-: |
+| ECE | N/A | 179 |
 
-  CSE         242       190
-
-  ECE         N/A       179
 
 11. **Is there any management quota?**
 
@@ -237,8 +238,8 @@ facilities?**
   they are exposed to physical exercises and other sports.
 
   The seniors are enthusiastic about sports and can be regularly found
-  playing outdoor sports. Also, indoor sports such as table-tennis, chess,
-  carrom and others can be played in the Multi-Purpose Hall.
+  playing outdoor sports. Also, indoor sports such as Table-tennis, Chess,
+  Carroms and others can be played in the Multi-Purpose Hall.
 
 5. **Are there any Lawn-Tennis facilities around the campus to join and
     play as an outsider?**
@@ -276,7 +277,6 @@ Clubs on campus?**
     -   **<a href="https://www.facebook.com/groups/1786495348263059/" target="_blank"> Screening Committee - Movie Club IIITB </a>**
     -   ***Chaayachitra - Photography Club IIITB***
     -   ***Maths Club IIITB***
-   
 <br>
 8. **What are the Fests held in IIITB?**
 
@@ -294,7 +294,7 @@ Clubs on campus?**
 10. **Where is IIIT-B located in Bangalore? What facilities are
 available in its vicinity?**
 
-  IIITB is located in Electronic City Phase 1, which is the IT hub of
+  IIITB is located in Electronic City Phase - I, which is the IT hub of
   the city and boasts of having the headquarters of Infosys, Wipro etc.
   Hence facilities like reasonable food outlets, hospitals, hotels etc are
   all very easily reachable.
@@ -302,7 +302,7 @@ available in its vicinity?**
 11. **How many months vacation do students generally get?**
 
   We get a week's vacation as Mid-Semester break and long vacations of
-  around 20 days in December and summer vacations of roughly 3 months- may
+  around 20 days in December and summer vacations of roughly 3 months- May
   2nd week till the end of July.
 
   Although, Spandan (Annual intra sports fest) is held during the seven
