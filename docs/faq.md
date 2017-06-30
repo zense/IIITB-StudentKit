@@ -2,9 +2,9 @@
 
 ***<a href="http://www.iiitb.ac.in/admissions/iiitb_Admission_brochure_2016_v10.pdf" target="_blank"> IIITB Admission Brochure 2017 </a>(Click the <a href="http://www.iiitb.ac.in/admissions/iiitb_Admission_brochure_2016_v10.pdf" target="_blank">link</a>)***
 
-***<a href="http://www.iiitb.ac.in/imtech_2015_curriculum_presentation.pdf" target="_blank"> Information about the iMTech course structure and electives </a>(Click on the <a href="http://www.iiitb.ac.in/imtech_2015_curriculum_presentation.pdf" target="_blank">link</a>)***
+***<a href="http://www.iiitb.ac.in/imtech_2015_curriculum_presentation.pdf" target="_blank"> Information about the iMTech course structure and electives </a>(Click the <a href="http://www.iiitb.ac.in/imtech_2015_curriculum_presentation.pdf" target="_blank">link</a>)***
 
-### <a href="https://www.quora.com/topic/International-Institute-of-Information-Technology-Bangalore-IIIT-B/faq" target="_blank">Important Quora Q/As</a> (Click on the <a href="https://www.quora.com/topic/International-Institute-of-Information-Technology-Bangalore-IIIT-B/faq" target="_blank">link</a>)
+### <a href="https://www.quora.com/topic/International-Institute-of-Information-Technology-Bangalore-IIIT-B/faq" target="_blank">Important Quora Q/As</a> (Click the <a href="https://www.quora.com/topic/International-Institute-of-Information-Technology-Bangalore-IIIT-B/faq" target="_blank">link</a>)
 
 ---
 
@@ -259,7 +259,7 @@ Clubs on campus?**
 
   Yes, the robotics club (Enigma) was recently formed in 2016 and has been very active since then.
 
-  iMTech students have done projects on iRobot as First Semester project.
+  iMTech students have done projects on iRobot.
   Please go to this link to see **<a href="http://studentkit.zense.co.in/docs/video.html" target="_blank">
   Projects @ IIITB </a>.**
 
