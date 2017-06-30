@@ -136,8 +136,8 @@ wise)?**
 
   No, there is no management quota.
 
-12. **Is there any SC/ST/BC, women, physically challenged etc. quota for
-IIIT admissions?**
+12. **Are there any SC/ST/BC, one girl child, physically challenged etc. quotas for
+admissions in IIITB?**
 
   No, there is no reservation.
 
@@ -238,7 +238,7 @@ facilities?**
   they are exposed to physical exercises and other sports.
 
   The seniors are enthusiastic about sports and can be regularly found
-  playing outdoor sports. Also, indoor sports such as Table-tennis, Chess,
+  playing outdoor sports like Football, Basketball, Badminton etc. Also, indoor sports such as Table-tennis, Chess,
   Carroms and others can be played in the Multi-Purpose Hall.
 
 5. **Are there any Lawn-Tennis facilities around the campus to join and
@@ -277,6 +277,7 @@ Clubs on campus?**
     -   **<a href="https://www.facebook.com/groups/1786495348263059/" target="_blank"> Screening Committee - Movie Club IIITB </a>**
     -   ***Chaayachitra - Photography Club IIITB***
     -   ***Maths Club IIITB***
+    
 <br>
 8. **What are the Fests held in IIITB?**
 
