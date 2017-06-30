@@ -118,22 +118,22 @@ available?**
 9. **Which degree will I be rewarded on graduation?**
 
   The degree give is subject to UGC regulation much like all other five
-  year programs in the country (including the five year courses in IITs)
+  year programs in the country (including the five year courses in IITs).
 
 10. **What are opening and closing JEE (Main) Marks in 2015 (branch
 wise)?**
 
   The cutoffs for 2016 were:
 
-  Branch Opening Closing
+  Branch    Opening    Closing
 
-  CSE     242     190
+  CSE         242       190
 
-  ECE     N/A     179
+  ECE         N/A       179
 
 11. **Is there any management quota?**
 
-  There is no management quota.
+  No, there is no management quota.
 
 12. **Is there any SC/ST/BC, women, physically challenged etc. quota for
 IIIT admissions?**
@@ -151,7 +151,7 @@ IIIT admissions?**
 2. **What is the last date to apply for a 100% refund at IIIT
     Bangalore?**
 
-  Please call the administration for the above information.The office
+  Please call the administration for the above information. The office
   hours are 10 AM to 5 PM with a lunch break in between from 12:30 - 2 PM (on
   weekdays).
 
@@ -277,7 +277,7 @@ Clubs on campus?**
     -   ***Chaayachitra - Photography Club IIITB***
     -   ***Maths Club IIITB***
    
-
+<br>
 8. **What are the Fests held in IIITB?**
 
   An annual intracollege sports fest Spandan, is held each year, which
