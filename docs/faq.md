@@ -125,7 +125,7 @@ wise)?**
 
   The cutoffs for 2016 were:
 
-| Branch | Opening  | Closing  |
+|  Branch  |   Opening    |   Closing    |
 | ---   | --- | --- |
 | CSE | 242 | 190 |
 | ECE | N/A | 179 |
