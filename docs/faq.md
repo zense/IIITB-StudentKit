@@ -125,11 +125,11 @@ wise)?**
 
   The cutoffs for 2016 were:
 
-| Branch | Opening  | Closing  |
-| :---:   | :-: | :-: |
-| CSE | 242 | 190 |
-| :---:   | :-: | :-: |
-| ECE | N/A | 179 |
+  Branch    Opening    Closing
+
+  CSE         242       190
+
+  ECE         N/A       179
 
 
 11. **Is there any management quota?**
@@ -171,7 +171,7 @@ IIIT admissions?**
 5. **If I pay the acceptance fees for iMtech at IIITB and later make it
 to some other place that I prefer, will I get any refund?**
 
-  Yes, Your acceptance fees will be refunded.
+  Yes, your acceptance fees will be refunded.
 
 6. **How much of the fees need to pay to just book the seat?**
 
