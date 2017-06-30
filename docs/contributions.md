@@ -15,6 +15,6 @@
   
 ### Photo Credits
   - Bhargav Sridhar
-
+  - Tejas Kotha
 
 ***Your name could be here next year....so come quick :P***
