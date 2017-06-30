@@ -7,6 +7,10 @@
   - Anshuk Uppal
   - Prachi Dhamange
   - Vaibhav Aggarwal
+  - Satvik Ramaprasad
+  - Vibhav Agarwal
+  - Vishesh Ruparelia
+  - Atibhi Agrawal
 
 ### Website and Inputs
   - Aditya Thiruvengadam
@@ -15,6 +19,9 @@
   
 ### Photo Credits
   - Bhargav Sridhar
+  - Tejas Kotha
+  - Atibhi Agrawal
+  - Vibhav Agarwal
 
 
 ***Your name could be here next year....so come quick :P***
