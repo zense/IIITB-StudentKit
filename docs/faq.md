@@ -92,7 +92,7 @@ available?**
 
 6. **What have been the placements of students from IIITB?**
 
-  The first iMTECH batch has passed out this year and the placement statistics
+  The first iMTech batch has passed out this year and the placement statistics
   were pretty much better than expected, thanks to the excellent placement committee. 
   Although, the placements for MTech students have generally been excellent, with 
   a placement record of 100% and an average salary of 10-12 lpa. For more info, please
@@ -125,11 +125,10 @@ wise)?**
 
   The cutoffs for 2016 were:
 
-  Branch    Opening    Closing
-
-  CSE         242       190
-
-  ECE         N/A       179
+| Branch | Opening  | Closing  |
+| ---   | --- | --- |
+| CSE | 242 | 190 |
+| ECE | N/A | 179 |
 
 
 11. **Is there any management quota?**
