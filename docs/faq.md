@@ -277,11 +277,10 @@ Clubs on campus?**
     -   ***Chaayachitra - Photography Club IIITB***
     -   ***Maths Club IIITB***
     
-<br>
 8. **What are the Fests held in IIITB?**
 
   An annual intracollege sports fest Spandan, is held each year, which
-  sees participation from both students and alumni alike. Also, we have a
+  sees participation from both students and alumni alike. Also, we have a 
   student run cultural fest (Infin8) which is being conducted since the last two years.
 
 9. **Is the transport facility (college bus) available?**
@@ -294,9 +293,9 @@ Clubs on campus?**
 10. **Where is IIIT-B located in Bangalore? What facilities are
 available in its vicinity?**
 
-  IIITB is located in Electronic City Phase - I, which is the IT hub of
+  IIITB is located in Electronic City Phase - 1, which is the IT hub of
   the city and boasts of having the headquarters of Infosys, Wipro etc.
-  Hence facilities like reasonable food outlets, hospitals, hotels etc are
+  Hence facilities like reasonable food outlets, hospitals, hotels etc. are
   all very easily reachable.
 
 11. **How many months vacation do students generally get?**
@@ -305,14 +304,14 @@ available in its vicinity?**
   around 20 days in December and summer vacations of roughly 3 months- May
   2nd week till the end of July.
 
-  Although, Spandan (Annual intra sports fest) is held during the seven
+  Although, Spandan (Annual intracollege sports fest) is held during the seven
   days holiday in March.
 
 12. **Are there any arrangements for Non-Vegetarian students in the
     mess?**
 
-  The mess serves boiled eggs for breakfast on specific days(Sunday and
-  Wednesday) as the only Non-Vegetarian item on the menu. Although, there
+  The mess serves boiled eggs for breakfast on specific days(Sundays and
+  Wednesdays) as the only Non-Vegetarian item on the menu. Although, there
   are many restaurants around the college (within 500m radius) which serve
   Non-Vegetarian food.
 
