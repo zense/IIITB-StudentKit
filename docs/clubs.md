@@ -20,6 +20,7 @@ We organise musical nights, where everyone who's part of the club (and others if
 Being a part of the club is a wonderful opportunity to meet people equally passionate as you, people with varied tastes in music and people who might give you a new perspective in the way you look at music. Those late night jamming sessions and musical nights will be totally worth the time you invest.
 
 ## Comic Club
+
 People of the world unite! Gather around and share creativity! There's no better way to spend your time than with your favorite TV, movie and manga characters! And hence, The Comic Club was formed. Since our inception, we have made some fantastic comic strips which have been published in 8bit, organized Graffiti walls every now and then so that students can showcase their talent on an open platform. We have been conducting League of Fanatics in the infin8 which is considered as one of the most anticipated events at IIITB. Not to forget those nights when we sat down for hours discussing anime, mangas, movies etc. So, if you also share the same interests then...
 Hop in, unleash your creativity and let's have a great time together...
 
