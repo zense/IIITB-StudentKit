@@ -1,8 +1,8 @@
 ***Ask any more questions from <a href="https://www.facebook.com/groups/391580577698895/" target="_blank"> iMTech Admission Forum 2017 </a> (Click the <a href="https://www.facebook.com/groups/391580577698895/" target="_blank">link</a>)***
 
 ***<a href="http://www.iiitb.ac.in/admissions/iiitb_Admission_brochure_2016_v10.pdf" target="_blank"> IIITB Admission Brochure 2017 </a>(Click the <a href="http://www.iiitb.ac.in/admissions/iiitb_Admission_brochure_2016_v10.pdf" target="_blank">link</a>)***
-
-***<a href="http://www.iiitb.ac.in/imtech_2015_curriculum_presentation.pdf" target="_blank"> Information about the iMTech course structure and electives </a>(Click the <a href="http://www.iiitb.ac.in/imtech_2015_curriculum_presentation.pdf" target="_blank">link</a>)***
+***<a href="/IIITB-StudentKit/docs/iMTech_manual_v2_1.pdf" target="_blank" download>
+ Information about the iMTech course structure and electives </a>(Click the <a href="/IIITB-StudentKit/docs/iMTech_manual_v2_1.pdf" target="_blank" download>link</a>)***
 
 ### <a href="https://www.quora.com/topic/International-Institute-of-Information-Technology-Bangalore-IIIT-B/faq" target="_blank">Important Quora Q/As</a> (Click the <a href="https://www.quora.com/topic/International-Institute-of-Information-Technology-Bangalore-IIIT-B/faq" target="_blank">link</a>)
 
@@ -54,15 +54,19 @@ programme, I finish one year early.**
 
   Weigh 'your' options and plan well!!! That's the only true comparator.
 
-3. **IIIT fee is higher than the fee at IITs or NITs. Why?**
+3. **What have been the placements of students from IIITB?**
 
-  IIIT fees is higher than IITs and NITs since it is only partially funded
-  by the government (PPP model) unlike the latter institutes, thus, it has
-  to manage its own expenses. Also, with the current increment in the fees
-  of IITs, their fees is nearly the same as that of IIITB.
+    The first iMTech batch has passed out this year and the placement statistics
+    were pretty much better than expected, thanks to the excellent placement committee.
+    The packages for the first iMTech batch were:
+    **Max package : 27 lpa (Amazon)**
+    **Average package : 12 lpa**
+    **Min package : 7 lpa**
+    Considering the fact that it was the first ever iMTech batch, the placements are too good and will be better in the upcoming years.   
+    For more info, please
+    visit this link:
 
-  Also, IIITB provides much better facilities compared to most government
-  colleges (single rooms, hot water etc.).
+    [***https://www.iiitb.ac.in/aboutus.php?pid=Annual-Reports***](https://www.iiitb.ac.in/aboutus.php?pid=Annual-Reports)
 
 4. **I am not able to pay the fee. Is any financial assistance
 available?**
@@ -90,15 +94,15 @@ available?**
   designed to support those who require financial assistance. Typical
   amount of these scholarships is 20K-60K (per year).
 
-6. **What have been the placements of students from IIITB?**
+6. **IIIT fee is higher than the fee at IITs or NITs. Why?**
 
-  The first iMTech batch has passed out this year and the placement statistics
-  were pretty much better than expected, thanks to the excellent placement committee.
-  Although, the placements for MTech students have generally been excellent, with
-  a placement record of 100% and an average salary of 10-12 lpa. For more info, please
-  visit this link:
+    IIIT fees is higher than IITs and NITs since it is only partially funded
+    by the government (PPP model) unlike the latter institutes, thus, it has
+    to manage its own expenses. Also, with the current increment in the fees
+    of IITs, their fees is nearly the same as that of IIITB.
 
-  [***https://www.iiitb.ac.in/aboutus.php?pid=Annual-Reports***](https://www.iiitb.ac.in/aboutus.php?pid=Annual-Reports)
+    Also, IIITB provides much better facilities compared to most government
+    colleges (single rooms, hot water etc.).
 
 7. **Does a 5 year course put me at a disadvantage for pursuing M.S.
     from foreign Universities?**
@@ -125,10 +129,10 @@ wise)?**
 
   The cutoffs for 2016 were:
 
-|  Branch  |   Opening    |   Closing    |
-| ---   | --- | --- |
-| CSE | 242 | 190 |
-| ECE | N/A | 179 |
+  |  Branch  |   Opening    |   Closing    |
+  | ---   | --- | --- |
+  | CSE | 242 | 190 |
+  | ECE | N/A | 179 |
 
 
 11. **Is there any management quota?**
