@@ -23,9 +23,9 @@ Being a part of the club is a wonderful opportunity to meet people equally passi
 People of the world unite! Gather around and share creativity! There's no better way to spend your time than with your favorite TV, movie and manga characters! And hence, The Comic Club was formed. Since our inception, we have made some fantastic comic strips which have been published in 8bit, organized Graffiti walls every now and then so that students can showcase their talent on an open platform. We have been conducting League of Fanatics in the infin8 which is considered as one of the most anticipated events at IIITB. Not to forget those nights when we sat down for hours discussing anime, mangas, movies etc. So, if you also share the same interests then...
 Hop in, unleash your creativity and let's have a great time together...
 
-## CITE
+## Cite.
 
-CITE (Previously ISoClub) - Curating Ideas, Technology & Entertainment
+Cite. (Previously ISoClub) - Curating Ideas, Technology & Entertainment
 The club took its present form this April with an aim to make the campus, a stage for active participation and a hotbed of innovative ideas, as well as a platform for discussing the existing ones, old and up and coming through meetings, discussions, presentations and debates on a regular basis. And do not discount on the fun part, our little chats on Sci-Fi movies, music trends, anime etc. will surely act as a stressbuster. Make way for all kinds of discussions, even the crude ones. It will make way for sophisticated ones….
 REMEMBER: It never starts with a sophisticated one!!!
 
