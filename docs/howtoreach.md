@@ -1,3 +1,4 @@
+
 ***Destination to be reached***
 
 **International Institute of Information Technology Bangalore**  
@@ -6,9 +7,10 @@
 *Opposite Infosys Gate 2*  
 *Bangalore – 560100*  
 
+
 **Please see the below links for detailed information and video directions**
 
-- <a href="http://www.iiitb.ac.in/contact-us/how-to-reach" target="_blank"> How To Reach - Official Page </a> 
+- <a href="https://www.google.co.in/maps/place/International+Institute+of+Information+Technology+Bangalore+(IIITB)/@12.8447564,77.661043,17z/data=!3m1!4b1!4m12!1m6!3m5!1s0x3bae135aeb7f340f:0x3ad86af40d2ac611!2sInternational+Institute+of+Information+Technology+Bangalore+(IIITB)!8m2!3d12.8447512!4d77.6632317!3m4!1s0x3bae135aeb7f340f:0x3ad86af40d2ac611!8m2!3d12.8447512!4d77.6632317" target="_blank"> Google Maps Link </a> 
 - <a href="http://vidteq.com/embed3.php?urlid=iiit&"> Detailed Video Directions to IIITB </a> 
 
 
