@@ -83,4 +83,4 @@ The best part about 8Bit is that, that it is not limited to a specific type of c
 Here at 8Bit, the bonds are formed over lively discussion sessions and late night editing and designing marathons.
 So join us for a different take in an IT college, to give you a break and let you explore your lesser known interests.
 
-Follow us on <a href="https://www.facebook.com/8-Bit-IIIT-Bangalore-698803226888411/" target="_blank">Facebook</a>.
+Find us on <a href="https://www.facebook.com/8-Bit-IIIT-Bangalore-698803226888411/" target="_blank">Facebook</a>.
