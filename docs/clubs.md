@@ -23,7 +23,7 @@ Find us on <a href="https://www.facebook.com/iiitbmusicon/">Facebook</a>.
 
 ## Comic Club
 
-People of the world unite! Gather around and share creativity! The Comic Club is a bunch of geeks who love TV shows, movies, anime or any other creative medium for that matter. Our love exists beyond that of simply consuming the media and since our inception we have made some fantastic comic strips which have been published in 8bit, our college magazine and organised Graffiti walls every now and then so that students can showcase their talent on an open platform. We have also been conducting League of Fanatics in our college fest, infin8 which is considered as one of the most anticipated events at IIITB. Not to forget those nights when we sat down for hours discussing anime, mangas, movies etc!
+People of the world unite! Gather around and share creativity! The Comic Club is a bunch of geeks who love TV shows, movies, anime or any other creative medium for that matter. Our love exists beyond that of simply consuming the media and since our inception we have made some fantastic comic strips which have been published in 8bit, our college magazine and organised Graffiti walls every now and then so that students can showcase their talent on an open platform. We have also been conducting League of Fanatics in our college fest, infin8 which is considered as one of the most anticipated events at IIITB. Not to forget those nights when we sat down for hours discussing anime, mangas, movies etc.
 
 So, if you also share the same interests then...
 
