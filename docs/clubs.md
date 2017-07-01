@@ -84,3 +84,14 @@ Here at 8Bit, the bonds are formed over lively discussion sessions and late nigh
 So join us for a different take in an IT college, to give you a break and let you explore your lesser known interests.
 
 Find us on <a href="https://www.facebook.com/8-Bit-IIIT-Bangalore-698803226888411/" target="_blank">Facebook</a>.
+
+## Movie Club
+
+IIITB's Movie Club consists of huge community of movie lovers in the campus who discuss the latest cine world buzz in an active Facebook group. Movies connect us. The sole purpose of the club is to develop acute movie watching skills to nurture depth in film viewing and appreciation. The collective movie watching experience with best friends is fun at another level needless to say. Being movie enthusiasts, we know that feeling, hence, we organise bi-monthly movie screenings of popular movies for everyone in the campus to make memorable moments which will be cherished lifelong.
+
+## Placement Committee
+
+Placement Committe (Final year students) in IIITB is an interface between students and the numerous companies that visit our campus. We help student prepare for placements as well as organise company drives on campus. Being a part of Placement Committee gives us an opportunity to interact with each and every member of our batch, and after the placements of each and everyone, the feeling of joy and satisfaction we get is just out of the world. We work closely with the administration and faculty members of the Placement Cell which in itself gives us an immense amount of exposure compared to others.
+
+
+
