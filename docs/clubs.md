@@ -32,7 +32,7 @@ REMEMBER: It never starts with a sophisticated one!!!
 
 ## Enigma (Robotics Club)
 
-Enigma was founded last year. The club is mentored by senior faculty of the college. Here we hold workshops on various boards and technologies and work on exciting projects together. The objective of this club is to kickstart a robotics culture .Two dream projects have been planned. Solar Automatic Tiller and Fire-Fighting assisting drone. These projects are funded and mentored by the college. The work will begin this academic year.
+Enigma, the robotics club, was founded last year. The club is mentored by senior faculty of the college. Here we hold workshops on various technologies like different microprocessors and work on exciting projects like maze solver and line follower together. The objective of this club is to develop awareness and interest in robotics and AI. Members are working on two long term projects- solar automated tiller and fire fighting assisting drone. These projects are funded and mentored by the college.
 
 ## Zense
 
