@@ -23,5 +23,4 @@
   - Atibhi Agrawal
   - Vibhav Agarwal
 
-
 ***Your name could be here next year....so come quick :P***
