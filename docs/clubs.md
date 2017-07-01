@@ -21,13 +21,13 @@ Being a part of the club is a wonderful opportunity to meet people equally passi
 
 ## Comic Club
 
-People of the world unite! Gather around and share creativity! There's no better way to spend your time than with your favorite TV, movie and manga characters! And hence, The Comic Club was formed. Since our inception, we have made some fantastic comic strips which have been published in 8bit, organized Graffiti walls every now and then so that students can showcase their talent on an open platform. We have been conducting League of Fanatics in the infin8 which is considered as one of the most anticipated events at IIITB. Not to forget those nights when we sat down for hours discussing anime, mangas, movies etc. So, if you also share the same interests then...
-Hop in, unleash your creativity and let's have a great time together...
+People of the world unite! Gather around and share creativity! The Comic Club is a bunch of geeks who love TV shows, movies, anime or any other creative medium. Our love exists beyond that of simply consuming the media and since our inception we have made some fantastic comic strips which have been published in 8bit, our college magazine and organised Graffiti walls every now and then so that students can showcase their talent on an open platform. We have also been conducting League of Fanatics in our college fest, infin8 which is considered as one of the most anticipated events at IIITB. Not to forget those nights when we sat down for hours discussing anime, mangas, movies etc! So, if you also share the same interests then...
+Hop in, Let's have a great time together!
 
 ## Cite.
 
-Cite. (Previously ISoClub) - Curating Ideas, Technology & Entertainment
-The club took its present form this April with an aim to make the campus, a stage for active participation and a hotbed of innovative ideas, as well as a platform for discussing the existing ones, old and up and coming through meetings, discussions, presentations and debates on a regular basis. And do not discount on the fun part, our little chats on Sci-Fi movies, music trends, anime etc. will surely act as a stressbuster. Make way for all kinds of discussions, even the crude ones. It will make way for sophisticated ones….
+Cite. (Previously ISoClub) - Curating Ideas, Technology & Entertainment.
+The club took its present form this April with an aim to make the campus, a stage for active participation and a hotbed of innovative ideas, as well as a platform for discussing the existing ones, old and up and coming through meetings, discussions, presentations and debates on a regular basis. And do not discount on the fun part, our little chats on Sci-Fi movies, music trends, anime etc. will surely act as a stressbuster. Make way for all kinds of discussions, even the crude ones. It will make way for sophisticated ones…
 REMEMBER: It never starts with a sophisticated one!!!
 
 ## Enigma (Robotics Club)
@@ -42,25 +42,18 @@ Zense is all about product development. We keep in touch with the bleeding edge 
 
 This club is all about competitive programming! The sharpest of minds work here. Competitive programming involves application of algorithms and data-structures to solve complex problems within the time and memory constraints .The club was formed only last year and is lead by ACM-ICPC world finalists. The club activities involve group discussions, problem solving and competitions.  
 
-Our moto: To produce world finalists every year!
+Our motto: To produce world finalists every year!
 
 ## Aikyam
 
-Aikyam is the social wing of IIITB that was started in 2008 by the students of IIITB. It is an initiative taken to help the poor and the needy.
+Aikyam is the social wing of IIITB that was started in 2008 by the students of IIITB. It is an initiative taken to help the poor and the needy and understand our social responsibility.
+ 
+What we do as part of Aikyam is, plan ‘Aikyam Trips’ to visit orphanages occasionally and spend our day with the children there. We usually collect funds from the students in college before any trip. We buy the necessary items for the children there and also give the funds collected to the orphanage. We generally visit the ‘Desire Society’ - which is a home for HIV affected kids (aged between 3-15) and ‘Swanthana’ - which is a home for mentally and physically challenged girls. Apart from this, frequently we collect articles like clothes, food and books from the students and donate them to the needy. For example, last year on Eid, we collected these articles and donated them to the Goonj society. Also, we conduct activities in college to spread social awareness among the students. For example, we started two initiatives last year - The Little Things and The Tiny Tales. The Little Things is an initiative where the students make a short video to convey their concern to protect the environment or to support a social cause. The Tiny Tales is another such event where the students write a line or two on what they think they can do for the society. And we organise events to raise funds for donation. One such event is putting up a lemonade stall or pani puri stall during the college fest. We also help in organising blood donation camps at our college.
+ 
+Why we do all this is, we believe that ‘Unity is the secret of social progress, and service to society is the means to promote it’. We spread happiness and awareness. This is the place where we can do our bit for the society and be thankful for all that we have.  
+ 
+We look forward to join more hands to make our society a happier place to live in. 
 
-What we do as part of Aikyam is, plan ‘Aikyam Trips’ to visit orphanages occasionally and spend our day with the children there. We usually collect funds from the students in college before any trip. We buy the necessary items for the children there and also give the funds collected to the orphanage. We generally visit the ‘Desire Society’ - which is the home for HIV-affected kids (aged between 3-15) and ‘Swanthana’ - which is the home for mentally and physically challenged girls.
-
-Apart from this, we collect articles like clothes, food and books from the students and donate them to the needy. For example, last year on Eid, we collected these articles and donated them to the Goonj society at Electronic City.
-
-Also, we conduct activities in college to spread social awareness among the students. For example, we started two initiatives last year - The Little Things and The Tiny Tales. The Little Things is an initiative where the students make a short video to convey their concern to protect the environment or to support a social cause. The Tiny Tales is another such event where the students write a line or two on what they think they can do for the society.
-
-And we organise events to raise funds for donation. One such event is putting up a lemonade stall during the college fest.
-
-We also help in organising blood donation camps at our college.
-
-Why we do all this is because we believe that ‘Unity is the secret of social progress, and service to society is the means to promote it’. By all this, we spread happiness to other people (like the orphans and the needy) and also realise how fortunate we are. This is the place where we can do something good and useful for the society and be thankful for all that we have.  
-
-We look forward to join more hands in doing something useful to make our society a happier place to live in.
 
 ## 8Bit
 
