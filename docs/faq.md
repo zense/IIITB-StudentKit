@@ -93,12 +93,12 @@ available?**
 6. **What have been the placements of students from IIITB?**
 
   The first iMTech batch has passed out this year and the placement statistics
-  were pretty much better than expected, thanks to the excellent placement committee. 
-  Although, the placements for MTech students have generally been excellent, with 
+  were pretty much better than expected, thanks to the excellent placement committee.
+  Although, the placements for MTech students have generally been excellent, with
   a placement record of 100% and an average salary of 10-12 lpa. For more info, please
   visit this link:
 
-  [***http://www.iiitb.ac.in/placements/placements-statistics***](http://www.iiitb.ac.in/placements/placements-statistics)
+  [***https://www.iiitb.ac.in/aboutus.php?pid=Annual-Reports***](https://www.iiitb.ac.in/aboutus.php?pid=Annual-Reports)
 
 7. **Does a 5 year course put me at a disadvantage for pursuing M.S.
     from foreign Universities?**
@@ -276,11 +276,11 @@ Clubs on campus?**
     -   **<a href="https://www.facebook.com/groups/1786495348263059/" target="_blank"> Screening Committee - Movie Club IIITB </a>**
     -   ***Chaayachitra - Photography Club IIITB***
     -   ***Maths Club IIITB***
-    
+
 8. **What are the Fests held in IIITB?**
 
   An annual intracollege sports fest Spandan, is held each year, which
-  sees participation from both students and alumni alike. Also, we have a 
+  sees participation from both students and alumni alike. Also, we have a
   student run cultural fest (Infin8) which is being conducted since the last two years.
 
 9. **Is the transport facility (college bus) available?**
