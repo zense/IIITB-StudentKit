@@ -1,8 +1,8 @@
 ***Ask any more questions from <a href="https://www.facebook.com/groups/391580577698895/" target="_blank"> iMTech Admission Forum 2017 </a> (Click the <a href="https://www.facebook.com/groups/391580577698895/" target="_blank">link</a>)***
 
 ***<a href="http://www.iiitb.ac.in/admissions/iiitb_Admission_brochure_2016_v10.pdf" target="_blank"> IIITB Admission Brochure 2017 </a>(Click the <a href="http://www.iiitb.ac.in/admissions/iiitb_Admission_brochure_2016_v10.pdf" target="_blank">link</a>)***
-***<a href="/IIITB-StudentKit/docs/iMTech_manual_v2_1.pdf" target="_blank" download>
- Information about the iMTech course structure and electives </a>(Click the <a href="/IIITB-StudentKit/docs/iMTech_manual_v2_1.pdf" target="_blank" download>link</a>)***
+***<a href="https://github.com/zense/IIITB-StudentKit/blob/gh-pages/docs/iMTech_manual_v2_1.pdf" target="_blank" download>
+ Information about the iMTech course structure and electives </a>(Click the <a href="https://github.com/zense/IIITB-StudentKit/blob/gh-pages/docs/iMTech_manual_v2_1.pdf" target="_blank" download>link</a>)***
 
 ### <a href="https://www.quora.com/topic/International-Institute-of-Information-Technology-Bangalore-IIIT-B/faq" target="_blank">Important Quora Q/As</a> (Click the <a href="https://www.quora.com/topic/International-Institute-of-Information-Technology-Bangalore-IIIT-B/faq" target="_blank">link</a>)
 

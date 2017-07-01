@@ -1,4 +1,8 @@
 ### Documents
+  - Satvik Ramaprasad
+  - Vibhav Agarwal
+  - Vishesh Ruparelia
+  - Atibhi Agrawal
   - Juhi Singh
   - Akshay Pant
   - Himank Kansal
@@ -7,11 +11,7 @@
   - Anshuk Uppal
   - Prachi Dhamange
   - Vaibhav Aggarwal
-  - Satvik Ramaprasad
-  - Vibhav Agarwal
-  - Vishesh Ruparelia
-  - Atibhi Agrawal
-
+  
 ### Website and Inputs
   - Aditya Thiruvengadam
   - <a href="https://www.facebook.com/iiitb.infin8/?ref=aymt_homepage_panel" target="_blank"> Infin8 Fest Committee </a>
