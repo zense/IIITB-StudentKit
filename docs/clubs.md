@@ -43,7 +43,7 @@ Find us on <a href="https://www.facebook.com/citeiiitb/" target="_blank">Faceboo
 
 ## Enigma (Robotics Club)
 
-Enigma, the robotics club, was founded last year. The club is mentored by senior faculty of the college. Here we hold workshops on various technologies like different microprocessors and work on exciting projects like maze solver and line follower together. The objective of this club is to develop awareness and interest in robotics and AI. Core Members get to work on two long term projects- Solar Automated Tiller and Fire Fighting Assisting Drone. These projects are funded and mentored by the college.
+Enigma, the robotics club was founded last year. The club is mentored by the seniors and faculty of the college. Here we hold various workshops and help students to start from basics projects like Maze solver, Line Follower and various other small projects. The objective of this club is to develop awareness and interest in robotics and AI. Core Members of the club get to work on two long term projects- Solar Automated Tiller and Fire Fighting Assisting Drone. These projects are funded and mentored by the college currently.
 
 ## Zense
 
@@ -117,6 +117,6 @@ SPIC MACAY runs on the energy of volunteers who come from all walks of life - st
 
 ## Chaayachitra
 
-The Photography Club at IIITB aims to capture moments from your stay during all the college fests and celebrations. All those smiles, amoments of relief and all those groupies with your BFFs are capture by our cameras. What better feeling can a cameraman get than a perfect click. Eventhough creating short films can be tiresome but can turn out to be so much fun sometimes. We help each other in terms of techniques, skills, perspectives for better clicks thus making the best out of ourselves as photographers.
+The Photography Club at IIITB aims to capture every moment during all the college fests and celebrations. All those smiles, amoments of relief and all those groupies with your friends are captured by our cameras. What better feeling can a cameraman get than a perfect click. Even though creating short films can be tiresome but can turn out to be so much fun sometimes. We help each other in terms of techniques, skills, perspectives for better clicks thus making the best out of ourselves as photographers. Allthough the club was founded just two years back, it is growing fast and gaining popularity. The club just doesnt revolve around photographs but also handles pages like <a href="https://www.youtube.com/user/iiitbmedia" target="_blank">Youtube</a>, <a href="https://twitter.com/IIITB_official" target="_blank">Twitter</a>, <a href="https://www.facebook.com/IIITBofficial/" target="_blank">Facebook</a>, <a href="https://www.instagram.com/iiitb_official/" target="_blank">Instagram</a>, <a href="https://www.linkedin.com/school/800493/" target="_blank">Linkedin</a>.
 
 <em><strong>REMEMBER: All it takes is a camera to start with, be it a smartphone or  DSLR.</strong></em>
