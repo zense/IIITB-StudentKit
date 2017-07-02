@@ -308,7 +308,7 @@ available in its vicinity?**
   around 20 days in December and summer vacations of roughly 3 months- May
   2nd week till the end of July.
 
-  Although, Spandan (Annual intracollege sports fest) is held during the seven
+  Although, Spandan (Annual intra-college sports fest) is held during the seven
   days holiday in March.
 
 12. **Are there any arrangements for Non-Vegetarian students in the
