@@ -58,6 +58,7 @@ programme, I finish one year early.**
     The first iMTech batch has passed out this year and the placement statistics
     were pretty much better than expected, thanks to the excellent placement committee.
     The packages for the first iMTech batch were:
+    
     **Max package : 27 lpa (Amazon)**
     
     **Average package : 12 lpa**
