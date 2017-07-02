@@ -124,7 +124,7 @@ available?**
   The degree give is subject to UGC regulation much like all other five
   year programs in the country (including the five year courses in IITs).
 
-10. **What are opening and closing JEE (Main) Marks in 2015 (branch
+10. **What are opening and closing JEE (Main) Marks in 2016 (branch
 wise)?**
 
   The cutoffs for 2016 were:
