@@ -67,10 +67,7 @@ programme, I finish one year early.**
     **Min package : 7 lpa**
     
     Considering the fact that it was the first ever iMTech batch, the placements are too good and will be better in the upcoming years.   
-    For more info, please
-    visit this link:
-
-    [***https://www.iiitb.ac.in/aboutus.php?pid=Annual-Reports***](https://www.iiitb.ac.in/aboutus.php?pid=Annual-Reports)
+    For more info, please visit <a href="https://www.iiitb.ac.in/aboutus.php?pid=Annual-Reports" target="_blank">Annual Placement Reports</a>.
 
 4. **I am not able to pay the fee. Is any financial assistance
 available?**
