@@ -127,7 +127,7 @@ The Photography Club at IIITB aims to capture every moment during all the colleg
 
 The Branding team looks after admissions, exchange programs, outreach and placements, Innovation Centre, alumni, infrastructure etc. Its aim is to turn IIITB into an industry centric, innovative, advanced, student empowered institute. IIITB should be known as an institute that is fair, flexible, friendly, socially sensitive and on top of all these, has excellent academic and research facilities. The attributes to creating a IIITB brand are-
 1. Internal Branding
-2. Joining Large projects with Industry, Government and Social Sectosr.
+2. Joining Large projects with Industry, Government and Social Sectors.
 3. Centralized Repository for Branding.
 4. To be perceived as a top institute for research and consulting.
 
