@@ -119,4 +119,4 @@ SPIC MACAY runs on the energy of volunteers who come from all walks of life - st
 
 The Photography Club at IIITB aims to capture moments from your stay during all the college fests and celebrations. All those smiles, amoments of relief and all those groupies with your BFFs are capture by our cameras. What better feeling can a cameraman get than a perfect click. Eventhough creating short films can be tiresome but can turn out to be so much fun sometimes. We help each other in terms of techniques, skills, perspectives for better clicks thus making the best out of ourselves as photographers.
 
-REMEMBER: All it takes is a camera to start with, be it a smartphone or  DSLR.
+<em><strong>REMEMBER: All it takes is a camera to start with, be it a smartphone or  DSLR.</strong></em>
