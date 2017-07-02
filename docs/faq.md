@@ -1,10 +1,9 @@
-***Ask any more questions from <a href="https://www.facebook.com/groups/391580577698895/" target="_blank"> iMTech Admission Forum 2017 </a> (Click the <a href="https://www.facebook.com/groups/391580577698895/" target="_blank">link</a>)***
+***Ask any more questions from <a href="https://www.facebook.com/groups/391580577698895/" target="_blank"> iMTech Admission Forum 2017 </a>***
 
-***<a href="http://www.iiitb.ac.in/admissions/iiitb_Admission_brochure_2016_v10.pdf" target="_blank"> IIITB Admission Brochure 2017 </a>(Click the <a href="http://www.iiitb.ac.in/admissions/iiitb_Admission_brochure_2016_v10.pdf" target="_blank">link</a>)***
 ***<a href="https://github.com/zense/IIITB-StudentKit/blob/gh-pages/docs/iMTech_manual_v2_1.pdf" target="_blank" download>
- Information about the iMTech course structure and electives </a>(Click the <a href="https://github.com/zense/IIITB-StudentKit/blob/gh-pages/docs/iMTech_manual_v2_1.pdf" target="_blank" download>link</a>)***
+ Information about the iMTech course structure and electives </a>***
 
-### <a href="https://www.quora.com/topic/International-Institute-of-Information-Technology-Bangalore-IIIT-B/faq" target="_blank">Important Quora Q/As</a> (Click the <a href="https://www.quora.com/topic/International-Institute-of-Information-Technology-Bangalore-IIIT-B/faq" target="_blank">link</a>)
+### <a href="https://www.quora.com/topic/International-Institute-of-Information-Technology-Bangalore-IIIT-B/faq" target="_blank">Important Quora Q/As</a>
 
 ---
 
@@ -60,13 +59,13 @@ programme, I finish one year early.**
     were pretty much better than expected, thanks to the excellent placement committee.
     The packages for the first iMTech batch were:
     **Max package : 27 lpa (Amazon)**
+    
     **Average package : 12 lpa**
+    
     **Min package : 7 lpa**
+    
     Considering the fact that it was the first ever iMTech batch, the placements are too good and will be better in the upcoming years.   
-    For more info, please
-    visit this link:
-
-    [***https://www.iiitb.ac.in/aboutus.php?pid=Annual-Reports***](https://www.iiitb.ac.in/aboutus.php?pid=Annual-Reports)
+    For more info, please visit <a href="https://www.iiitb.ac.in/aboutus.php?pid=Annual-Reports" target="_blank">Annual Placement Reports</a>.
 
 4. **I am not able to pay the fee. Is any financial assistance
 available?**
@@ -212,9 +211,9 @@ to some other place that I prefer, will I get any refund?**
   brackets. More information regarding the same can be obtained from the
   following websites:
 
-  - Makemytrip.com
-  - OYO Rooms
-  - Trivago.com etc.
+  - <a href="https://www.makemytrip.com/mmthtl/site/hotels/search?checkin=08012017&checkout=08022017&city=BLR&country=IN&area=Electronic%20City&roomStayQualifier=2e0e&searchText=Electronic%20City,%20Bangalore&sTime=1498981396444" target="_blank">Makemytrip.com</a>
+  - <a href="https://www.oyorooms.com/search?adults=1&checkin=02%2F07%2F2017&checkout=03%2F07%2F2017&children=0&city=bangalore&country=India&employee_id=null&guests=1&latitude=12.839939&location=Electronic%20City&longitude=77.677003&page=1&rooms=1&searchType=locality&src=null" target="_blank">OYO Rooms</a>
+  - <a href="https://www.trivago.in/?cpt=135852702&iRoomType=7&aHotelTestClassifier=&iIncludeAll=0&iGeoDistanceLimit=20000&aPartner=&iPathId=84774&iGeoDistanceItem=1358527&aDateRange%5Barr%5D=2017-07-23&aDateRange%5Bdep%5D=2017-07-24&iViewType=0&bIsSeoPage=false&bIsSitemap=false&" target="_blank">Trivago.com</a> etc.
 
   Also see the **<a href="http://studentkit.zense.co.in/#hotels" target="_blank"> related document </a>** to it in the IIITB Student Kit.
 
