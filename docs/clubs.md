@@ -47,7 +47,7 @@ Enigma, the robotics club was founded last year. The club is mentored by the sen
 
 ## Zense
 
-<a href="http://zense.co.in/" target="_blank">Zense</a> is all about product development. We keep in touch with the bleeding edge of new technologies and experiment with cool new tools and services. With new things being released each day it is harder and harder to keep in touch with the pace of technology. This community will help you catch up. 
+<a href="http://zense.co.in/" target="_blank">Zense</a> is all about product development. We keep in touch with the bleeding edge of new technologies and experiment with cool new tools and services. With new things being released each day it is harder and harder to keep in touch with the pace of technology. This community will help you catch up.
 
 Our aim is to unite passionate developers and provide them a platform to collaborate and innovate with other geeky folks and to establish a community that promotes a Do-It-Yourself culture and quench your thirst for knowledge. You can get your idea and collaborate with people with the appropriate skill set for your ideas.
 
@@ -62,11 +62,11 @@ Our motto: To produce world finalists every year!
 ## Aikyam
 
 Aikyam is the social wing of IIITB that was started in 2008 by the students of IIITB. It is an initiative taken to help the poor and the needy and understand our <strong>social responsibility</strong>.
- 
+
 What we do as part of Aikyam is, plan ‘Aikyam Trips’ to visit orphanages occasionally and spend our day with the children there. We usually collect funds from the students in college before any trip. We buy the necessary items for the children there and also give the funds collected to the orphanage. We generally visit the ‘<a href="http://www.desiresociety.org/" target="_blank">Desire Society</a>’ - which is a home for HIV affected kids (aged between 3-15) and ‘Swanthana’ - which is a home for mentally and physically challenged girls. Apart from this, frequently we collect articles like clothes, food and books from the students and donate them to the needy. For example, <a href="https://www.facebook.com/permalink.php?story_fbid=1165116266895953&id=130926363648287" target="_blank">last year on Eid</a>, we collected these articles and donated them to the <a href="http://goonj.org/page_id=22873/" target="_blank">Goonj society</a>. Also, we conduct activities in college to spread social awareness among the students. For example, we started two initiatives last year - <a href="https://www.youtube.com/watch?v=ocJbYOnic60&feature=youtu.be" target="_blank">The Little Things and <a href="https://www.facebook.com/pg/Aikyam-130926363648287/photos/?tab=album&album_id=1170969112977335" target="_blank">The Tiny Tales</a>. The Little Things is an initiative where the students make a short video to convey their concern to protect the environment or to support a social cause. The Tiny Tales is another such event where the students write a line or two on what they think they can do for the society. And we organise events to raise funds for donation. One such event is putting up a lemonade stall or pani puri stall during the college fest. We also help in organising blood donation camps at our college.
- 
+
 Why we do all this is? We believe that ‘Unity is the secret of social progress, and service to society is the means to promote it’. We spread happiness and awareness. This is the place where we can do our bit for the society and be thankful for all that we have.  
- 
+
 We look forward to join more hands to make our society a happier place to live in. To send in your opinions on what you can do or share any idea on social responsibility or for more such social activities, do mail us at <a href="mailto:aikyam@iiitb.org" target="_blank">aikyam@iiitb.org</a>.
 
 Find us on <a href="https://www.facebook.com/Aikyam-130926363648287/" target="_blank">Facebook</a>.
@@ -107,7 +107,7 @@ Being a part of this committee will enable you to make contacts, improve your ma
 
 ## SPICMACAY IIITB Chapter
 
-<a href="http://spicmacay.com/" target="_blank">SPIC MACAY</a> (Society for the Promotion of Indian Classical Music and Culture Amongst Youth) is a non-political, nationwide, voluntary movement founded in 1977 by Dr Kiran Seth, Professor-Emeritus at IIT-Delhi who was awarded the ‘Padma Shri’ for his contribution to the arts in 2009. It organises programmes of classical music and dance, folk arts, crafts, yoga, classic cinema screenings, heritage walks, etc. inside school and college campuses throughout the world to make students more aware about Indian and world heritage. This initiative makes education more holistic and meaningful as it highlights all that is abstract, subtle, inspiring and mystical in the world teaching one to look within oneself. 
+<a href="http://spicmacay.com/" target="_blank">SPIC MACAY</a> (Society for the Promotion of Indian Classical Music and Culture Amongst Youth) is a non-political, nationwide, voluntary movement founded in 1977 by Dr Kiran Seth, Professor-Emeritus at IIT-Delhi who was awarded the ‘Padma Shri’ for his contribution to the arts in 2009. It organises programmes of classical music and dance, folk arts, crafts, yoga, classic cinema screenings, heritage walks, etc. inside school and college campuses throughout the world to make students more aware about Indian and world heritage. This initiative makes education more holistic and meaningful as it highlights all that is abstract, subtle, inspiring and mystical in the world teaching one to look within oneself.
 
 Among the events that SPIC MACAY IIIT-B chapter organised last year were the Piano concert by Balázs Fülei (pianist from Hungary), Bihu dance by Shri Ranjit Gogoi and team, Chitravina concert by Sri N Ravikiran and Sitar concert by Shri Gaurav Mazumdar. We also had the rare privilege to host Dr. Kiran Seth during a session on Naad Yoga on the campus.
 
@@ -119,4 +119,17 @@ SPIC MACAY runs on the energy of volunteers who come from all walks of life - st
 
 The Photography Club at IIITB aims to capture every moment during all the college fests and celebrations. All those smiles, amoments of relief and all those groupies with your friends are captured by our cameras. What better feeling can a cameraman get than a perfect click. Even though creating short films can be tiresome but can turn out to be so much fun sometimes. We help each other in terms of techniques, skills, perspectives for better clicks thus making the best out of ourselves as photographers. Allthough the club was founded just two years back, it is growing fast and gaining popularity. The club just doesnt revolve around photographs but also handles pages like <a href="https://www.youtube.com/user/iiitbmedia" target="_blank">Youtube</a>, <a href="https://twitter.com/IIITB_official" target="_blank">Twitter</a>, <a href="https://www.facebook.com/IIITBofficial/" target="_blank">Facebook</a>, <a href="https://www.instagram.com/iiitb_official/" target="_blank">Instagram</a>, <a href="https://www.linkedin.com/school/800493/" target="_blank">Linkedin</a>.
 
+
 <em><strong>REMEMBER: All it takes is a camera to start with, be it a smartphone or  DSLR.</strong></em>
+
+
+## Branding Committee
+
+The Branding team looks after admissions,exchange programs,outreach and placements,innovation centre,alumni,infrastructure.Its aim is to turn IIITB into an industry centric,innovative,advanced,student empowered institue.IIITB should be known as an institue that has fair,flexible,friendly environment,is socially sensitive and has excellent academic and research facilities.The attributes to creating a IIITB brand are-
+1. Internal Branding
+2. Getting Large projects with Technology Industry,Government and Social Sector.
+3. Centralized Repository for Branding.
+4. To be perceived as a top institue for research and consulting.
+
+The branding committee ensures that IIITB participates in ranking surveys,educational and career fairs and Govt. Events. It ensures regular update of content and institue’s information on various platforms,internal branding by internet,radio,newspaper,magazine and also improved facilities for the faculty/PhD students/researchers.The branding committee also helps organise various college fests,Spandan and other activities.It is highly active on facebook,linked in,twitter and various other social media platforms.
+In all, the branding team is an integral part of IIITB and we always strive for the betterment of our college and for the college’s promotion.
