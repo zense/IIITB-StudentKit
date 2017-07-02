@@ -38,7 +38,7 @@
 <tr class="even">
 <td><p><strong>Tuesday, 1</strong><sup><strong>nd</strong></sup> <strong>August </strong></p></td>
 <td><p>The First Day Of College</p></td>
-<td><p>Excited! You will finally get a chance to get your hands dirty and dive right in the field tha you chose!(The timetable will be provided to you on the day of the orientation)</p>
+<td><p>Excited! You will finally get a chance to get your hands dirty and dive right in the field that you chose!(The timetable will be provided to you on the day of the orientation)</p>
 <p>Also the information will be sent on to your <strong>IIITB Mailing ID</strong></p>
 </td>
 <td><p>We know it's tough but do get early guys and enjoy the breakfast before going to class. Don't forget to take a notebook along with you!(Believe us, the notes DO help!)</td>
