@@ -3,7 +3,7 @@
 ***<a href="https://github.com/zense/IIITB-StudentKit/blob/gh-pages/docs/iMTech_manual_v2_1.pdf" target="_blank" download>
  Information about the iMTech course structure and electives </a>***
 
-### <a href="https://www.quora.com/topic/International-Institute-of-Information-Technology-Bangalore-IIIT-B/faq" target="_blank">Important Quora Q/As</a>
+***<a href="https://www.quora.com/topic/International-Institute-of-Information-Technology-Bangalore-IIIT-B/faq" target="_blank">Important Quora Q/As</a>***
 
 ---
 
@@ -58,6 +58,7 @@ programme, I finish one year early.**
     The first iMTech batch has passed out this year and the placement statistics
     were pretty much better than expected, thanks to the excellent placement committee.
     The packages for the first iMTech batch were:
+    
     **Max package : 27 lpa (Amazon)**
     
     **Average package : 12 lpa**
@@ -307,7 +308,7 @@ available in its vicinity?**
   around 20 days in December and summer vacations of roughly 3 months- May
   2nd week till the end of July.
 
-  Although, Spandan (Annual intracollege sports fest) is held during the seven
+  Although, Spandan (Annual intra-college sports fest) is held during the seven
   days holiday in March.
 
 12. **Are there any arrangements for Non-Vegetarian students in the
