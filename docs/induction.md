@@ -98,14 +98,14 @@
 <td><p><strong>Will be announced</strong></p></td>
 <td><p>IIITB Literary Society (8Bit Magazine) Meeting</p></td>
 <td><p><strong>Time will be declared later</strong></p></td>
-<td><p> A meeting with the IIITB Literary Society which is responsible for the conception and running of our magazine. This is the club that makes sure that your creativity has an outlet and an audience.</p><p>So grab the opportunity to let out your inner Tolstoy, Dickens,Wordsworth or even Chetan Bhagat!(Completely your choice!) </td>
+<td><p> A meeting with the IIITB Literary Society which is responsible for the conception and running of our magazine. This is the club that makes sure that your creativity has an outlet and an audience.</p><p>So grab the opportunity to let out your inner Tolstoy, Dickens, Wordsworth or even Chetan Bhagat!(Completely your choice!) </td>
 </tr>
 <tr class="even">
 <td><p><strong>Will be informed</strong></p></td>
 <td><p>iMTech SAC (Students Activity Council) Elections</p></td>
 <td><p>8:00 PM – 10:00 PM</p>
-<p>MCR (Main Class Room) Room 106,Academic Block</p></td>
-<td><p>This council is responsible for the smooth running of our college and plays a pivotal role in all major occasions and events</p><p>So better sit back and pay attention!The responsibilty will be yours next year!</td>
+<p>MCR (Main Class Room), Room 106,Academic Block</p></td>
+<td><p>This council is responsible for the smooth running of our college and plays a pivotal role in all major occasions and events</p><p>So better sit back and pay attention! The responsibilty will be yours next year!</td>
 </tr>
 <tr class="odd">
 <td><p><strong>Will be informed</strong></p></td>
