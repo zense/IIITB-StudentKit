@@ -127,9 +127,9 @@ The Photography Club at IIITB aims to capture every moment during all the colleg
 
 The Branding team looks after admissions, exchange programs, outreach and placements, Innovation Centre, alumni, infrastructure etc. Its aim is to turn IIITB into an industry centric, innovative, advanced, student empowered institute. IIITB should be known as an institute that is fair, flexible, friendly, socially sensitive and on top of all these, has excellent academic and research facilities. The attributes to creating a IIITB brand are-
 1. Internal Branding
-2. Joining Large projects with Industry, Government and Social Sector.
+2. Joining Large projects with Industry, Government and Social Sectosr.
 3. Centralized Repository for Branding.
-4. To be perceived as a top institue for research and consulting.
+4. To be perceived as a top institute for research and consulting.
 
 The branding committee ensures that IIITB participates in ranking surveys,educational and career fairs and Govt. Events. It ensures regular update of content and institute’s information on various platforms, internal branding by internet, radio, newspaper, magazine and also improved facilities for the faculty, PhD students and researchers.The branding committee also helps organise various college fests, Infin8, Spandan etc. It is highly active on Facebook, Linkedin, Twitter and various other social media platforms.
 In all, the branding team is an integral part of IIITB and we always strive for the betterment of our college and for the college’s promotion.
