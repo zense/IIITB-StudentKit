@@ -81,7 +81,7 @@ an entertainment hub with entertaining choices for each and everyone. It
 has a wide array of interesting sections, each promising a unique and
 fun-filled experience. Miniature city, replicas of the popular wonders
 from all over the world, museum, haunted mansion, wax museum, Dinosaur
-World, Fossil Hunt, water rides, etc are a few of the engaging sections
+World, Fossil Hunt, water rides, etc. are a few of the engaging sections
 of the Innovative film city.
 
 GO KARTING
