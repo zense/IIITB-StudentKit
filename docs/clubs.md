@@ -119,6 +119,10 @@ SPIC MACAY runs on the energy of volunteers who come from all walks of life - st
 
 The Photography Club at IIITB aims to capture every moment during all the college fests and celebrations. All those smiles, amoments of relief and all those groupies with your friends are captured by our cameras. What better feeling can a cameraman get than a perfect click. Even though creating short films can be tiresome but can turn out to be so much fun sometimes. We help each other in terms of techniques, skills, perspectives for better clicks thus making the best out of ourselves as photographers. Allthough the club was founded just two years back, it is growing fast and gaining popularity. The club just doesnt revolve around photographs but also handles pages like <a href="https://www.youtube.com/user/iiitbmedia" target="_blank">Youtube</a>, <a href="https://twitter.com/IIITB_official" target="_blank">Twitter</a>, <a href="https://www.facebook.com/IIITBofficial/" target="_blank">Facebook</a>, <a href="https://www.instagram.com/iiitb_official/" target="_blank">Instagram</a>, <a href="https://www.linkedin.com/school/800493/" target="_blank">Linkedin</a>.
 
+
+<em><strong>REMEMBER: All it takes is a camera to start with, be it a smartphone or  DSLR.</strong></em>
+
+
 ## Branding Committee
 
 The Branding team looks after admissions,exchange programs,outreach and placements,innovation centre,alumni,infrastructure.Its aim is to turn IIITB into an industry centric,innovative,advanced,student empowered institue.IIITB should be known as an institue that has fair,flexible,friendly environment,is socially sensitive and has excellent academic and research facilities.The attributes to creating a IIITB brand are-
@@ -129,6 +133,3 @@ The Branding team looks after admissions,exchange programs,outreach and placemen
 
 The branding committee ensures that IIITB participates in ranking surveys,educational and career fairs and Govt. Events. It ensures regular update of content and institue’s information on various platforms,internal branding by internet,radio,newspaper,magazine and also improved facilities for the faculty/PhD students/researchers.The branding committee also helps organise various college fests,Spandan and other activities.It is highly active on facebook,linked in,twitter and various other social media platforms.
 In all, the branding team is an integral part of IIITB and we always strive for the betterment of our college and for the college’s promotion.
-
-
-<em><strong>REMEMBER: All it takes is a camera to start with, be it a smartphone or  DSLR.</strong></em>
