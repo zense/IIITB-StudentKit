@@ -1,8 +1,8 @@
 ### Documents
+  - Tejas Kotha
   - Satvik Ramaprasad
   - Vibhav Agarwal
   - Vishesh Ruparelia
-  - Atibhi Agrawal
   - Juhi Singh
   - Akshay Pant
   - Himank Kansal
