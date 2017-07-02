@@ -93,5 +93,30 @@ IIITB's Movie Club consists of huge community of movie lovers in the campus who 
 
 Placement Committe (Final year students) in IIITB is an interface between students and the numerous companies that visit our campus. We help student prepare for placements as well as organise company drives on campus. Being a part of Placement Committee gives us an opportunity to interact with each and every member of our batch, and after the placements of each and everyone, the feeling of joy and satisfaction we get is just out of the world. We work closely with the administration and faculty members of the Placement Cell which in itself gives us an immense amount of exposure compared to others.
 
+## Food Committee
 
+Food Committee at IIITB is responsible for managing meals and canteen services in IIITB. IIITB has students from all across the country so it's a tough job to satisfy everyone's taste but we at Food Committee try our best to do so and in this process get a lot of criticism. Well, going past the such criticism sometimes is what makes us strong at the end of the day. It is extremely important to have managerial skills as a professional and we are pretty sure this is the right place to start as we get to talk to students regarding their food preferences, manage administration and caterers regarding budget, menus and special food for special occasions. When we see empty plates after a meal, it is simply heartwarming as it gives us an immense satisfaction that we helped someone have a great meal.
 
+So join us and let's try making a comfortable stay and better eating experience for everyone at IIITB.
+
+## Alumni Committee
+
+Being a part of Alumni committee helps us to have a close relationship with the Alumni network of IIITB. This enables us to learn and grow as individuals with the help of our alumni's testimonials and suggestion. We also get to organise regular Alumni meets and fests in the campus just to connect them to their batchmates and relive those college days which they were part of.
+
+Being a part of this committee will enable you to make contacts, improve your managerial skills and not to forget the aura of being connected to seniors who are making it big in the corporate world.
+
+## SPICMACAY IIITB Chapter
+
+<a href="http://spicmacay.com/" target="_blank">SPIC MACAY</a> (Society for the Promotion of Indian Classical Music and Culture Amongst Youth) is a non-political, nationwide, voluntary movement founded in 1977 by Dr Kiran Seth, Professor-Emeritus at IIT-Delhi who was awarded the ‘Padma Shri’ for his contribution to the arts in 2009. It organises programmes of classical music and dance, folk arts, crafts, yoga, classic cinema screenings, heritage walks, etc. inside school and college campuses throughout the world to make students more aware about Indian and world heritage. This initiative makes education more holistic and meaningful as it highlights all that is abstract, subtle, inspiring and mystical in the world teaching one to look within oneself. 
+
+Among the events that SPIC MACAY IIIT-B chapter organised last year were the Piano concert by Balázs Fülei (pianist from Hungary), Bihu dance by Shri Ranjit Gogoi and team, Chitravina concert by Sri N Ravikiran and Sitar concert by Shri Gaurav Mazumdar. We also had the rare privilege to host Dr. Kiran Seth during a session on Naad Yoga on the campus.
+
+SPIC MACAY runs on the energy of volunteers who come from all walks of life - students, teachers, housewives, professional and retired people, young and old. Nishkam Seva is a key aspect of the movement.
+
+<a href="http://spicmacay.com/get-involved" target="_blank">Join us</a>
+
+## Chaayachitra
+
+The Photography Club at IIITB aims to capture moments from your stay during all the college fests and celebrations. All those smiles, amoments of relief and all those groupies with your BFFs are capture by our cameras. What better feeling can a cameraman get than a perfect click. Eventhough creating short films can be tiresome but can turn out to be so much fun sometimes. We help each other in terms of techniques, skills, perspectives for better clicks thus making the best out of ourselves as photographers.
+
+<em><strong>REMEMBER: All it takes is a camera to start with, be it a smartphone or  DSLR.</strong></em>
