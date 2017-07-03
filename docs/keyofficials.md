@@ -153,34 +153,34 @@ td.text-right {
 </thead>
 <tbody class="table-hover">
 <tr>
-<td class="text-left" style="width: 150%;height:150%"><img src="https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAXoAAAAJGZiMDlmYjAzLTdiZTUtNDdlOS1hZWE0LTVhZGZhN2NhM2ZhOA.jpg" alt=""></td>
+<td class="text-left" style="width: 150%;height:150%"><img src="/images/sr-sridhar.jpg" alt=""></td>
 <td class="text-left">SR SRIDHAR</td>
 <td class="text-left">Registrar</td>
-<td class="text-left"><a href="mailto:Registrar@iiitb.ac.in"></a></td>  
+<td class="text-left"><a href="mailto:Registrar@iiitb.ac.in">Registrar@iiitb.ac.in</a></td>  
 </tr>
 <tr>
 <td class="text-left" style="width: 150%;height:150%"><img src="https://www.iiitb.ac.in/main-control/user_images/1472529878.jpg" alt=""></td>
 <td class="text-left">Prof. Madhav Rao</td>  
 <td class="text-left">iM.Tech Coordinator</td>
-<td class="text-left"><a href="mailto:coordinator-imtech@iiitb.ac.in"></a></td>
+<td class="text-left"><a href="mailto:coordinator-imtech@iiitb.ac.in">coordinator-imtech@iiitb.ac.in</a></td>
 </tr>
 <tr>
 <td class="text-left" style="width: 150%;height:150%"><img src="https://www.iiitb.ac.in/main-control/user_images/1486624837.JPG" alt=""></td>
 <td class="text-left">Prof. Chandrashekar Ramanathan</td>
 <td class="text-left">Dean(Academics)</td>
-  <td class="text-left"><a href="mailto:dean-academics@iiitb.ac.in"></a></td>
+  <td class="text-left"><a href="mailto:dean-academics@iiitb.ac.in">dean-academics@iiitb.ac.in</a></td>
 </tr>
 <tr>
 <td class="text-left" style="width: 150%;height:150%"><img src="https://www.iiitb.ac.in/main-control/user_images/1486624800.JPG" alt=""></td>
 <td class="text-left">Prof. Jyotsna Bapat</td>
 <td class="text-left">Dean(Faculty)</td>
-<td class="text-left"><a href="mailto:dean-faculty@iiitb.ac.in"></a></td>
+<td class="text-left"><a href="mailto:dean-faculty@iiitb.ac.in">dean-faculty@iiitb.ac.in</a></td>
 </tr>
 <tr>
 <td class="text-left" style="width: 150%;height:150%"><img src="https://www.iiitb.ac.in/main-control/user_images/1486624712.JPG" alt=""></td>
 <td class="text-left">Prof. Srinath Srinivasa</td>
 <td class="text-left">Dean(R&D)</td>
-<td class="text-left"><a href="mailto:dean-rd@iiitb.ac.in"></a></td>
+<td class="text-left"><a href="mailto:dean-rd@iiitb.ac.in">dean-rd@iiitb.ac.in</a></td>
 </tr>
 </tbody>
 </table>
