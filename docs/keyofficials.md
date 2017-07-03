@@ -145,6 +145,7 @@ td.text-right {
 <table class="table-fill">
 <thead>
 <tr>
+<th class="text-left"></th>
 <th class="text-left">Name</th>
 <th class="text-left">Designation</th>
 <th class="text-left">Email-Id</th>  
@@ -152,26 +153,31 @@ td.text-right {
 </thead>
 <tbody class="table-hover">
 <tr>
+<td class="text-left"><img src="https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAXoAAAAJGZiMDlmYjAzLTdiZTUtNDdlOS1hZWE0LTVhZGZhN2NhM2ZhOA.jpg" alt=""></td>
 <td class="text-left">SR SRIDHAR</td>
 <td class="text-left">Registrar</td>
 <td class="text-left">Registrar@iiitb.ac.in</td>  
 </tr>
 <tr>
+<td class="text-left"><img src="https://www.iiitb.ac.in/main-control/user_images/1472529878.jpg" alt=""></td>
 <td class="text-left">Prof. Madhav Rao</td>  
 <td class="text-left">iM.Tech Coordinator</td>
 <td class="text-left">coordinator-imtech@iiitb.ac.in</td>
 </tr>
 <tr>
+<td class="text-left"><img src="https://www.iiitb.ac.in/main-control/user_images/1486624837.JPG" alt=""></td>
 <td class="text-left">Prof. Chandrashekar Ramanathan</td>
 <td class="text-left">Dean(Academics)</td>
   <td class="text-left">dean-academics@iiitb.ac.in</td>
 </tr>
 <tr>
+<td class="text-left"><img src="https://www.iiitb.ac.in/main-control/user_images/1486624800.JPG" alt=""></td>
 <td class="text-left">Prof. Jyotsna Bapat</td>
 <td class="text-left">Dean(Faculty)</td>
 <td class="text-left">dean-faculty@iiitb.ac.in</td>
 </tr>
 <tr>
+<td class="text-left"><img src="https://www.iiitb.ac.in/main-control/user_images/1486624712.JPG" alt=""></td>
 <td class="text-left">Prof. Srinath Srinivasa</td>
 <td class="text-left">Dean(R&D)</td>
 <td class="text-left">dean-rd@iiitb.ac.in</td>
