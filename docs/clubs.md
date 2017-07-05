@@ -2,11 +2,7 @@
 ## 8Bit
 
 8Bit is the official magazine of IIITB. It is an entirely student-run club, where they are the solely in-charge of the content, editing and structure of the magazine.
-
-The magazine provides a creative outlet for all your thoughts, artistic endeavors, humor etc.
-
-The best part about 8Bit is that, that it is not limited to a specific type of content and has a place for everyone, whether you are a designer, artist, writer, editor, poet or just a social person who wants to know people by talking or interviewing them.
-
+The magazine provides a creative outlet for all your thoughts, artistic endeavors, humor etc. The best part about 8Bit is that, that it is not limited to a specific type of content and has a place for everyone, whether you are a designer, artist, writer, editor, poet or just a social person who wants to know people by talking or interviewing them.
 Here at 8Bit, the bonds are formed over lively discussion sessions and late night editing and designing marathons.
 So join us for a different take in an IT college, to give you a break and let you explore your lesser known interests.
 
@@ -64,7 +60,6 @@ Find us on <a href="https://www.facebook.com/citeiiitb/" target="_blank">Faceboo
 People of the world unite! Gather around and share creativity! The Comic Club is a bunch of geeks who love TV shows, movies, anime or any other creative medium for that matter. Our love exists beyond that of simply consuming the media and since our inception we have made some fantastic comic strips which have been published in 8bit, our college magazine and organised Graffiti walls every now and then so that students can showcase their talent on an open platform. We have also been conducting League of Fanatics in our college fest, infin8 which is considered as one of the most anticipated events at IIITB. Not to forget those nights when we sat down for hours discussing anime, mangas, movies etc.
 
 So, if you also share the same interests then...
-
 Hop in, Let's have a great time together!
 
 Find us on <a href="https://www.facebook.com/millionlaugh/" target="_blank">Facebook</a>.
@@ -88,9 +83,7 @@ So join us and let's try making a comfortable stay and better eating experience 
 ## Innovation Studio
 
 Innovation Studio is a student body, which was formalized in Feb, 2017, with the guidance of <a href="http://www.iiitb.org/" target="_blank">IIITB Innovation Center</a> and IIITB Faculty.
-
 We started with an aim to foster creative thinking to deliver products that the society needs. We want to develop an ecosystem which provides students with a necessary platform to realize their ideas by utilizing the guidance provided by our faculty, alumni and the strong network of IIITB.
-
 Our motto is to promote informal learning and unleash the latent technical and entrepreneurial spirit of IIITB.
 
 Find us on <a href="https://www.facebook.com/Innovation-Studio-IIIT-B-1281436805245370/" target="_blank">Facebook</a>.
@@ -102,11 +95,8 @@ IIITB's Movie Club consists of huge community of movie lovers in the campus who 
 ## Music Club
 
 Music club, as the name suggests, is pretty straightforward in its aims and objectives. If you are a singer, an instrumentalist or just a music enthusiast, you are welcome to join us.
-
 Music club has been around for as long as the college has.We have had amazing people, with incredible passion and talent, enthrall us with their awesomeness.
-
 We organise musical nights, where everyone who's part of the club (and others if time permits) get to perform. People in the club also get opportunities to be part of IIITB Foundation day, infin8, Spandan and convocation.
-
 Being a part of the club is a wonderful opportunity to meet people equally passionate as you, people with varied tastes in music and people who might give you a new perspective in the way you look at music. Those late night jamming sessions and musical nights will be totally worth the time you invest.
 
 Find us on <a href="https://www.facebook.com/iiitbmusicon/">Facebook</a>.
