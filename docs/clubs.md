@@ -32,18 +32,20 @@ Being a part of this committee will enable you to make contacts, improve your ma
 
 ## Branding Committee
 
-The Branding team looks after admissions, exchange programs, outreach and placements, Innovation Centre, alumni, infrastructure etc. Its aim is to turn IIITB into an industry centric, innovative, advanced, student empowered institute. IIITB should be known as an institute that is fair, flexible, friendly, socially sensitive and on top of all these, has excellent academic and research facilities. The attributes to creating a IIITB brand are-
-1. Internal Branding
-2. Joining Large projects with Industry, Government and Social Sectors.
-3. Centralized Repository for Branding.
-4. To be perceived as a top institute for research and consulting.
-
-The branding committee ensures that IIITB participates in ranking surveys,educational and career fairs and Govt. Events. It ensures regular update of content and institute’s information on various platforms, internal branding by internet, radio, newspaper, magazine and also improved facilities for the faculty, PhD students and researchers.The branding committee also helps organise various college fests, Infin8, Spandan etc. It is highly active on Facebook, Linkedin, Twitter and various other social media platforms.
-In all, the branding team is an integral part of IIITB and we always strive for the betterment of our college and for the college’s promotion. The committee also handles the official pages of the college like <a href="https://twitter.com/IIITB_official" target="_blank">Twitter</a>, <a href="https://www.facebook.com/IIITBofficial/" target="_blank">Facebook</a> & <a href="https://www.linkedin.com/school/800493/" target="_blank">Linkedin</a>.
+The Branding team looks after admissions, exchange programs, outreach and placements.IIIT Bangalore is an industry centric, innovative, advanced, student empowered institute and we highlight this through brand promotion and marketing.
+IIIT Bangalore should be known as an institute that is fair, flexible, friendly, socially sensitive and on top of all these, has excellent academic and research facilities. Few of the facilities are mentioned below:
+· Post graduate education and research in Information Technology
+· World-class faculty members, vibrant alumni community
+· Cutting-edge research work
+· Close industry collaboration
+· State-of-the-art campus infrastructure
+ 
+The branding committee ensures that IIIT Bangalore participates in ranking surveys,educational and career fairs and Govt. Events. It ensures regular update of content on various platforms . It manages the <a href="https://twitter.com/IIITB_official" target="_blank">Twitter page</a>, <a href="https://www.facebook.com/IIITBofficial/" target="_blank">Facebook page</a> & <a href="https://www.linkedin.com/school/800493/" target="_blank">Linkedin</a>. The committee also helps organise various college fests, Infin8, Spandan etc.
+The branding team is an integral part of IIIT Bangalore and it wil give you a hands-on experience of marketing,logistics and branding .
 
 ## Chaayachitra
 
-The Photography Club at IIITB aims to capture every moment during all the college fests and celebrations. All those smiles, moments of relief and joy, and all those groupies with your friends are captured by our cameras. What better feeling can a cameraman get than a perfect click. Even though creating short films can be tiresome but can turn out to be so much fun sometimes. We help each other in terms of techniques, skills, perspectives for better clicks thus making the best out of ourselves as photographers. Allthough the club was founded just two years back, it is growing fast and gaining popularity. The club doesn't just revolve around photographs but also handles various official pages like <a href="https://www.youtube.com/user/iiitbmedia" target="_blank">Youtube</a> & <a href="https://www.instagram.com/iiitb_official/" target="_blank">Instagram</a> .
+The Chhayachitra (Photography Club) at IIIT Bangalore aims to capture every moment during all the college fests and celebrations. All those smiles, moments of relief and joy, and all those groupies with your friends are captured by our cameras. What better feeling can a camera person get other than a perfect click. Creating short films can be tiresome but it can also be a lot of  fun . We help each other in terms of techniques, skills, perspectives for better clicks thus making the best out of ourselves as photographers. Although the club was founded just two years back, it is growing fast and gaining popularity. The club doesn't just revolve around photographs but also manages <a href="https://www.youtube.com/user/iiitbmedia" target="_blank">Youtube</a> & <a href="https://www.instagram.com/iiitb_official/" target="_blank">Instagram</a> .
 
 <em><strong>REMEMBER: All it takes is a camera to start with, be it a smartphone or  DSLR.</strong></em>
 
