@@ -1,4 +1,4 @@
-
+<strong>(PS: The following clubs have been arranged in the alphabetical order.)</strong>
 ## 8Bit
 
 8Bit is the official magazine of IIIT Bangalore. It is an entirely student-run club, where they are the solely in-charge of the content, editing and structure of the magazine.

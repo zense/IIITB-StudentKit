@@ -1,6 +1,6 @@
 ***Ask any more questions from <a href="https://www.facebook.com/groups/391580577698895/" target="_blank"> iMTech Admission Forum 2017 </a>***
 
-***<a href="https://github.com/zense/IIITB-StudentKit/blob/gh-pages/docs/iMTech_manual_v2_1.pdf" target="_blank" download>
+***<a href="https://github.com/zense/IIITB-StudentKit/raw/gh-pages/docs/iMTech_manual_v2_1.pdf" target="_blank" download>
  Information about the iMTech course structure and electives </a>***
 
 ***<a href="https://www.quora.com/topic/International-Institute-of-Information-Technology-Bangalore-IIIT-B/faq" target="_blank">Important Quora Q/As</a>***
