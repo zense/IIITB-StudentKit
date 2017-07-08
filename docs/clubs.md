@@ -1,7 +1,7 @@
 
 ## 8Bit
 
-8Bit is the official magazine of IIITB. It is an entirely student-run club, where they are the solely in-charge of the content, editing and structure of the magazine.
+8Bit is the official magazine of IIIT Bangalore. It is an entirely student-run club, where they are the solely in-charge of the content, editing and structure of the magazine.
 The magazine provides a creative outlet for all your thoughts, artistic endeavors, humor etc. The best part about 8Bit is that, that it is not limited to a specific type of content and has a place for everyone, whether you are a designer, artist, writer, editor, poet or just a social person who wants to know people by talking or interviewing them.
 Here at 8Bit, the bonds are formed over lively discussion sessions and late night editing and designing marathons.
 So join us for a different take in an IT college, to give you a break and let you explore your lesser known interests.
@@ -10,7 +10,7 @@ Find us on <a href="https://www.facebook.com/8-Bit-IIIT-Bangalore-69880322688841
 
 ## Aikyam
 
-Aikyam is the social wing of IIITB that was started in 2008 by the students of IIITB. It is an initiative taken to help the poor and the needy and understand our <strong>social responsibility</strong>.
+Aikyam is the social wing of IIIT Bangalore that was started in 2008 by the students of IIIT Bangalore. It is an initiative taken to help the poor and the needy and understand our <strong>social responsibility</strong>.
 
 What we do as part of Aikyam is, plan ‘Aikyam Trips’ to visit orphanages occasionally and spend our day with the children there. We usually collect funds from the students in college before any trip. We buy the necessary items for the children there and also give the funds collected to the orphanage. We generally visit the ‘<a href="http://www.desiresociety.org/" target="_blank">Desire Society</a>’ - which is a home for HIV affected kids (aged between 3-15) and ‘Swanthana’ - which is a home for mentally and physically challenged girls. Apart from this, frequently we collect articles like clothes, food and books from the students and donate them to the needy. For example, <a href="https://www.facebook.com/permalink.php?story_fbid=1165116266895953&id=130926363648287" target="_blank">last year on Eid</a>, we collected these articles and donated them to the <a href="http://goonj.org/page_id=22873/" target="_blank">Goonj society</a>. Also, we conduct activities in college to spread social awareness among the students. For example, we started two initiatives last year - <a href="https://www.youtube.com/watch?v=ocJbYOnic60&feature=youtu.be" target="_blank">The Little Things and <a href="https://www.facebook.com/pg/Aikyam-130926363648287/photos/?tab=album&album_id=1170969112977335" target="_blank">The Tiny Tales</a>. The Little Things is an initiative where the students make a short video to convey their concern to protect the environment or to support a social cause. The Tiny Tales is another such event where the students write a line or two on what they think they can do for the society. And we organise events to raise funds for donation. One such event is putting up a lemonade stall or pani puri stall during the college fest. We also help in organising blood donation camps at our college.
 
@@ -22,7 +22,7 @@ Find us on <a href="https://www.facebook.com/Aikyam-130926363648287/" target="_b
 
 ## Alumni Committee
 
-Being a part of Alumni committee helps us to have a close relationship with the Alumni network of IIITB. This enables us to learn and grow as individuals with the help of our alumni's testimonials and suggestion. We also get to organise regular Alumni meets and fests in the campus just to connect them to their batchmates and relive those college days which they were part of.
+Being a part of Alumni committee helps us to have a close relationship with the Alumni network of IIIT Bangalore. This enables us to learn and grow as individuals with the help of our alumni's testimonials and suggestion. We also get to organise regular Alumni meets and fests in the campus just to connect them to their batchmates and relive those college days which they were part of.
 
 Being a part of this committee will enable you to make contacts, improve your managerial skills and not to forget the aura of being connected to seniors who are making it big in the corporate world.
 
@@ -57,7 +57,7 @@ Find us on <a href="https://www.facebook.com/citeiiitb/" target="_blank">Faceboo
 
 ## Comic Club
 
-People of the world unite! Gather around and share creativity! The Comic Club is a bunch of geeks who love TV shows, movies, anime or any other creative medium for that matter. Our love exists beyond that of simply consuming the media and since our inception we have made some fantastic comic strips which have been published in 8bit, our college magazine and organised Graffiti walls every now and then so that students can showcase their talent on an open platform. We have also been conducting League of Fanatics in our college fest, infin8 which is considered as one of the most anticipated events at IIITB. Not to forget those nights when we sat down for hours discussing anime, mangas, movies etc.
+People of the world unite! Gather around and share creativity! The Comic Club is a bunch of geeks who love TV shows, movies, anime or any other creative medium for that matter. Our love exists beyond that of simply consuming the media and since our inception we have made some fantastic comic strips which have been published in 8bit, our college magazine and organised Graffiti walls every now and then so that students can showcase their talent on an open platform. We have also been conducting League of Fanatics in our college fest, infin8 which is considered as one of the most anticipated events at IIIT Bangalore. Not to forget those nights when we sat down for hours discussing anime, mangas, movies etc.
 
 So, if you also share the same interests then...
 Hop in, Let's have a great time together!
@@ -76,36 +76,36 @@ Enigma, the robotics club was founded last year. The club is mentored by the sen
 
 ## Food Committee
 
-Food Committee at IIITB is responsible for managing meals and canteen services in IIITB. IIITB has students from all across the country so it's a tough job to satisfy everyone's taste but we at Food Committee try our best to do so and in this process get a lot of criticism. Well, going past the such criticism sometimes is what makes us strong at the end of the day. It is extremely important to have managerial skills as a professional and we are pretty sure this is the right place to start as we get to talk to students regarding their food preferences, manage administration and caterers regarding budget, menus and special food for special occasions. When we see empty plates after a meal, it is simply heartwarming as it gives us an immense satisfaction that we helped someone have a great meal.
+Food Committee at IIIT Bangalore is responsible for managing meals and canteen services in IIIT Bangalore. IIIT Bangalore has students from all across the country so it's a tough job to satisfy everyone's taste but we at Food Committee try our best to do so and in this process get a lot of criticism. Well, going past the such criticism sometimes is what makes us strong at the end of the day. It is extremely important to have managerial skills as a professional and we are pretty sure this is the right place to start as we get to talk to students regarding their food preferences, manage administration and caterers regarding budget, menus and special food for special occasions. When we see empty plates after a meal, it is simply heartwarming as it gives us an immense satisfaction that we helped someone have a great meal.
 
-So join us and let's try making a comfortable stay and better eating experience for everyone at IIITB.
+So join us and let's try making a comfortable stay and better eating experience for everyone at IIIT Bangalore.
 
 ## Innovation Studio
 
-Innovation Studio is a student body, which was formalized in Feb, 2017, with the guidance of <a href="http://www.iiitb.org/" target="_blank">IIITB Innovation Center</a> and IIITB Faculty.
-We started with an aim to foster creative thinking to deliver products that the society needs. We want to develop an ecosystem which provides students with a necessary platform to realize their ideas by utilizing the guidance provided by our faculty, alumni and the strong network of IIITB.
-Our motto is to promote informal learning and unleash the latent technical and entrepreneurial spirit of IIITB.
+Innovation Studio is a student body, which was formalized in Feb, 2017, with the guidance of <a href="http://www.iiitb.org/" target="_blank">IIIT Bangalore Innovation Center</a> and IIIT Bangalore Faculty.
+We started with an aim to foster creative thinking to deliver products that the society needs. We want to develop an ecosystem which provides students with a necessary platform to realize their ideas by utilizing the guidance provided by our faculty, alumni and the strong network of IIIT Bangalore.
+Our motto is to promote informal learning and unleash the latent technical and entrepreneurial spirit of IIIT Bangalore.
 
 Find us on <a href="https://www.facebook.com/Innovation-Studio-IIIT-B-1281436805245370/" target="_blank">Facebook</a>.
 
 ## Movie Club
 
-IIITB's Movie Club consists of huge community of movie lovers in the campus who discuss the latest cine world buzz in an active Facebook group. Movies connect us. The sole purpose of the club is to develop acute movie watching skills to nurture depth in film viewing and appreciation. The collective movie watching experience with best friends is fun at another level needless to say. Being movie enthusiasts, we know that feeling, hence, we organise bi-monthly movie screenings of popular movies for everyone in the campus to make memorable moments which will be cherished lifelong.
+IIIT Bangalore's Movie Club consists of huge community of movie lovers in the campus who discuss the latest cine world buzz in an active Facebook group. Movies connect us. The sole purpose of the club is to develop acute movie watching skills to nurture depth in film viewing and appreciation. The collective movie watching experience with best friends is fun at another level needless to say. Being movie enthusiasts, we know that feeling, hence, we organise bi-monthly movie screenings of popular movies for everyone in the campus to make memorable moments which will be cherished lifelong.
 
 ## Music Club
 
 Music club, as the name suggests, is pretty straightforward in its aims and objectives. If you are a singer, an instrumentalist or just a music enthusiast, you are welcome to join us.
 Music club has been around for as long as the college has.We have had amazing people, with incredible passion and talent, enthrall us with their awesomeness.
-We organise musical nights, where everyone who's part of the club (and others if time permits) get to perform. People in the club also get opportunities to be part of IIITB Foundation day, infin8, Spandan and convocation.
+We organise musical nights, where everyone who's part of the club (and others if time permits) get to perform. People in the club also get opportunities to be part of IIIT Bangalore Foundation day, infin8, Spandan and convocation.
 Being a part of the club is a wonderful opportunity to meet people equally passionate as you, people with varied tastes in music and people who might give you a new perspective in the way you look at music. Those late night jamming sessions and musical nights will be totally worth the time you invest.
 
 Find us on <a href="https://www.facebook.com/iiitbmusicon/">Facebook</a>.
 
 ## Placement Committee
 
-Placement Committe (Final year students) in IIITB is an interface between students and the numerous companies that visit our campus. We help student prepare for placements as well as organise company drives on campus. Being a part of Placement Committee gives us an opportunity to interact with each and every member of our batch, and after the placements of each and everyone, the feeling of joy and satisfaction we get is just out of the world. We work closely with the administration and faculty members of the Placement Cell which in itself gives us an immense amount of exposure compared to others.
+Placement Committe (Final year students) in IIIT Bangalore is an interface between students and the numerous companies that visit our campus. We help student prepare for placements as well as organise company drives on campus. Being a part of Placement Committee gives us an opportunity to interact with each and every member of our batch, and after the placements of each and everyone, the feeling of joy and satisfaction we get is just out of the world. We work closely with the administration and faculty members of the Placement Cell which in itself gives us an immense amount of exposure compared to others.
 
-## SPICMACAY IIITB Chapter
+## SPICMACAY IIIT Bangalore Chapter
 
 <a href="http://spicmacay.com/" target="_blank">SPIC MACAY</a> (Society for the Promotion of Indian Classical Music and Culture Amongst Youth) is a non-political, nationwide, voluntary movement founded in 1977 by Dr Kiran Seth, Professor-Emeritus at IIT-Delhi who was awarded the ‘Padma Shri’ for his contribution to the arts in 2009. It organises programmes of classical music and dance, folk arts, crafts, yoga, classic cinema screenings, heritage walks, etc. inside school and college campuses throughout the world to make students more aware about Indian and world heritage. This initiative makes education more holistic and meaningful as it highlights all that is abstract, subtle, inspiring and mystical in the world teaching one to look within oneself.
 
