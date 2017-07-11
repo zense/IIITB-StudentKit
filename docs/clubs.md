@@ -74,6 +74,8 @@ Our motto: To produce world finalists every year!
 
 Enigma, the robotics club was founded last year. The club is mentored by the seniors and faculty of the college. Here we hold various workshops and help students to start from basics projects like Maze solver, Line Follower and various other small projects. The objective of this club is to develop awareness and interest in robotics and AI. Core Members of the club get to work on two long term projects- Solar Automated Tiller and Fire Fighting Assisting Drone. These projects are funded and mentored by the college currently.
 
+Follow our <a href="https://www.facebook.com/EnigmaIIITB/" target="_blank">Facebook</a> page.
+
 ## Food Committee
 
 Food Committee at IIIT Bangalore is responsible for managing meals and canteen services in IIIT Bangalore. IIIT Bangalore has students from all across the country so it's a tough job to satisfy everyone's taste but we at Food Committee try our best to do so and in this process get a lot of criticism. Well, going past the such criticism sometimes is what makes us strong at the end of the day. It is extremely important to have managerial skills as a professional and we are pretty sure this is the right place to start as we get to talk to students regarding their food preferences, manage administration and caterers regarding budget, menus and special food for special occasions. When we see empty plates after a meal, it is simply heartwarming as it gives us an immense satisfaction that we helped someone have a great meal.
