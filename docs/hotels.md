@@ -1,4 +1,4 @@
-## Lords Plaza
+## Zone by The Park
 
 26-A, Electronic City Phase - I, Hosur Road, Opp. Infosys,
 Bengaluru, Karnataka 560100
@@ -6,6 +6,8 @@ Bengaluru, Karnataka 560100
 Phone: [**080 4040 8888**](tel:080 4040 8888)
 
 Standard Charge per night: **₹ 3176**
+
+Distance: **350m**
 
 It is the nearest hotel to the college.
 
@@ -18,6 +20,8 @@ Phone: [**080 4423 2323**](tel:080 4423 2323)
 
 Standard Charge per night: **₹ 3062**
 
+Distance: **800m**
+
 ## Oyster Inn
 
 Address: No. V-8, 3rd Cross, Keonics Road, Electronic City Phase 1,
@@ -27,6 +31,8 @@ Phone: [**080 4166 3792**](tel:080 4166 3792)
 
 Standard Charge per night: **₹ 2445**
 
+Distance: **1.2km**
+
 ## Golden Tulip
 
 Address: 56-A, Opposite Wipro Gate No. 5, Wipro Avenue, Electronics City
@@ -35,6 +41,8 @@ Phase 1, Bengaluru, Karnataka 560100
 Phone: [**080 4040 9090**](tel:080 4040 9090)
 
 Standard Charge per night: **₹ 4261**
+
+Distance: **850m**
 
 ## OYO Premium Electronic City
 
@@ -54,6 +62,8 @@ Phone: [**070222 81101**](tel:070222 81101)
 
 Standard Charge per night: **₹ 2790**
 
+Distance: **1.3km**
+
 ## Svenska Design Hotel, Bangalore
 
 Address: 56D, Electronic City I, Opp. Wipro Gate 5, Bengaluru, Karnataka
@@ -62,6 +72,8 @@ Address: 56D, Electronic City I, Opp. Wipro Gate 5, Bengaluru, Karnataka
 Phone: [**080 4431 0000**](tel:080 4431 0000)
 
 Standard Charge per night: **₹ 4649**
+
+Distance: **950m**
 
 **Prices are mentioned as of 13/06/2016.**
 
