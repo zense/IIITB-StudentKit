@@ -2,6 +2,8 @@
 
 ## 8Bit
 
+<img src = "../images/clubs/8bit.png"> </img>
+
 8Bit is the official magazine of IIIT Bangalore. It is an entirely student-run club, where they are the sole in-charge of editing the magazine, and deciding its content and structure.
 
 The magazine provides an outlet for your creativity - all your thoughts, artistic endeavors and humor. The best part about 8Bit is that it is not limited to a specific type of content and has a place for everyone - whether you are a designer, artist, writer, editor, poet or just a social person who wants to know people by talking or interviewing them.
@@ -14,6 +16,8 @@ You can check out our editions <a href="https://drive.google.com/open?id=0B1ktCr
 Find us on <a href="https://www.facebook.com/8-Bit-IIIT-Bangalore-698803226888411/" target="_blank">Facebook</a>.
 
 ## Aikyam
+
+<img src = "../images/clubs/aikyam.png"> </img>
 
 Aikyam is the social wing of IIIT Bangalore that was started in 2008 by the students of IIIT Bangalore. It is an initiative taken to help the poor and the needy and understand our <strong>social responsibility</strong>.
 
@@ -53,6 +57,8 @@ The branding team is an integral part of IIIT Bangalore and it wil give you a ha
 
 ## Chhayachitra
 
+<img src = "../images/clubs/Chhayachitra.png"> </img>
+
 The Chhayachitra (Photography Club) at IIIT Bangalore aims to capture each and every beautiful moment of the college's fests and celebrations. Nothing escapes our cameras! Every smile, every moment - whether it's of joy, or just relief from all the exhausting work and every group photo is caught by us. What better feeling can a photographer get other than the perfect click! While creating short films can be tiresome, we have loads of fun ! :) 
 
 We help each other in terms of techniques, skills and perspectives for better shots thus making the best out of ourselves as photographers. Although the club was founded in 2015, it is growing fast and gaining popularity. The club doesn't just revolve around photographs but also manages its own <a href="https://www.youtube.com/user/iiitbmedia" target="_blank">Youtube</a> & <a href="https://www.instagram.com/iiitb_official/" target="_blank">Instagram</a> channel.
@@ -60,6 +66,8 @@ We help each other in terms of techniques, skills and perspectives for better sh
 <em><strong>REMEMBER: All it takes is a camera to start with, be it a smartphone or DSLR.</strong></em>
 
 ## Cite
+
+<img src = "../images/clubs/cite.jpg"> </img>
 
 <a href="https://citeatiiitb.wordpress.com/read/recents/" target="_blank">Cite. (Previously ISoClub) - Curating Ideas, Technology & Entertainment.</a>
 
@@ -71,6 +79,8 @@ Find us on <a href="https://www.facebook.com/citeiiitb/" target="_blank">Faceboo
 
 ## Comic Club
 
+<img src = "../images/clubs/comicClub.jpg"> </img>
+
 People of the world unite! Gather around and share creativity! The Comic Club is a bunch of geeks who love TV shows, movies, anime or any other creative medium for that matter. Our love exists beyond that of simply consuming the media and since our inception, we have made some fantastic comic strips which have been published in 8bit - our college magazine. We also organise Graffiti walls every now and then so that students can showcase their artistic talent on an open platform. We have also been conducting League of Fanatics in our college fest, infin8, which is considered as one of the most anticipated events at IIIT Bangalore. Not to forget those nights when we sat down for hours discussing anime, mangas, movies etc.
 
 So, if you also share the same interests then...
@@ -79,6 +89,8 @@ Hop in, Let's have a great time together!
 Find us on <a href="https://www.facebook.com/millionlaugh/" target="_blank">Facebook</a>.
 
 ## CAMP 
+
+<img src = "../images/clubs/CAMP.png"> </img>
 
 <strong> IIITB Club for Algorithms Math & Programming </strong>
 
@@ -92,7 +104,7 @@ Find us on <a href = "https://www.facebook.com/iiitbcp/" target="_blank"> Facebo
 
 Every time you feel the pressure of assignments and work, the Dance Club comes to the rescue! We provide you with every opportunity to relax, let you hair down, and show us some moves ;)  
 
-Although the club was formed in 2016, we have had tremondous particicpation and the club has grown by leaps and bounds. The club has organized many events, ranging from groovy DJ nights to serious inter-batch dance competitions. We never miss a chance to perform! We dance at all major college events be it the college's Foundation Day, or Independence Day. We even conducted flash mob during our college fest - Infin8.
+Although the club was formed in 2016, we have had tremondous particicpation and the club has grown by leaps and bounds. The club has organized many events, ranging from groovy DJ nights to serious inter-batch dance competitions. We never miss a chance to perform! We dance at all major college events be it the college's Foundation Day, or Independence Day. We even conducted a flash mob during our college fest - Infin8.
 
 We welcome dancers of all genres, be it Classical , Bollywood or hip-hop to come and join us. However, the dance club is not just for "seasoned" dancers, it's for anyone who has a love and passion for dance, and a willingness to learn. We have had professionals take dance lessons at college, including Zumba sessions and a Bollywood dance workshop during Infin8. And there are always dance jams, where anyone can come and have some fun!!
 
@@ -101,6 +113,8 @@ So shake a leg guys... we're waiting for you!
 Join us on <a href = "https://www.facebook.com/groups/840337612790191/" target = "_blank"> Facebook </a>.
 
 ## Enigma (Robotics Club)
+
+<img src = "../images/clubs/enigma.png"> </img>
 
 Enigma, the robotics club was founded in 2016. The objective of this club is to develop awareness and interest in robotics and AI. The club is mentored by the seniors and faculty of the college. Here we hold various workshops and help students to start from basics projects like Maze solver, Line Follower and various other small projects. The club works on a few long term projects including a solar powered tiller and a fire fighting drone. These projects are currently funded and mentored by the college.
 
@@ -114,6 +128,8 @@ So join us and let's try making a comfortable stay and better eating experience 
 
 ## Innovation Studio
 
+<img src = "../images/clubs/innovStudio.png"> </img>
+
 Innovation Studio is a student body, which was formalized in Feb, 2017, with the guidance of <a href="http://www.iiitb.org/" target="_blank">IIIT Bangalore Innovation Center</a> and IIIT Bangalore Faculty.
 We started with an aim to foster creative thinking to deliver products that the society needs. We want to develop an ecosystem which provides students with a necessary platform to realize their ideas by utilizing the guidance provided by our faculty, alumni and the strong network of IIIT Bangalore.
 Our motto is to promote informal learning and unleash the latent technical and entrepreneurial spirit of IIIT Bangalore.
@@ -126,6 +142,8 @@ IIIT Bangalore's Movie Club consists of huge community of movie lovers in the ca
 
 ## Music Club
 
+<img src = "../images/clubs/musicClub.jpg"> </img>
+
 Music club, as the name suggests, is pretty straightforward in its aims and objectives. If you are a singer, an instrumentalist or just a music enthusiast, you are welcome to join us.
 
 Music club has been around for as long as the college has. We have had amazing people, with incredible passion and talent, enthrall us with their awesomeness.
@@ -137,9 +155,11 @@ Find us on <a href="https://www.facebook.com/iiitbmusicon/">Facebook</a>.
 
 ## Placement Committee
 
-Placement Committe (Final year students) in IIIT Bangalore is an interface between students and the numerous companies that visit our campus. We help student prepare for placements as well as organise company drives on campus. Being a part of Placement Committee gives us an opportunity to interact with each and every member of our batch, and after the placements of each and everyone, the feeling of joy and satisfaction we get is just out of the world. We work closely with the administration and faculty members of the Placement Cell which in itself gives us an immense amount of exposure compared to others.
+Placement Committe (Final year students) in IIIT Bangalore is an interface between students and the numerous companies that visit our campus. We help students prepare for placements as well as organise company drives on campus. Being a part of Placement Committee gives us an opportunity to interact with each and every member of our batch, and after the placements of each and everyone, the feeling of joy and satisfaction we get is just out of the world. We work closely with the administration and faculty members of the Placement Cell which in itself gives us an immense amount of exposure compared to others.
 
 ## SPICMACAY IIIT Bangalore Chapter
+
+<img src = "../images/clubs/spicMacay.png"> </img>
 
 <a href="http://spicmacay.com/" target="_blank">SPIC MACAY</a> (Society for the Promotion of Indian Classical Music and Culture Amongst Youth) is a non-political, nationwide, voluntary movement founded in 1977 by Dr Kiran Seth, Professor-Emeritus at IIT-Delhi who was awarded the ‘Padma Shri’ for his contribution to the arts in 2009. It organises programmes of classical music and dance, folk arts, crafts, yoga, classic cinema screenings, heritage walks, etc. inside school and college campuses throughout the world to make students more aware about Indian and world heritage. This initiative makes education more holistic and meaningful as it highlights all that is abstract, subtle, inspiring and mystical in the world teaching one to look within oneself.
 
@@ -162,9 +182,10 @@ If you find yourself bitten by the theatre bug, and want to showcase your talent
 
 ## Zense
 
+<img src = "../images/clubs/zense.jpg"> </img>
+
 <a href="http://zense.co.in/" target="_blank">Zense</a> is the oldest running club at IIIT-B. We are a developers' community, run and managed entirely by our students. We build and break things while working with the bleeding edge of technologies.
 
 Our goal is to unite passionate developers and provide them with a platform to collaborate and innovate. We organise seminars on new technologies, conduct hackathons and promote Open Source culture at IIIT-B.
 
 Find us on <a href="https://www.facebook.com/zense.dev/" target="_blank">Facebook</a> and <a href="https://github.com/zense" target="_blank">GitHub </a>.
-
