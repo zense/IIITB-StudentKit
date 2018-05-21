@@ -153,6 +153,13 @@ SPIC MACAY runs on the energy of volunteers who come from all walks of life - st
 
 <a href="http://spicmacay.com/get-involved" target="_blank">Join us</a>
 
+## Theatre Arts Club (TAC)
+
+The Theatre Arts club is a humble effort to bring the artistic expression to the campus in the form of a plethora of thespian talents such as mime, theatre, street play. We, the members of the TAC have delighted the audience by our performances on Teacher's day, Women's day, as well as raised and created awareness on issues like food wastage(along with Food committee), and sexual harrassment(along with Internal Complains committee), essentially capturing the zeitgeist of quintessential campus life. We also work in collaboration with Chhayachitra in producing promotional videos like Sangam and Yamini promotion, Campus life video etc.
+
+We also participate in interactive college theatre competitions.
+If you find yourself bitten by the theatre bug, and want to showcase your talents in acting, writing, direction and screenplay, costume design or video editing, avail yourself a position amongst us. You are guaranteed to learn, teach, and most importantly have fun.
+
 ## Zense
 
 <a href="http://zense.co.in/" target="_blank">Zense</a> is the oldest running club at IIIT-B. We are a developers' community, run and managed entirely by our students. We build and break things while working with the bleeding edge of technologies.
@@ -160,3 +167,4 @@ SPIC MACAY runs on the energy of volunteers who come from all walks of life - st
 Our goal is to unite passionate developers and provide them with a platform to collaborate and innovate. We organise seminars on new technologies, conduct hackathons and promote Open Source culture at IIIT-B.
 
 Find us on <a href="https://www.facebook.com/zense.dev/" target="_blank">Facebook</a> and <a href="https://github.com/zense" target="_blank">GitHub </a>.
+
