@@ -1,10 +1,15 @@
 <strong>(PS: The following clubs have been arranged in the alphabetical order.)</strong>
+
 ## 8Bit
 
-8Bit is the official magazine of IIIT Bangalore. It is an entirely student-run club, where they are the solely in-charge of the content, editing and structure of the magazine.
-The magazine provides a creative outlet for all your thoughts, artistic endeavors, humor etc. The best part about 8Bit is that, that it is not limited to a specific type of content and has a place for everyone, whether you are a designer, artist, writer, editor, poet or just a social person who wants to know people by talking or interviewing them.
+8Bit is the official magazine of IIIT Bangalore. It is an entirely student-run club, where they are the sole in-charge of editing the magazine, and deciding its content and structure.
+
+The magazine provides an outlet for your creativity - all your thoughts, artistic endeavors and humor. The best part about 8Bit is that it is not limited to a specific type of content and has a place for everyone - whether you are a designer, artist, writer, editor, poet or just a social person who wants to know people by talking or interviewing them.
+
 Here at 8Bit, the bonds are formed over lively discussion sessions and late night editing and designing marathons.
-So join us for a different take in an IT college, to give you a break and let you explore your lesser known interests.
+So join us for a different take in an IT college, to give you a break and let you explore your lesser known interests!
+
+You can check out our editions <a href="https://drive.google.com/open?id=0B1ktCrJiOYtqUGdYd0tkZDdaWm8" target="_blank"> here </a> !!.
 
 Find us on <a href="https://www.facebook.com/8-Bit-IIIT-Bangalore-698803226888411/" target="_blank">Facebook</a>.
 
@@ -12,9 +17,13 @@ Find us on <a href="https://www.facebook.com/8-Bit-IIIT-Bangalore-69880322688841
 
 Aikyam is the social wing of IIIT Bangalore that was started in 2008 by the students of IIIT Bangalore. It is an initiative taken to help the poor and the needy and understand our <strong>social responsibility</strong>.
 
-What we do as part of Aikyam is, plan ‘Aikyam Trips’ to visit orphanages occasionally and spend our day with the children there. We usually collect funds from the students in college before any trip. We buy the necessary items for the children there and also give the funds collected to the orphanage. We generally visit the ‘<a href="http://www.desiresociety.org/" target="_blank">Desire Society</a>’ - which is a home for HIV affected kids (aged between 3-15) and ‘Swanthana’ - which is a home for mentally and physically challenged girls. Apart from this, frequently we collect articles like clothes, food and books from the students and donate them to the needy. For example, <a href="https://www.facebook.com/permalink.php?story_fbid=1165116266895953&id=130926363648287" target="_blank">last year on Eid</a>, we collected these articles and donated them to the <a href="http://goonj.org/page_id=22873/" target="_blank">Goonj society</a>. Also, we conduct activities in college to spread social awareness among the students. For example, we started two initiatives last year - <a href="https://www.youtube.com/watch?v=ocJbYOnic60&feature=youtu.be" target="_blank">The Little Things and <a href="https://www.facebook.com/pg/Aikyam-130926363648287/photos/?tab=album&album_id=1170969112977335" target="_blank">The Tiny Tales</a>. The Little Things is an initiative where the students make a short video to convey their concern to protect the environment or to support a social cause. The Tiny Tales is another such event where the students write a line or two on what they think they can do for the society. And we organise events to raise funds for donation. One such event is putting up a lemonade stall or pani puri stall during the college fest. We also help in organising blood donation camps at our college.
+What we do as part of Aikyam is plan ‘Aikyam Trips’ to visit orphanages occasionally and spend our day with the children there. We usually collect funds from the students in college before any trip. We buy the necessary items for the children there and also give the funds collected to the orphanage. We generally visit the ‘<a href="http://www.desiresociety.org/" target="_blank">Desire Society</a>’ - a home for HIV affected kids (aged between 3-15) , and ‘Swanthana’ - which is a home for mentally and physically challenged girls. Apart from this, we frequently collect articles like clothes, food and books from the students and donate them to the needy. For example, <a href="https://www.facebook.com/permalink.php?story_fbid=1165116266895953&id=130926363648287" target="_blank">last year on Eid</a>, we collected these articles and donated them to the <a href="http://goonj.org/page_id=22873/" target="_blank">Goonj society</a>. 
 
-Why we do all this is? We believe that ‘Unity is the secret of social progress, and service to society is the means to promote it’. We spread happiness and awareness. This is the place where we can do our bit for the society and be thankful for all that we have.  
+We also conduct activities in college to spread social awareness among the students. For example, we started two initiatives in 2016 - <a href="https://www.youtube.com/watch?v=ocJbYOnic60&feature=youtu.be" target="_blank">The Little Things and <a href="https://www.facebook.com/pg/Aikyam-130926363648287/photos/?tab=album&album_id=1170969112977335" target="_blank">The Tiny Tales</a>. The Little Things is an initiative where the students make a short video to convey their concern to protect the environment or to support a social cause. The Tiny Tales is another such event where the students write a line or two on what they think they can do for the society. We organise events to raise funds for donation. One such event was putting up a lemonade stall or pani puri stall during the college fest. We also help in organising blood donation camps at our college.
+
+Last year, we celebrated Diwali as a family with all members of our staff. We invited them along with their loved ones to join us and organized games and fun-filled activities for them. We provided them with clothes and money given by the students, along with sweets and crackers so that they could mingle with us on the occasion.
+
+Why do we do all this? We believe that ‘Unity is the secret of social progress, and service to society is the means to promote it’. We spread happiness and awareness. This is the place where we can do our bit for the society and be thankful for all that we have.  
 
 We look forward to join more hands to make our society a happier place to live in. To send in your opinions on what you can do or share any idea on social responsibility or for more such social activities, do mail us at <a href="mailto:aikyam@iiitb.org" target="_blank">aikyam@iiitb.org</a>.
 
@@ -22,30 +31,35 @@ Find us on <a href="https://www.facebook.com/Aikyam-130926363648287/" target="_b
 
 ## Alumni Committee
 
-Being a part of Alumni committee helps us to have a close relationship with the Alumni network of IIIT Bangalore. This enables us to learn and grow as individuals with the help of our alumni's testimonials and suggestion. We also get to organise regular Alumni meets and fests in the campus just to connect them to their batchmates and relive those college days which they were part of.
+Being a part of Alumni committee helps us to have a close relationship with the Alumni network of IIIT Bangalore. This enables us to learn and grow as individuals with the help of our alumni's testimonials and suggestions. The various Alumni meets and fests which we organize help them connect with their batchmates and relive those college days which they were a part of.
 
-Being a part of this committee will enable you to make contacts, improve your managerial skills and not to forget the aura of being connected to seniors who are making it big in the corporate world.
+Being a part of this committee will enable you to make contacts, improve your managerial skills and not to forget ,give you the aura of being connected to seniors who are making it big in the corporate world.
 
 ## Branding Committee
 
 The Branding team looks after admissions, exchange programs, outreach and placements.IIIT Bangalore is an industry centric, innovative, advanced, student empowered institute and we highlight this through brand promotion and marketing.
-IIIT Bangalore should be known as an institute that is fair, flexible, friendly, socially sensitive and on top of all these, has excellent academic and research facilities. Few of the facilities are mentioned below:
-· Post graduate education and research in Information Technology
-· World-class faculty members, vibrant alumni community
-· Cutting-edge research work
-· Close industry collaboration
-· State-of-the-art campus infrastructure
+IIIT Bangalore should be known as an institute that is fair, flexible, friendly, socially sensitive and on top of all these,as an institute which has excellent academic and research facilities. Few of the facilities are mentioned below:
+
+- Post graduate education and research in Information Technology
+- World-class faculty members, vibrant alumni community
+- Cutting-edge research work
+- Close industry collaboration
+- State-of-the-art campus infrastructure
  
-The branding committee ensures that IIIT Bangalore participates in ranking surveys,educational and career fairs and Govt. Events. It ensures regular update of content on various platforms . It manages the <a href="https://twitter.com/IIITB_official" target="_blank">Twitter page</a>, <a href="https://www.facebook.com/IIITBofficial/" target="_blank">Facebook page</a> & <a href="https://www.linkedin.com/school/800493/" target="_blank">Linkedin</a>. The committee also helps organise various college fests, Infin8, Spandan etc.
+
+The branding committee ensures that IIIT Bangalore participates in ranking surveys,educational and career fairs and Govt. Events. It ensures regular update of content on various platforms . You can visit us at <a href="https://twitter.com/IIITB_official" target="_blank">Twitter </a>, <a href="https://www.facebook.com/IIITBofficial/" target="_blank">Facebook </a> & <a href="https://www.linkedin.com/school/800493/" target="_blank">Linkedin</a>. The committee also helps organise various college fests such as Infin8 and Spandan .
+
 The branding team is an integral part of IIIT Bangalore and it wil give you a hands-on experience of marketing,logistics and branding .
 
-## Chaayachitra
+## Chhayachitra
 
-The Chhayachitra (Photography Club) at IIIT Bangalore aims to capture every moment during all the college fests and celebrations. All those smiles, moments of relief and joy, and all those groupies with your friends are captured by our cameras. What better feeling can a camera person get other than a perfect click. Creating short films can be tiresome but it can also be a lot of  fun . We help each other in terms of techniques, skills, perspectives for better clicks thus making the best out of ourselves as photographers. Although the club was founded just two years back, it is growing fast and gaining popularity. The club doesn't just revolve around photographs but also manages <a href="https://www.youtube.com/user/iiitbmedia" target="_blank">Youtube</a> & <a href="https://www.instagram.com/iiitb_official/" target="_blank">Instagram</a> .
+The Chhayachitra (Photography Club) at IIIT Bangalore aims to capture each and every beautiful moment of the college's fests and celebrations. Nothing escapes our cameras! Every smile, every moment - whether it's of joy, or just relief from all the exhausting work and every group photo is caught by us. What better feeling can a photographer get other than the perfect click! While creating short films can be tiresome, we have loads of fun ! :) 
 
-<em><strong>REMEMBER: All it takes is a camera to start with, be it a smartphone or  DSLR.</strong></em>
+We help each other in terms of techniques, skills and perspectives for better shots thus making the best out of ourselves as photographers. Although the club was founded in 2015, it is growing fast and gaining popularity. The club doesn't just revolve around photographs but also manages its own <a href="https://www.youtube.com/user/iiitbmedia" target="_blank">Youtube</a> & <a href="https://www.instagram.com/iiitb_official/" target="_blank">Instagram</a> channel.
 
-## Cite.
+<em><strong>REMEMBER: All it takes is a camera to start with, be it a smartphone or DSLR.</strong></em>
+
+## Cite
 
 <a href="https://citeatiiitb.wordpress.com/read/recents/" target="_blank">Cite. (Previously ISoClub) - Curating Ideas, Technology & Entertainment.</a>
 
@@ -57,22 +71,38 @@ Find us on <a href="https://www.facebook.com/citeiiitb/" target="_blank">Faceboo
 
 ## Comic Club
 
-People of the world unite! Gather around and share creativity! The Comic Club is a bunch of geeks who love TV shows, movies, anime or any other creative medium for that matter. Our love exists beyond that of simply consuming the media and since our inception we have made some fantastic comic strips which have been published in 8bit, our college magazine and organised Graffiti walls every now and then so that students can showcase their talent on an open platform. We have also been conducting League of Fanatics in our college fest, infin8 which is considered as one of the most anticipated events at IIIT Bangalore. Not to forget those nights when we sat down for hours discussing anime, mangas, movies etc.
+People of the world unite! Gather around and share creativity! The Comic Club is a bunch of geeks who love TV shows, movies, anime or any other creative medium for that matter. Our love exists beyond that of simply consuming the media and since our inception, we have made some fantastic comic strips which have been published in 8bit - our college magazine. We also organise Graffiti walls every now and then so that students can showcase their artistic talent on an open platform. We have also been conducting League of Fanatics in our college fest, infin8, which is considered as one of the most anticipated events at IIIT Bangalore. Not to forget those nights when we sat down for hours discussing anime, mangas, movies etc.
 
 So, if you also share the same interests then...
 Hop in, Let's have a great time together!
 
 Find us on <a href="https://www.facebook.com/millionlaugh/" target="_blank">Facebook</a>.
 
-## CP Club
+## CAMP 
 
-This club is all about competitive programming! The sharpest of minds work here. Competitive programming involves application of algorithms and data-structures to solve complex problems within the time and memory constraints .The club was formed only last year and is lead by ACM-ICPC world finalists. The club activities involve group discussions, problem solving and competitions.  
+<strong> IIITB Club for Algorithms Math & Programming </strong>
 
-Our motto: To produce world finalists every year!
+This club is all about competitive programming! The sharpest of minds work here. Competitive programming involves application of algorithms and data-structures to solve complex problems within the specified time and memory constraints .The club was formed in 2016 and is lead by ACM-ICPC world finalists. The club's activities involve group discussions, problem solving and competitions.  
+
+Our motto: To produce ACM-ICPC world finalists every year!
+
+Find us on <a href = "https://www.facebook.com/iiitbcp/" target="_blank"> Facebook .</a>
+
+## Dance Club
+
+Every time you feel the pressure of assignments and work, the Dance Club comes to the rescue! We provide you with every opportunity to relax, let you hair down, and show us some moves ;)  
+
+Although the club was formed in 2016, we have had tremondous particicpation and the club has grown by leaps and bounds. The club has organized many events, ranging from groovy DJ nights to serious inter-batch dance competitions. We never miss a chance to perform! We dance at all major college events be it the college's Foundation Day, or Independence Day. We even conducted flash mob during our college fest - Infin8.
+
+We welcome dancers of all genres, be it Classical , Bollywood or hip-hop to come and join us. However, the dance club is not just for "seasoned" dancers, it's for anyone who has a love and passion for dance, and a willingness to learn. We have had professionals take dance lessons at college, including Zumba sessions and a Bollywood dance workshop during Infin8. And there are always dance jams, where anyone can come and have some fun!!
+
+So shake a leg guys... we're waiting for you!
+
+Join us on <a href = "https://www.facebook.com/groups/840337612790191/" target = "_blank"> Facebook </a>.
 
 ## Enigma (Robotics Club)
 
-Enigma, the robotics club was founded last year. The club is mentored by the seniors and faculty of the college. Here we hold various workshops and help students to start from basics projects like Maze solver, Line Follower and various other small projects. The objective of this club is to develop awareness and interest in robotics and AI. Core Members of the club get to work on two long term projects- Solar Automated Tiller and Fire Fighting Assisting Drone. These projects are funded and mentored by the college currently.
+Enigma, the robotics club was founded in 2016. The objective of this club is to develop awareness and interest in robotics and AI. The club is mentored by the seniors and faculty of the college. Here we hold various workshops and help students to start from basics projects like Maze solver, Line Follower and various other small projects. The club works on a few long term projects including a solar powered tiller and a fire fighting drone. These projects are currently funded and mentored by the college.
 
 Follow our <a href="https://www.facebook.com/EnigmaIIITB/" target="_blank">Facebook</a> page.
 
@@ -97,7 +127,9 @@ IIIT Bangalore's Movie Club consists of huge community of movie lovers in the ca
 ## Music Club
 
 Music club, as the name suggests, is pretty straightforward in its aims and objectives. If you are a singer, an instrumentalist or just a music enthusiast, you are welcome to join us.
-Music club has been around for as long as the college has.We have had amazing people, with incredible passion and talent, enthrall us with their awesomeness.
+
+Music club has been around for as long as the college has. We have had amazing people, with incredible passion and talent, enthrall us with their awesomeness.
+
 We organise musical nights, where everyone who's part of the club (and others if time permits) get to perform. People in the club also get opportunities to be part of IIIT Bangalore Foundation day, infin8, Spandan and convocation.
 Being a part of the club is a wonderful opportunity to meet people equally passionate as you, people with varied tastes in music and people who might give you a new perspective in the way you look at music. Those late night jamming sessions and musical nights will be totally worth the time you invest.
 
@@ -111,7 +143,11 @@ Placement Committe (Final year students) in IIIT Bangalore is an interface betwe
 
 <a href="http://spicmacay.com/" target="_blank">SPIC MACAY</a> (Society for the Promotion of Indian Classical Music and Culture Amongst Youth) is a non-political, nationwide, voluntary movement founded in 1977 by Dr Kiran Seth, Professor-Emeritus at IIT-Delhi who was awarded the ‘Padma Shri’ for his contribution to the arts in 2009. It organises programmes of classical music and dance, folk arts, crafts, yoga, classic cinema screenings, heritage walks, etc. inside school and college campuses throughout the world to make students more aware about Indian and world heritage. This initiative makes education more holistic and meaningful as it highlights all that is abstract, subtle, inspiring and mystical in the world teaching one to look within oneself.
 
-Among the events that SPIC MACAY IIIT-B chapter organised last year were the Piano concert by Balázs Fülei (pianist from Hungary), Bihu dance by Shri Ranjit Gogoi and team, Chitravina concert by Sri N Ravikiran and Sitar concert by Shri Gaurav Mazumdar. We also had the rare privilege to host Dr. Kiran Seth during a session on Naad Yoga on the campus.
+Among the events that SPIC MACAY IIIT-B chapter organised in the previous years were the Piano concert by Balázs Fülei (pianist from Hungary), Bihu dance by Shri Ranjit Gogoi and team, Chitravina concert by Sri N Ravikiran and Sitar concert by Shri Gaurav Mazumdar. We also had the rare privilege to host Dr. Kiran Seth during a session on Naad Yoga on the campus.
+
+The events organised last year include a violin performance by the maestro TN Krishnan, Bharatanatyam performance by P Praveen Kumar and Yamini.
+
+Yamini was a night filled with pleasant melodies and captivating dances. For twelve hours, from October 31st 6PM to November 31st 6 AM, we were enthralled by the performnaces of leading artistes - by the lilting movements of Methil Devika's Mohiniattam, Carnatic and Hindustani vocals by Bombay Jayashri and Shruti Sadolikar, and the soothing notes of Nityanand Haldipur's Hindustani Bansuri and Seshampatti Sivalingam's Nadaswaram. 
 
 SPIC MACAY runs on the energy of volunteers who come from all walks of life - students, teachers, housewives, professional and retired people, young and old. Nishkam Seva is a key aspect of the movement.
 
@@ -119,8 +155,8 @@ SPIC MACAY runs on the energy of volunteers who come from all walks of life - st
 
 ## Zense
 
-<a href="http://zense.co.in/" target="_blank">Zense</a> is all about product development. We keep in touch with the bleeding edge of new technologies and experiment with cool new tools and services. With new things being released each day it is harder and harder to keep in touch with the pace of technology. This community will help you catch up.
+<a href="http://zense.co.in/" target="_blank">Zense</a> is the oldest running club at IIIT-B. We are a developers' community, run and managed entirely by our students. We build and break things while working with the bleeding edge of technologies.
 
-Our aim is to unite passionate developers and provide them a platform to collaborate and innovate with other geeky folks and to establish a community that promotes a Do-It-Yourself culture and quench your thirst for knowledge. You can get your idea and collaborate with people with the appropriate skill set for your ideas.
+Our goal is to unite passionate developers and provide them with a platform to collaborate and innovate. We organise seminars on new technologies, conduct hackathons and promote Open Source culture at IIIT-B.
 
-Find us on <a href="https://www.facebook.com/zense.dev/" target="_blank">Facebook</a>.
+Find us on <a href="https://www.facebook.com/zense.dev/" target="_blank">Facebook</a> and <a href="https://github.com/zense" target="_blank">GitHub </a>.
