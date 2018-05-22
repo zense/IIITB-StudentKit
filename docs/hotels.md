@@ -11,6 +11,8 @@ Distance: **350m**
 
 It is the nearest hotel to the college.
 
+<a href ="http://www.zonebythepark.com/hotel-in-bengaluru/overview.php">Link for the hotel website</a>
+
 ## Lemon Tree Hotel
 
 Address: No.54B/, 55A, Hosur Main Road, Electronics City Phase 1,
@@ -21,6 +23,8 @@ Phone: [**080 4423 2323**](tel:080 4423 2323)
 Standard Charge per night: **₹ 3062**
 
 Distance: **800m**
+
+<a href="https://www.lemontreehotels.com/lemon-tree-hotel/bengaluru/electronics-city-bengaluru.aspx">Link for the hotel website</a>
 
 ## Oyster Inn
 
@@ -33,6 +37,8 @@ Standard Charge per night: **₹ 2445**
 
 Distance: **1.2km**
 
+<a href="http://www.oysterinn.in/">Link for the hotel website</a>
+
 ## Golden Tulip
 
 Address: 56-A, Opposite Wipro Gate No. 5, Wipro Avenue, Electronics City
@@ -43,6 +49,8 @@ Phone: [**080 4040 9090**](tel:080 4040 9090)
 Standard Charge per night: **₹ 4261**
 
 Distance: **850m**
+
+<a href="http://www.goldentulipbangalore.com/">Link for the hotel website</a>
 
 ## OYO Premium Electronic City
 
@@ -64,6 +72,8 @@ Standard Charge per night: **₹ 2790**
 
 Distance: **1.3km**
 
+<a href="http://www.vinayaroyalinn.com/">Link for the hotel website</a>
+
 ## Svenska Design Hotel, Bangalore
 
 Address: 56D, Electronic City I, Opp. Wipro Gate 5, Bengaluru, Karnataka
@@ -75,5 +85,7 @@ Standard Charge per night: **₹ 4649**
 
 Distance: **950m**
 
-**Prices are mentioned as of 13/06/2016.**
+<a href="http://www.svenskahotels.com/hotels/bangalore/">Link for the hotel website</a>
+
+**Prices are mentioned as of 13/06/2016. Check the current prices on the website of the hotels mentioned above.**
 
