@@ -2,7 +2,7 @@
 
 ## 8Bit
 
-<img src = "../images/clubs/8bit.png"> </img>
+<img src = "../images/clubs/8bit.png" > </img>
 
 8Bit is the official magazine of IIIT Bangalore. It is an entirely student-run club, where they are the sole in-charge of editing the magazine, and deciding its content and structure.
 
@@ -17,7 +17,7 @@ Find us on <a href="https://www.facebook.com/8-Bit-IIIT-Bangalore-69880322688841
 
 ## Aikyam
 
-<img src = "../images/clubs/aikyam.png"> </img>
+<img src = "../images/clubs/aikyam.png" > </img>
 
 Aikyam is the social wing of IIIT Bangalore that was started in 2008 by the students of IIIT Bangalore. It is an initiative taken to help the poor and the needy and understand our <strong>social responsibility</strong>.
 
@@ -57,7 +57,7 @@ The branding team is an integral part of IIIT Bangalore and it wil give you a ha
 
 ## Chhayachitra
 
-<img src = "../images/clubs/Chhayachitra.png"> </img>
+<img src = "../images/clubs/Chhayachitra.png" width="500" height="300"> </img>
 
 The Chhayachitra (Photography Club) at IIIT Bangalore aims to capture each and every beautiful moment of the college's fests and celebrations. Nothing escapes our cameras! Every smile, every moment - whether it's of joy, or just relief from all the exhausting work and every group photo is caught by us. What better feeling can a photographer get other than the perfect click! While creating short films can be tiresome, we have loads of fun ! :) 
 
@@ -67,7 +67,7 @@ We help each other in terms of techniques, skills and perspectives for better sh
 
 ## Cite
 
-<img src = "../images/clubs/cite.jpg"> </img>
+<img src = "../images/clubs/cite.jpg" width="500" height="300"> </img>
 
 <a href="https://citeatiiitb.wordpress.com/read/recents/" target="_blank">Cite. (Previously ISoClub) - Curating Ideas, Technology & Entertainment.</a>
 
@@ -90,7 +90,7 @@ Find us on <a href="https://www.facebook.com/millionlaugh/" target="_blank">Face
 
 ## CAMP 
 
-<img src = "../images/clubs/CAMP.png"> </img>
+<img src = "../images/clubs/CAMP.png" > </img>
 
 <strong> IIITB Club for Algorithms Math & Programming </strong>
 
@@ -142,7 +142,7 @@ IIIT Bangalore's Movie Club consists of huge community of movie lovers in the ca
 
 ## Music Club
 
-<img src = "../images/clubs/musicClub.jpg"> </img>
+<img src = "../images/clubs/musicClub.jpg" width="500" height="300"> </img>
 
 Music club, as the name suggests, is pretty straightforward in its aims and objectives. If you are a singer, an instrumentalist or just a music enthusiast, you are welcome to join us.
 
@@ -159,7 +159,7 @@ Placement Committe (Final year students) in IIIT Bangalore is an interface betwe
 
 ## SPICMACAY IIIT Bangalore Chapter
 
-<img src = "../images/clubs/spicMacay.png"> </img>
+<img src = "../images/clubs/spicMacay.png" width="350" height="150"> </img>
 
 <a href="http://spicmacay.com/" target="_blank">SPIC MACAY</a> (Society for the Promotion of Indian Classical Music and Culture Amongst Youth) is a non-political, nationwide, voluntary movement founded in 1977 by Dr Kiran Seth, Professor-Emeritus at IIT-Delhi who was awarded the ‘Padma Shri’ for his contribution to the arts in 2009. It organises programmes of classical music and dance, folk arts, crafts, yoga, classic cinema screenings, heritage walks, etc. inside school and college campuses throughout the world to make students more aware about Indian and world heritage. This initiative makes education more holistic and meaningful as it highlights all that is abstract, subtle, inspiring and mystical in the world teaching one to look within oneself.
 
@@ -182,7 +182,7 @@ If you find yourself bitten by the theatre bug, and want to showcase your talent
 
 ## Zense
 
-<img src = "../images/clubs/zense.jpg"> </img>
+<img src = "../images/clubs/zense.jpg" > </img>
 
 <a href="http://zense.co.in/" target="_blank">Zense</a> is the oldest running club at IIIT-B. We are a developers' community, run and managed entirely by our students. We build and break things while working with the bleeding edge of technologies.
 
