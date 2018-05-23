@@ -19,7 +19,7 @@ Spandan also gives a chance to all those gamers, who spend hours together in per
 ![](images/events/fifa1.jpg)
 
 ##Infin8
-Infin8 is an intra college cultural festival conducted by Iiitb every year. it involves various events under a variety of genres where the students of our college participate with enthusiasm and competition. food stalls are invited and this action packed 3 day fest is throughly enjoyed by all the students of the college.
+Infin8 is an intra college cultural festival conducted by IIITB every year. It involves various events under a variety of genres where the students of our college participate with enthusiasm and competition. Food stalls are invited and this action packed 3 day fest is throughly enjoyed by all the students of the college.
 ![](images/events/infin8_1.jpg)
 
 ![](images/events/infin8_2.jpg)
