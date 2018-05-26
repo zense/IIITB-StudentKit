@@ -365,6 +365,14 @@ the Kaveri Falls. River Kaveri divides into two branches and each branch cascade
 cliffs as the Gaganachukki and the Bharachukki, both are one km away from each other.
 These spectacular waterfalls are surrounded by hill forests of the Kaveri Wildlife Sanctuary.
 
+SNOW CITY
+--------
+
+![](images/media/image31.jpeg)
+
+It is the 1st indoor snow park in Bangalore.
+
+
 
 ***Well though these are some recommended places, there are still a lot
 of places to visit and to enjoy and have a great time in Bangalore.***

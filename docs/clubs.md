@@ -122,9 +122,10 @@ Follow our <a href="https://www.facebook.com/EnigmaIIITB/" target="_blank">Faceb
 
 ## Food Committee
 
-Food Committee at IIIT Bangalore is responsible for managing meals and canteen services in IIIT Bangalore. IIIT Bangalore has students from all across the country so it's a tough job to satisfy everyone's taste but we at Food Committee try our best to do so and in this process get a lot of criticism. Well, going past the such criticism sometimes is what makes us strong at the end of the day. It is extremely important to have managerial skills as a professional and we are pretty sure this is the right place to start as we get to talk to students regarding their food preferences, manage administration and caterers regarding budget, menus and special food for special occasions. When we see empty plates after a meal, it is simply heartwarming as it gives us an immense satisfaction that we helped someone have a great meal.
-
-So join us and let's try making a comfortable stay and better eating experience for everyone at IIIT Bangalore.
+Food committee at IIIT Bangalore is a student body which acts as a bridge between the caterer and the students. The committee works on very sensitive and crucial issues like maintaining the sanitary conditions of kitchen, mess, and canteen. They negotiate with the caterer, prepare a menu and try to fit a balance between the taste and quality of the food served in mess. Since IIIT Bangalore has students from all across the country sometimes it becomes difficult to serve everyone as per their needs and wishes for that they have an excellent complaint portal, they not only respond but also solve the problem within 48 hrs in most cases. 
+This committee gives an exposure to different food cultures in our country and also builds confidence to deal with people of different backgrounds, some are literate some are not, few are so adamant about their point that you need real negotiation skills to get your point established. 
+If you are someone who needs to polish their managerial skills, friend, this is the right place to start with.
+Join us and make a wonderful eating experience for everyone at IIIT Bangalore.
 
 ## Innovation Studio
 
