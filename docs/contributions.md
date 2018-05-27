@@ -10,7 +10,10 @@
   - Anshika Gupta
   - Anshuk Uppal
   - Prachi Dhamange
-  - Vaibhav Aggarwal
+  - Mudita Baid
+  - Tanishq Gupta
+  - Anubhav Mishra
+  - Ananya Appan
   
 ### Website and Inputs
   - Aditya Thiruvengadam
@@ -22,6 +25,7 @@
   - Tejas Kotha
   - Atibhi Agrawal
   - Vibhav Agarwal
+  - Shreya Joshi
 
 
 ***Your name could be here next year....so come quick :P***

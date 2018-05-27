@@ -2,7 +2,7 @@
 
 ## 8Bit
 
-<img src = "../images/clubs/8bit.png" > </img>
+<img src = "../images/clubs/8bit.png" width="250" height="170"> </img>
 
 8Bit is the official magazine of IIIT Bangalore. It is an entirely student-run club, where they are the sole in-charge of editing the magazine, and deciding its content and structure.
 
@@ -40,6 +40,8 @@ Being a part of Alumni committee helps us to have a close relationship with the 
 Being a part of this committee will enable you to make contacts, improve your managerial skills and not to forget ,give you the aura of being connected to seniors who are making it big in the corporate world.
 
 ## Branding Committee
+
+<img src="../images/clubs/branding.jpg" > </img>
 
 The Branding team looks after admissions, exchange programs, outreach and placements.IIIT Bangalore is an industry centric, innovative, advanced, student empowered institute and we highlight this through brand promotion and marketing.
 IIIT Bangalore should be known as an institute that is fair, flexible, friendly, socially sensitive and on top of all these,as an institute which has excellent academic and research facilities. Few of the facilities are mentioned below:
@@ -123,7 +125,9 @@ Follow our <a href="https://www.facebook.com/EnigmaIIITB/" target="_blank">Faceb
 ## Food Committee
 
 Food committee at IIIT Bangalore is a student body which acts as a bridge between the caterer and the students. The committee works on very sensitive and crucial issues like maintaining the sanitary conditions of kitchen, mess, and canteen. They negotiate with the caterer, prepare a menu and try to fit a balance between the taste and quality of the food served in mess. Since IIIT Bangalore has students from all across the country sometimes it becomes difficult to serve everyone as per their needs and wishes for that they have an excellent complaint portal, they not only respond but also solve the problem within 48 hrs in most cases. 
-This committee gives an exposure to different food cultures in our country and also builds confidence to deal with people of different backgrounds, some are literate some are not, few are so adamant about their point that you need real negotiation skills to get your point established. 
+
+This committee gives an exposure to different food cultures in our country and also builds confidence to deal with people of different backgrounds, some are literate some are not, few are so adamant about their point that you need real negotiation skills to get your point established.
+
 If you are someone who needs to polish their managerial skills, friend, this is the right place to start with.
 Join us and make a wonderful eating experience for everyone at IIIT Bangalore.
 
@@ -141,9 +145,11 @@ Find us on <a href="https://www.facebook.com/Innovation-Studio-IIIT-B-1281436805
 
 IIIT Bangalore's Movie Club consists of huge community of movie lovers in the campus who discuss the latest cine world buzz in an active Facebook group. Movies connect us. The sole purpose of the club is to develop acute movie watching skills to nurture depth in film viewing and appreciation. The collective movie watching experience with best friends is fun at another level needless to say. Being movie enthusiasts, we know that feeling, hence, we organise bi-monthly movie screenings of popular movies for everyone in the campus to make memorable moments which will be cherished lifelong.
 
+Find us on <a href = "https://www.facebook.com/groups/1786495348263059/" target = "_blank"> Facebook </a>.
+
 ## Music Club
 
-<img src = "../images/clubs/musicClub.jpg" width="500" height="300"> </img>
+<img src = "../images/clubs/musicClub.jpg" width="500" height="250"> </img>
 
 Music club, as the name suggests, is pretty straightforward in its aims and objectives. If you are a singer, an instrumentalist or just a music enthusiast, you are welcome to join us.
 
@@ -176,10 +182,14 @@ SPIC MACAY runs on the energy of volunteers who come from all walks of life - st
 
 ## Theatre Arts Club (TAC)
 
+<img src="../images/clubs/TAC.jpg" width="350" height="250"> </img>
+
 The Theatre Arts club is a humble effort to bring the artistic expression to the campus in the form of a plethora of thespian talents such as mime, theatre, street play. We, the members of the TAC have delighted the audience by our performances on Teacher's day, Women's day, as well as raised and created awareness on issues like food wastage(along with Food committee), and sexual harrassment(along with Internal Complains committee), essentially capturing the zeitgeist of quintessential campus life. We also work in collaboration with Chhayachitra in producing promotional videos like Sangam and Yamini promotion, Campus life video etc.
 
 We also participate in interactive college theatre competitions.
 If you find yourself bitten by the theatre bug, and want to showcase your talents in acting, writing, direction and screenplay, costume design or video editing, avail yourself a position amongst us. You are guaranteed to learn, teach, and most importantly have fun.
+
+Find us on <a href="https://www.facebook.com/groups/240678619795576/about/" target="_blank"> Facebook </a> .
 
 ## Zense
 
