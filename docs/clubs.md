@@ -43,19 +43,13 @@ Being a part of this committee will enable you to make contacts, improve your ma
 
 <img src="../images/clubs/branding.jpg" > </img>
 
-The Branding team looks after admissions, exchange programs, outreach and placements.IIIT Bangalore is an industry centric, innovative, advanced, student empowered institute and we highlight this through brand promotion and marketing.
-IIIT Bangalore should be known as an institute that is fair, flexible, friendly, socially sensitive and on top of all these,as an institute which has excellent academic and research facilities. Few of the facilities are mentioned below:
+You are doing a great work, but still not getting recognition from others? Then, you have to think of brand building. Building a brand has become an important aspect for each and everyone these days. 
 
-- Post graduate education and research in Information Technology
-- World-class faculty members, vibrant alumni community
-- Cutting-edge research work
-- Close industry collaboration
-- State-of-the-art campus infrastructure
- 
+We, the Branding committee at IIIT Bangalore are happy to give students an opportunity to learn how to build a brand. We do promote our institute's good work to the world and keep working on the betterment of our brand image.  We also publicise Institute events such as Spandan, RISE, Sangam, and so on. The team contributes to the institute's social media pages at the time of events and admissions. Also, we design some of our event invitations, posters and T-shirts. 
 
-The branding committee ensures that IIIT Bangalore participates in ranking surveys,educational and career fairs and Govt. Events. It ensures regular update of content on various platforms . You can visit us at <a href="https://twitter.com/IIITB_official" target="_blank">Twitter </a>, <a href="https://www.facebook.com/IIITBofficial/" target="_blank">Facebook </a> & <a href="https://www.linkedin.com/school/800493/" target="_blank">Linkedin</a>. The committee also helps organise various college fests such as Infin8 and Spandan .
+If you are interested in Branding, Digital Media Marketing and Design you can be a part of Branding committee and get hands-on experience in these areas during your stay at IIIT Bangalore.
 
-The branding team is an integral part of IIIT Bangalore and it wil give you a hands-on experience of marketing,logistics and branding .
+You can visit us at <a href="https://twitter.com/IIITB_official" target="_blank">Twitter </a>, <a href="https://www.facebook.com/IIITBofficial/" target="_blank">Facebook </a> & <a href="https://www.linkedin.com/school/800493/" target="_blank">Linkedin</a>. 
 
 ## Chhayachitra
 
