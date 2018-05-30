@@ -26,10 +26,10 @@ IIIT Bangalore?**
   starts when you have a borderline rank. It then comes down
   to you, whether you want the IIT tag or the branch of your choice.
 
-  We have once proven that IIITB does not lag behind the IIT's. With the
+  We have once proven that IIIT Bangalore does not lag behind the IIT's. With the
   introduction to the iMTech course, we plan to do it again. The students
   here are extremely passionate about their course and many have even preferred
-  joining IIITB over the new IIT's. IIT's are considered superior to us and this
+  joining IIIT Bangalore over the new IIT's. IIT's are considered superior to us and this
   drives us to put in an extra effort to show that we are second to none.
 
 2. **Why should I join the 5-year dual degree programme? In the 4-year
@@ -53,7 +53,7 @@ programme, I finish one year early.**
 
   Weigh 'your' options and plan well!!! That's the only true comparator.
 
-3. **What have been the placements of students from IIITB?**
+3. **What have been the placements of students from IIIT Bangalore?**
 
     The first iMTech batch has passed out this year and the placement statistics
     were pretty much better than expected, thanks to the excellent placement committee.
@@ -82,7 +82,7 @@ available?**
   designed to support those who require financial assistance. Typical
   amount of these scholarships is 20K-60K (per year).
 
-5. **What is the criteria for scholarship at IIITB and what costs does
+5. **What is the criteria for scholarship at IIIT Bangalore and what costs does
     it cover?**
 
   Scholarship amounts vary from year to year depending on the available
@@ -99,23 +99,23 @@ available?**
     IIIT fees is higher than IITs and NITs since it is only partially funded
     by the government (PPP model) unlike the latter institutes, thus, it has
     to manage its own expenses. Also, with the current increment in the fees
-    of IITs, their fees is nearly the same as that of IIITB.
+    of IITs, their fees is nearly the same as that of IIIT Bangalore.
 
-    Also, IIITB provides much better facilities compared to most government
+    Also, IIIT Bangalore provides much better facilities compared to most government
     colleges (single rooms, hot water etc.).
 
 7. **Does a 5 year course put me at a disadvantage for pursuing M.S.
     from foreign Universities?**
 
   No, a 5 year course does not put you at any disadvantage. In fact many
-  students from IIITB so pursue M.S. and PhDs from foreign universities.
+  students from IIIT Bangalore so pursue M.S. and PhDs from foreign universities.
 
   Many of our seniors in iMTech batches have completed their internships
   in MIT (USA), Australia, Germany and so forth.
 
-8. **What is the infrastructure of IIITB like?**
+8. **What is the infrastructure of IIIT Bangalore like?**
 
-  IIITB has an excellent state-of-art infrastructure. We have spacious
+  IIIT Bangalore has an excellent state-of-art infrastructure. We have spacious
   hostels with all modern facilities, fully air-conditioned Academic Block
   and a newly constructed Infosys Academic Block.
 
@@ -140,7 +140,7 @@ wise)?**
   No, there is no management quota.
 
 12. **Are there any SC/ST/BC, one girl child, physically challenged etc. quotas for
-admissions in IIITB?**
+admissions in IIIT Bangalore ?**
 
   No, there is no reservation.
 
@@ -171,7 +171,7 @@ admissions in IIITB?**
 
   No, branch change is not allowed after admission.
 
-5. **If I pay the acceptance fees for iMtech at IIITB and later make it
+5. **If I pay the acceptance fees for iMtech at IIIT Bangalore and later make it
 to some other place that I prefer, will I get any refund?**
 
   Yes, your acceptance fees will be refunded.
@@ -181,9 +181,9 @@ to some other place that I prefer, will I get any refund?**
   The fees will be mentioned in your offer later. It is usually the fees
   for the first semester.
 
-7. **What is the scene of ragging at IIITB?**
+7. **What is the scene of ragging at IIIT Bangalore?**
 
-  IIITB is a totally ragging free campus. There is a healthy relationship
+  IIIT Bangalore is a totally ragging free campus. There is a healthy relationship
   between seniors and juniors. Juniors can take help or guidance from
   seniors without any hesitation.
 
@@ -206,9 +206,9 @@ to some other place that I prefer, will I get any refund?**
 
 ##Facilities FAQs
 
-1. **What are the nearby hotels around IIITB?**
+1. **What are the nearby hotels around IIIT Bangalore?**
 
-  There are a variety of hotels available around IIITB, in all budget
+  There are a variety of hotels available around IIIT Bangalore, in all budget
   brackets. More information regarding the same can be obtained from the
   following websites:
 
@@ -216,13 +216,13 @@ to some other place that I prefer, will I get any refund?**
   - <a href="https://www.oyorooms.com/search?adults=1&checkin=02%2F07%2F2017&checkout=03%2F07%2F2017&children=0&city=bangalore&country=India&employee_id=null&guests=1&latitude=12.839939&location=Electronic%20City&longitude=77.677003&page=1&rooms=1&searchType=locality&src=null" target="_blank">OYO Rooms</a>
   - <a href="https://www.trivago.in/?cpt=135852702&iRoomType=7&aHotelTestClassifier=&iIncludeAll=0&iGeoDistanceLimit=20000&aPartner=&iPathId=84774&iGeoDistanceItem=1358527&aDateRange%5Barr%5D=2017-07-23&aDateRange%5Bdep%5D=2017-07-24&iViewType=0&bIsSeoPage=false&bIsSitemap=false&" target="_blank">Trivago.com</a> etc.
 
-  Also see the **<a href="http://studentkit.zense.co.in/#hotels" target="_blank"> related document </a>** to it in the IIITB Student Kit.
+  Also see the **<a href="http://studentkit.zense.co.in/#hotels" target="_blank"> related document </a>** to it in the IIIT Bangalore Student Kit.
 
 2. **Is there a hostel facility on campus? What about the other
 facilities?**
 
   Yes, Both men and women hostel facility is provided by the college.
-  IIITB does not have any concept of “day-scholars” i.e. hostel stay is
+  IIIT Bangalore does not have any concept of “day-scholars” i.e. hostel stay is
   compulsory for everyone. Other facilities include a state of the art
   mess, canteen (operational from 6 am to 2 am), hot water for drinking
   and bathing round the clock, water coolers for drinking water etc.
@@ -236,7 +236,7 @@ facilities?**
 
 4. **How are the sports facilities ?**
 
-  IIITB believes in the fitness of mind and body. There is a compulsory
+  IIIT Bangalore believes in the fitness of mind and body. There is a compulsory
   Physical Education course for the first year students during which
   they are exposed to physical exercises and other sports.
 
@@ -252,7 +252,7 @@ facilities?**
 
 6. **How's the internet facility at IIIT Bangalore?**
 
-  IIITB offers the best possible internet connectivity to all it's
+  IIIT Bangalore offers the best possible internet connectivity to all it's
   students. All students need to register their devices once and then can
   use WiFi or LAN to connect to the internet. The connection speed is good
   enough and allows one to surf the web conveniently.
@@ -264,7 +264,7 @@ Clubs on campus?**
 
   iMTech students have done projects on iRobot.
   Please go to this link to see **<a href="http://studentkit.zense.co.in/docs/video.html" target="_blank">
-  Projects @ IIITB </a>.**
+  Projects @ IIIT Bangalore </a>.**
 
   Also we have multiple other clubs like the 8bit Club, Zense Developers Group , Comic Club
   and many others.
@@ -281,7 +281,7 @@ Clubs on campus?**
     -   ***Chaayachitra - Photography Club IIITB***
     -   ***Maths Club IIITB***
 
-8. **What are the Fests held in IIITB?**
+8. **What are the Fests held in IIIT Bangalore?**
 
   An annual intracollege sports fest Spandan, is held each year, which
   sees participation from both students and alumni alike. Also, we have a
@@ -289,15 +289,15 @@ Clubs on campus?**
 
 9. **Is the transport facility (college bus) available?**
 
-  No, we do not provide transport facility but IIIT-B campus is very
-  well connected to all the public places. IIITB also boasts of being right in
+  No, we do not provide transport facility but IIIT Bangalore campus is very
+  well connected to all the public places. IIIT Bangalore also boasts of being right in
   front of the bus stop, hence direct buses to the airport etc. are
   available at regular intervals.
 
-10. **Where is IIIT-B located in Bangalore? What facilities are
+10. **Where is IIIT Bangalore located in Bangalore? What facilities are
 available in its vicinity?**
 
-  IIITB is located in Electronic City Phase - 1, which is the IT hub of
+  IIIT Bangalore is located in Electronic City Phase - 1, which is the IT hub of
   the city and boasts of having the headquarters of Infosys, Wipro etc.
   Hence facilities like reasonable food outlets, hospitals, hotels etc. are
   all very easily reachable.
@@ -335,7 +335,7 @@ available in its vicinity?**
   would be fine. There are also shops nearby for SIM cards and mobile
   repair.
 
-15. **What is the system in IIITB for washing clothes (students)?**
+15. **What is the system in IIIT Bangalore for washing clothes (students)?**
 
   The students are required to wash their own clothes or avail the
   services of any laundry service of their choice. The hostel does not

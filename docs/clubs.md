@@ -164,7 +164,7 @@ Placement Committe (Final year students) in IIIT Bangalore is an interface betwe
 
 <a href="http://spicmacay.com/" target="_blank">SPIC MACAY</a> (Society for the Promotion of Indian Classical Music and Culture Amongst Youth) is a non-political, nationwide, voluntary movement founded in 1977 by Dr Kiran Seth, Professor-Emeritus at IIT-Delhi who was awarded the ‘Padma Shri’ for his contribution to the arts in 2009. It organises programmes of classical music and dance, folk arts, crafts, yoga, classic cinema screenings, heritage walks, etc. inside school and college campuses throughout the world to make students more aware about Indian and world heritage. This initiative makes education more holistic and meaningful as it highlights all that is abstract, subtle, inspiring and mystical in the world teaching one to look within oneself.
 
-Among the events that SPIC MACAY IIIT-B chapter organised in the previous years were the Piano concert by Balázs Fülei (pianist from Hungary), Bihu dance by Shri Ranjit Gogoi and team, Chitravina concert by Sri N Ravikiran and Sitar concert by Shri Gaurav Mazumdar. We also had the rare privilege to host Dr. Kiran Seth during a session on Naad Yoga on the campus.
+Among the events that SPIC MACAY IIIT Bangalore chapter organised in the previous years were the Piano concert by Balázs Fülei (pianist from Hungary), Bihu dance by Shri Ranjit Gogoi and team, Chitravina concert by Sri N Ravikiran and Sitar concert by Shri Gaurav Mazumdar. We also had the rare privilege to host Dr. Kiran Seth during a session on Naad Yoga on the campus.
 
 The events organised last year include a violin performance by the maestro TN Krishnan, Bharatanatyam performance by P Praveen Kumar and Yamini.
 
@@ -189,8 +189,8 @@ Find us on <a href="https://www.facebook.com/groups/240678619795576/about/" targ
 
 <img src = "../images/clubs/zense.jpg" > </img>
 
-<a href="http://zense.co.in/" target="_blank">Zense</a> is the oldest running club at IIIT-B. We are a developers' community, run and managed entirely by our students. We build and break things while working with the bleeding edge of technologies.
+<a href="http://zense.co.in/" target="_blank">Zense</a> is the oldest running club at IIIT Bangalore. We are a developers' community, run and managed entirely by our students. We build and break things while working with the bleeding edge of technologies.
 
-Our goal is to unite passionate developers and provide them with a platform to collaborate and innovate. We organise seminars on new technologies, conduct hackathons and promote Open Source culture at IIIT-B.
+Our goal is to unite passionate developers and provide them with a platform to collaborate and innovate. We organise seminars on new technologies, conduct hackathons and promote Open Source culture at IIIT Bangalore.
 
 Find us on <a href="https://www.facebook.com/zense.dev/" target="_blank">Facebook</a> and <a href="https://github.com/zense" target="_blank">GitHub </a>.
