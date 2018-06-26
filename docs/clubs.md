@@ -61,7 +61,7 @@ We help each other in terms of techniques, skills and perspectives for better sh
 
 <em><strong>REMEMBER: All it takes is a camera to start with, be it a smartphone or DSLR.</strong></em>
 
-## Cite
+<!-- ## Cite
 
 <img src = "../images/clubs/cite.jpg" width="500" height="300"> </img>
 
@@ -71,7 +71,7 @@ The club took its present form this April with an aim to make the campus, a sta
 
 **REMEMBER: It never starts with a sophisticated one!!!**
 
-Find us on <a href="https://www.facebook.com/citeiiitb/" target="_blank">Facebook</a> & <a href="https://www.instagram.com/cite_iiitb/?hl=en" target="_bank">Instagram</a>.
+Find us on <a href="https://www.facebook.com/citeiiitb/" target="_blank">Facebook</a> & <a href="https://www.instagram.com/cite_iiitb/?hl=en" target="_bank">Instagram</a>. -->
 
 ## Comic Club
 
