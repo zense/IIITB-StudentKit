@@ -5,13 +5,29 @@ Bengaluru, Karnataka 560100
 
 Phone: [**080 4040 8888**](tel:080 4040 8888)
 
-Standard Charge per night: **₹ 3176**
+Standard Charge per night: **₹ 3200**
 
 Distance: **350m**
 
-It is the nearest hotel to the college.
+It is the nearest hotel to the college from main gate.
 
-<a href ="http://www.zonebythepark.com/hotel-in-bengaluru/overview.php">Link for the hotel website</a>
+<a href ="http://www.zonebythepark.com/hotel-in-bengaluru/overview.php">Link for the hotel website.</a>
+
+
+## Rest Inn SKR Hotels
+
+27/E ,Near IIITB back gate, In front of ISBR business school, Telephone Exchange Road, Electronic City Phase I, Electronic City, Bengaluru, Karnataka 560100
+
+Phone: [**080 4585 8555**](tel:080 4585 8555)
+
+Standard Charge per night: **₹ 2000**
+
+Distance: **150m from back gate and 1.0km from main gate**
+
+It is the nearest hotel to the college from back gate.
+
+<a href ="https://www.makemytrip.com/hotels/rest_inn_skr_hotel-details-bangalore.html">Link for the hotel details.</a>
+
 
 ## Lemon Tree Hotel
 
@@ -20,7 +36,7 @@ Electronic City, Bengaluru, Karnataka 560100
 
 Phone: [**080 4423 2323**](tel:080 4423 2323)
 
-Standard Charge per night: **₹ 3062**
+Standard Charge per night: **₹ 4500**
 
 Distance: **800m**
 
@@ -33,11 +49,11 @@ Bengaluru, Karnataka 560100
 
 Phone: [**080 4166 3792**](tel:080 4166 3792)
 
-Standard Charge per night: **₹ 2445**
+Standard Charge per night: **₹ 2400**
 
 Distance: **1.2km**
 
-<a href="http://www.oysterinn.in/">Link for the hotel website</a>
+<a href="http://www.oysterinn.in/">Link for the hotel website.</a>
 
 ## Golden Tulip
 
@@ -46,11 +62,11 @@ Phase 1, Bengaluru, Karnataka 560100
 
 Phone: [**080 4040 9090**](tel:080 4040 9090)
 
-Standard Charge per night: **₹ 4261**
+Standard Charge per night: **₹ 4500**
 
 Distance: **850m**
 
-<a href="http://www.goldentulipbangalore.com/">Link for the hotel website</a>
+<a href="http://www.goldentulipbangalore.com/">Link for the hotel website.</a>
 
 ## OYO Premium Electronic City
 
@@ -59,7 +75,7 @@ Electronics City Phase 1, Bengaluru, Karnataka 560100
 
 Phone: [**093139 31393**](tel:093139 31393)
 
-Standard Charge per night: **₹ 2419**
+Standard Charge per night: **₹ 2500**
 
 ## Vinaya Royal Inn
 
@@ -68,11 +84,11 @@ Electronic City, Bengaluru, Karnataka 560100
 
 Phone: [**070222 81101**](tel:070222 81101)
 
-Standard Charge per night: **₹ 2790**
+Standard Charge per night: **₹ 2800**
 
 Distance: **1.3km**
 
-<a href="http://www.vinayaroyalinn.com/">Link for the hotel website</a>
+<a href="http://www.vinayaroyalinn.com/">Link for the hotel website.</a>
 
 ## Svenska Design Hotel, Bangalore
 
@@ -81,11 +97,11 @@ Address: 56D, Electronic City I, Opp. Wipro Gate 5, Bengaluru, Karnataka
 
 Phone: [**080 4431 0000**](tel:080 4431 0000)
 
-Standard Charge per night: **₹ 4649**
+Standard Charge per night: **₹ 4600**
 
 Distance: **950m**
 
-<a href="http://www.svenskahotels.com/hotels/bangalore/">Link for the hotel website</a>
+<a href="http://www.svenskahotels.com/hotels/bangalore/">Link for the hotel website.</a>
 
-**Prices are mentioned as of 13/06/2016. Check the current prices on the website of the hotels mentioned above.**
+**Prices(Approximate) are mentioned as of 20/06/2019 . Check the current prices on the website of the hotels mentioned above.**
 
