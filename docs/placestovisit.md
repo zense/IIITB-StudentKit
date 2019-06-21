@@ -69,6 +69,18 @@ popularly known as Cubbon Park. With more than 600 different kinds of
 flora, mesmerising landscapes and vast open spaces, this park is
 frequented to experience the serenity of nature.
 
+
+SNOW CITY
+--------
+
+![](images/media/image31.jpeg)
+
+
+Snow City is Bangalore's first snow and ice park spread across 12,500 square feet. Eco-friendly snow while exploring its fantasy snow castle, the rocky snow mountain and several other many fun activities. For your entertainment you have mountain climbing, igloo house, stage for Dancing in the cold, you climb up the Hill, you sit on a wheel shaped balloon and slide down at a speed, Snow Fairy, a canteen inside in case you need a hot drink and snack, in the last 15 minutes with colourful disco lights and music turned on! Snow City also has a 9D theatre that screens short films in addition to interactive games like laser tag and shooting - both for an extra fee.
+
+
+
+
 INNOVATIVE FILM CITY Bangalore
 -------------------------------
 
@@ -365,12 +377,7 @@ the Kaveri Falls. River Kaveri divides into two branches and each branch cascade
 cliffs as the Gaganachukki and the Bharachukki, both are one km away from each other.
 These spectacular waterfalls are surrounded by hill forests of the Kaveri Wildlife Sanctuary.
 
-SNOW CITY
---------
 
-![](images/media/image31.jpeg)
-
-It is the 1st indoor snow park in Bangalore.
 
 
 
