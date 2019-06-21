@@ -57,7 +57,10 @@ You can visit us at <a href="https://twitter.com/IIITB_official" target="_blank"
 
 The Chhayachitra (Photography Club) at IIIT Bangalore aims to capture each and every beautiful moment of the college's fests and celebrations. Nothing escapes our cameras! Every smile, every moment - whether it's of joy, or just relief from all the exhausting work and every group photo is caught by us. What better feeling can a photographer get other than the perfect click! While creating short films can be tiresome, we have loads of fun ! :) 
 
-We help each other in terms of techniques, skills and perspectives for better shots thus making the best out of ourselves as photographers. Although the club was founded in 2015, it is growing fast and gaining popularity. The club doesn't just revolve around photographs but also manages its own <a href="https://www.youtube.com/user/iiitbmedia" target="_blank">Youtube</a> & <a href="https://www.instagram.com/iiitb_official/" target="_blank">Instagram</a> channel.
+We help each other in terms of techniques, skills and perspectives for better shots thus making the best out of ourselves as photographers. Although the club was founded in 2015, it is growing fast and gaining popularity.
+<!-- 
+The club doesn't just revolve around photographs but also manages its own <a href="https://www.youtube.com/user/iiitbmedia" target="_blank">Youtube</a> & <a href="https://www.instagram.com/iiitb_official/" target="_blank">Instagram</a> channel. 
+-->
 
 <em><strong>REMEMBER: All it takes is a camera to start with, be it a smartphone or DSLR.</strong></em>
 
@@ -71,7 +74,9 @@ The club took its present form this April with an aim to make the campus, a sta
 
 **REMEMBER: It never starts with a sophisticated one!!!**
 
-Find us on <a href="https://www.facebook.com/citeiiitb/" target="_blank">Facebook</a> & <a href="https://www.instagram.com/cite_iiitb/?hl=en" target="_bank">Instagram</a>. -->
+Find us on <a href="https://www.facebook.com/citeiiitb/" target="_blank">Facebook</a> & <a href="https://www.instagram.com/cite_iiitb/?hl=en" target="_bank">Instagram</a>. 
+
+-->
 
 ## Comic Club
 
