@@ -208,7 +208,7 @@
 
 <tr class="even">
 <td></td>
-<td><p>KScavenger Hunt</p></td>
+<td><p>Scavenger Hunt</p></td>
 <td><p>02:00 PM - 04:00 PM</p></td>
 <td><p> By Deep Inder</p></td>
 </tr>
