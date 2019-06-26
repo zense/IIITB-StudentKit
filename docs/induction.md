@@ -196,7 +196,7 @@
 <td></td>
 <td><p>Karaoke Nights</p></td>
 <td><p>09:00 PM - 10:00 PM</p></td>
-<td><p> By Avik Bhatnagar and Ayush Mishra </p></td>
+<td><p> By Babes Bhatnagar and Ayush Mishra </p></td>
 </tr>
 
 <tr class="odd">
