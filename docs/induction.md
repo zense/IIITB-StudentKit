@@ -122,6 +122,261 @@
 <td><p> By Comic Club</p></td>
 </tr>
 
+<tr class="odd">
+<td><p><strong>Monday, 5</strong><sup><strong>th</strong></sup> <strong>August</strong></p></td>
+<td><p>Lectures</p></td>
+<td><p>09:00 AM - 5:00 PM</p></td>
+<td><p> </p></td>
+</tr>
+
+<tr class="even">
+<td></td>
+<td><p>Photography Workshop-1</p></td>
+<td><p>8:30 PM - 10:00 PM</p></td>
+<td><p> By Tejas Kotha for batch of 60 (IMT2019001 to IMT2019060) </p></td>
+</tr>
+
+<tr class="odd">
+<td><p><strong>Tuesday, 6</strong><sup><strong>th</strong></sup> <strong>August</strong></p></td>
+<td><p>Lectures</p></td>
+<td><p>09:00 AM - 5:00 PM</p></td>
+<td><p> </p></td>
+</tr>
+
+<tr class="even">
+<td></td>
+<td><p>Photography Workshop-2</p></td>
+<td><p>8:30 PM - 10:00 PM</p></td>
+<td><p> By Tejas Kotha for batch of 60 (Rest of students) </p></td>
+</tr>
+
+<tr class="odd">
+<td><p><strong>Wednesday, 6</strong><sup><strong>th</strong></sup> <strong>August</strong></p></td>
+<td><p>Lectures</p></td>
+<td><p>09:00 AM - 5:00 PM</p></td>
+<td><p> </p></td>
+</tr>
+
+<tr class="odd">
+<td><p><strong>Thursday, 7</strong><sup><strong>th</strong></sup> <strong>August</strong></p></td>
+<td><p>Lectures</p></td>
+<td><p>09:00 AM - 5:00 PM</p></td>
+<td><p> </p></td>
+</tr>
+
+<tr class="even">
+<td></td>
+<td><p>Enigma</p></td>
+<td><p>8:30 PM - 10:00 PM</p></td>
+<td><p>A general introductory session on Robotics by Enigma club</p></td>
+</tr>
+
+<tr class="odd">
+<td><p><strong>Friday, 9</strong><sup><strong>th</strong></sup> <strong>August</strong></p></td>
+<td><p>Lectures</p></td>
+<td><p>09:00 AM - 5:00 PM</p></td>
+<td><p> </p></td>
+</tr>
+
+<tr class="even">
+<td></td>
+<td><p>Night Olympics</p></td>
+<td><p>9:00 PM - 11:00 PM</p></td>
+<td><p> </p></td>
+</tr>
+
+<tr class="odd">
+<td><p><strong>Saturday, 10</strong><sup><strong>th</strong></sup> <strong>August</strong></p></td>
+<td><p>Zense-2</p></td>
+<td><p>11:00 AM - 12:30 PM</p></td>
+<td><p>Session by IMT'18 Zense members </p></td>
+</tr>
+
+<tr class="even">
+<td></td>
+<td><p>Karaoke Nights</p></td>
+<td><p>09:00 PM - 10:00 PM</p></td>
+<td><p> By Avik Bhatnagar and Ayush Mishra </p></td>
+</tr>
+
+<tr class="odd">
+<td><p><strong>Sunday, 11</strong><sup><strong>th</strong></sup> <strong>August</strong></p></td>
+<td><p>Photography Session</p></td>
+<td><p>11:00 AM - 12:30 PM</p></td>
+<td><p>By Tejas Kotha for complete batch </p></td>
+</tr>
+
+<tr class="even">
+<td></td>
+<td><p>KScavenger Hunt</p></td>
+<td><p>02:00 PM - 04:00 PM</p></td>
+<td><p> By Deep Inder</p></td>
+</tr>
+
+<tr class="odd">
+<td><p><strong>Monday, 12</strong><sup><strong>th</strong></sup> <strong>August</strong></p></td>
+<td><p>Lectures</p></td>
+<td><p>09:00 AM-05:00 PM</p></td>
+<td><p> </p></td>
+</tr>
+
+<tr class="even">
+<td><p><strong>Tuesday, 13</strong><sup><strong>th</strong></sup> <strong>August</strong></p></td>
+<td><p>Lectures</p></td>
+<td><p>09:00 AM-05:00 PM</p></td>
+<td><p> </p></td>
+</tr>
+
+<tr class="odd">
+<td></td>
+<td><p>Workshops-1</p></td>
+<td><p>09:00 PM - 10:30 PM</p></td>
+<td><p> Batches of 30 students each. Dance/Music/Debate</p></td>
+</tr>
+
+<tr class="even">
+<td><p><strong>Wednesday, 14</strong><sup><strong>th</strong></sup> <strong>August</strong></p></td>
+<td><p>Lectures</p></td>
+<td><p>09:00 AM-05:00 PM</p></td>
+<td><p> </p></td>
+</tr>
+
+<tr class="odd">
+<td></td>
+<td><p>Workshops-2</p></td>
+<td><p>09:00 PM - 10:30 PM</p></td>
+<td><p> Batches of 30 students each. Dance/Music/Debate</p></td>
+</tr>
+
+<tr class="even">
+<td><p><strong>Thursday, August 15</strong><sup><strong>th</strong></sup></p></td>
+<td><p>Independence Day Celebrations</p></td>
+<td><p>9:00 AM – 10:00 AM</p>
+<p>Lawn Area near Reception, Academic Block</p></td>
+<td><p>The celeberation ceremony for 73rd Independence day of India.</p>
+<p>VANDE MATRAM</p></td>
+</tr>
+
+<tr class="odd">
+<td></td>
+<td><p>Digital Art-1A</p></td>
+<td><p>09:00 PM - 10:30 PM</p></td>
+<td><p> Batch of 60 students.By Shreyas Gupta</p></td>
+</tr>
+
+<tr class="even">
+<td><p><strong>Friday, 16</strong><sup><strong>th</strong></sup> <strong>August</strong></p></td>
+<td><p>Lectures</p></td>
+<td><p>09:00 AM-05:00 PM</p></td>
+<td><p> </p></td>
+</tr>
+
+<tr class="odd">
+<td></td>
+<td><p>Digital Art-1B</p></td>
+<td><p>09:00 PM - 10:30 PM</p></td>
+<td><p> Batch of 60 students.By Shreyas Gupta</p></td>
+</tr>
+
+<tr class="even">
+<td><p><strong>Saturday, 17</strong><sup><strong>th</strong></sup> <strong>August</strong></p></td>
+<td><p>Social Service</p></td>
+<td><p>Tentative Timings</p></td>
+<td><p> By Aikyam </p></td>
+</tr>
+
+<tr class="odd">
+<td><p><strong>Monday, 19</strong><sup><strong>th</strong></sup> <strong>August</strong></p></td>
+<td><p>Lectures</p></td>
+<td><p>09:00 AM-05:00 PM</p></td>
+<td><p> </p></td>
+</tr>
+
+<tr class="even">
+<td><p><strong>Tuesday, 20</strong><sup><strong>th</strong></sup> <strong>August</strong></p></td>
+<td><p>Lectures</p></td>
+<td><p>09:00 AM-05:00 PM</p></td>
+<td><p> </p></td>
+</tr>
+
+<tr class="odd">
+<td></td>
+<td><p>Workshops-3</p></td>
+<td><p>08:30 PM - 10:00 PM</p></td>
+<td><p> Batches of 30 students each. Dance/Music/Debate</p></td>
+</tr>
+
+<tr class="even">
+<td><p><strong>Wednesday, 21</strong><sup><strong>st</strong></sup> <strong>August</strong></p></td>
+<td><p>Lectures</p></td>
+<td><p>09:00 AM-05:00 PM</p></td>
+<td><p> </p></td>
+</tr>
+
+<tr class="odd">
+<td></td>
+<td><p>Workshops-4</p></td>
+<td><p>08:30 PM - 10:00 PM</p></td>
+<td><p> Batches of 30 students each. Dance/Music/Debate</p></td>
+</tr>
+
+<tr class="even">
+<td><p><strong>Thursday, 22</strong><sup><strong>nd</strong></sup> <strong>August</strong></p></td>
+<td><p>Lectures</p></td>
+<td><p>09:00 AM-05:00 PM</p></td>
+<td><p> </p></td>
+</tr>
+
+<tr class="odd">
+<td></td>
+<td><p>Digital Art-2A</p></td>
+<td><p>08:30 PM - 10:00 PM</p></td>
+<td><p> Batch of 60 students.By Shreyas Gupta</p></td>
+</tr>
+
+<tr class="even">
+<td><p><strong>Friday, 16</strong><sup><strong>th</strong></sup> <strong>August</strong></p></td>
+<td><p>Lectures</p></td>
+<td><p>09:00 AM-05:00 PM</p></td>
+<td><p> </p></td>
+</tr>
+
+<tr class="odd">
+<td></td>
+<td><p>Digital Art-2B</p></td>
+<td><p>08:30 PM - 10:00 PM</p></td>
+<td><p> Batch of 60 students.By Shreyas Gupta</p></td>
+</tr>
+
+<tr class="even">
+<td><p><strong>Saturday, 24</strong><sup><strong>th</strong></sup> <strong>August</strong></p></td>
+<td><p>Interaction with Seniors</p></td>
+<td><p>08:30 PM-10:00 PM</p></td>
+<td><p> Know what all you can do</p></td>
+</tr>
+
+<tr class="odd">
+<td><p><strong>Sunday, 25</strong><sup><strong>th</strong></sup> <strong>August</strong></p></td>
+<td><p>Fresher's Video</p></td>
+<td><p>09:00 AM</p></td>
+<td><p> Induction Committee</p></td>
+</tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
