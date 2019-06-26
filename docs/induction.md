@@ -487,7 +487,7 @@
 </tr>
 
 <tr class="odd">
-<td><p><strong>Friday, 15</strong><sup><strong>th</strong></sup> <strong>September </strong></p></td>
+<td><p><strong>Sunday, 15</strong><sup><strong>th</strong></sup> <strong>September </strong></p></td>
 <td><p>Foundation Day</p></td>
 <td><p>5:00 PM - 8:00 PM</p>
 <p>Multi-Purpose Hall</p></td>
