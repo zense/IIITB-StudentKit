@@ -52,12 +52,11 @@
 
 <tr class="odd">
 <td></td>
-<td><p>BINGO!!! Senior-Junior Interaction, Mentor Intro</p></td>
+<td><p>Ice Breaker</p><p>Interaction with the seniors</p><p>Introduction to the mentors</p></td>
 <td><p> 08:30 PM</p>
-<td><p>Bingo Game by Sql, A delightful interaction with seniors like last year, Mentor details.</p>
-<p> Get to know what you should do and what you can't do (:P) </p>
-<p>You will get to meet new people and make new friends. So be there! </p>
-<p>Come out of your closet. Dare to dream big.....We need you!!! </p>
+<td><p>You will get to meet new people and make new friends. So be there!</p>
+<p>A delightful interaction with seniors, Mentor details.</p>
+<p>Come out of your closet. Dare to dream big.....We need you!!!</p>
 </td>
 </tr>
 
@@ -72,61 +71,58 @@
 <tr class="odd">
 <td><p><strong>Friday, 2</strong><sup><strong>nd</strong></sup> <strong>August</strong></p></td>
 
-<td><p>"Movie Night"</p></td>
+<td><p>Movie Night</p></td>
 <td><p>08:30 PM – 11:00 PM</p></td>
-<td><p>"Screening Committee will show a movie of your choice"</p></td>
+<td><p>Screening Committee will screen a movie of your choice</p></td>
 </tr>
 
 <tr class="even">
 <td><p><strong>Saturday, 3</strong><sup><strong>rd</strong></sup> <strong>August</strong></p></td>
-<td><p>Zense-1 </p></td>
+<td><p>Zense Session 1</p></td>
 <td><p>11:00 AM-12:30 PM </p></td>
-<td><p>Zense is one of the most sought-after club/student-body of our college that expertises in a variety of fields including web development, competitve coding etc. Get a chance to aspire, follow and probably become a member of this nation renowned team!</p> 
-<p> This session will be conducted by IMT'18 Zense members</p></td>
+<td> <p>This session will be conducted by IMT'18 Zense members</p></td>
 </tr>
 
 <tr class="odd">
 <td></td>
-<td><p>"Club Descriptions"</p></td>
+<td><p>Club Intros</p></td>
 <td><p>2:00 PM - 4:00 PM</p></td>
-<td><p> Short intros by the clubs which are not conducting events</p></td>
+<td><p>Short intros by the clubs running on the campus</p></td>
 </tr>
 
 <tr class="even">
 <td></td>
-<td><p>"TEDx Intro"</p></td>
+<td><p>TEDx Intro</p></td>
 <td><p>6:00 PM - 7:30 PM</p></td>
-<td><p></p></td>
+<td><p>A session regarding the TEDx event and how you can be a part of it this year!</p></td>
 </tr>
 
 <tr class="odd">
 <td><p><strong>Sunday, 4</strong><sup><strong>th</strong></sup> <strong>August</strong></p></td>
 <td><p>CAMP Session</p></td>
 <td><p>10:00 AM-11:30 PM </p></td>
-<td><p> </p></td>
+<td><p></p></td>
 </tr>
 
 <tr class="even">
 <td></td>
 <td><p>League of Fanatics</p></td>
 <td><p>5:00 PM - 7:00 PM</p></td>
-<td><p> By Comic Club</p></td>
+<td><p></p></td>
 </tr>
 
 <tr class="odd">
 <td><p><strong>Monday, 5</strong><sup><strong>th</strong></sup> <strong>August</strong></p></td>
 
-<td><p>Photography Workshop-1</p></td>
+<td><p>Photography Workshop Batch-1</p></td>
 <td><p>8:30 PM - 10:00 PM</p></td>
-<td><p> By Tejas Kotha for batch of 60 (IMT2019001 to IMT2019060) </p></td>
+<td><p>If you think photography is done only with DSLRs, this session will make you think again!!</p></td>
 </tr>
 
 <tr class="even">
 <td><p><strong>Tuesday, 6</strong><sup><strong>th</strong></sup> <strong>August</strong></p></td>
-
-<td><p>Photography Workshop-2</p></td>
+<td><p>Photography Workshop Batch-2</p></td>
 <td><p>8:30 PM - 10:00 PM</p></td>
-<td><p> By Tejas Kotha for batch of 60 (Rest of students) </p></td>
 </tr>
 
 
@@ -136,7 +132,7 @@
 
 <td><p>Enigma</p></td>
 <td><p>8:30 PM - 10:00 PM</p></td>
-<td><p>A general introductory session on Robotics by Enigma club</p></td>
+<td><p></p></td>
 </tr>
 
 <tr class="even">
@@ -144,12 +140,12 @@
 
 <td><p>Night Olympics</p></td>
 <td><p>9:00 PM - 11:00 PM</p></td>
-<td><p> </p></td>
+<td><p>A night full of fun & surprise events. Don't dare miss it!!</p></td>
 </tr>
 
 <tr class="odd">
 <td><p><strong>Saturday, 10</strong><sup><strong>th</strong></sup> <strong>August</strong></p></td>
-<td><p>Zense-2</p></td>
+<td><p>Zense Session 2</p></td>
 <td><p>11:00 AM - 12:30 PM</p></td>
 <td><p>Session by IMT'18 Zense members </p></td>
 </tr>
@@ -158,21 +154,21 @@
 <td></td>
 <td><p>Karaoke Nights</p></td>
 <td><p>09:00 PM - 10:00 PM</p></td>
-<td><p> By Avik Bhatnagar and Ayush Mishra </p></td>
+<td><p>Come sing your hearts out!</p></td>
 </tr>
 
 <tr class="odd">
 <td><p><strong>Sunday, 11</strong><sup><strong>th</strong></sup> <strong>August</strong></p></td>
 <td><p>Photography Session</p></td>
 <td><p>11:00 AM - 12:30 PM</p></td>
-<td><p>By Tejas Kotha for complete batch </p></td>
+<td><p>Combined session to review what you've learnt</p></td>
 </tr>
 
 <tr class="even">
 <td></td>
 <td><p>Scavenger Hunt</p></td>
 <td><p>02:00 PM - 04:00 PM</p></td>
-<td><p> By Deep Inder</p></td>
+<td><p></p></td>
 </tr>
 
 
@@ -181,7 +177,7 @@
 
 <td><p>Workshops-1</p></td>
 <td><p>09:00 PM - 10:30 PM</p></td>
-<td><p> Batches of 30 students each. Dance/Music/Debate</p></td>
+<td><p> Batches of 30 students each. Dance/Music/Debate/Art</p></td>
 </tr>
 
 <tr class="even">
@@ -189,7 +185,7 @@
 
 <td><p>Workshops-2</p></td>
 <td><p>09:00 PM - 10:30 PM</p></td>
-<td><p> Batches of 30 students each. Dance/Music/Debate</p></td>
+<td><p> Batches of 30 students each. Dance/Music/Debate/Art</p></td>
 </tr>
 
 <tr class="odd">
@@ -198,14 +194,14 @@
 <td><p>9:00 AM – 10:00 AM</p>
 <p>Lawn Area near Reception, Academic Block</p></td>
 <td><p>The celeberation ceremony for 73rd Independence day of India.</p>
-<p>VANDE MATRAM</p></td>
+<p>VANDE MATARAM</p></td>
 </tr>
 
 <tr class="even">
 <td></td>
 <td><p>Digital Art-1A</p></td>
 <td><p>09:00 PM - 10:30 PM</p></td>
-<td><p> Batch of 60 students.By Shreyas Gupta</p></td>
+<td><p></p></td>
 </tr>
 
 <tr class="odd">
@@ -213,14 +209,14 @@
 
 <td><p>Digital Art-1B</p></td>
 <td><p>09:00 PM - 10:30 PM</p></td>
-<td><p> Batch of 60 students.By Shreyas Gupta</p></td>
+<td><p></p></td>
 </tr>
 
 <tr class="even">
 <td><p><strong>Saturday, 17</strong><sup><strong>th</strong></sup> <strong>August</strong></p></td>
 <td><p>Social Service</p></td>
-<td><p>Tentative Timings</p></td>
-<td><p> By Aikyam </p></td>
+<td><p>09:00 AM - 05:00 PM (Tentative Timings)</p></td>
+<td><p>Spend a day helping the underprivileged!</p></td>
 </tr>
 
 
@@ -230,7 +226,7 @@
 
 <td><p>Workshops-3</p></td>
 <td><p>08:30 PM - 10:00 PM</p></td>
-<td><p> Batches of 30 students each. Dance/Music/Debate</p></td>
+<td><p> Batches of 30 students each. Dance/Music/Debate/Art</p></td>
 </tr>
 
 <tr class="even">
@@ -238,7 +234,7 @@
 
 <td><p>Workshops-4</p></td>
 <td><p>08:30 PM - 10:00 PM</p></td>
-<td><p> Batches of 30 students each. Dance/Music/Debate</p></td>
+<td><p> Batches of 30 students each. Dance/Music/Debate/Art</p></td>
 </tr>
 
 <tr class="odd">
@@ -255,7 +251,7 @@
 
 <td><p>Digital Art-2A</p></td>
 <td><p>08:30 PM - 10:00 PM</p></td>
-<td><p> Batch of 60 students.By Shreyas Gupta</p></td>
+<td><p></p></td>
 </tr>
 
 <tr class="odd">
@@ -263,21 +259,21 @@
 
 <td><p>Digital Art-2B</p></td>
 <td><p>08:30 PM - 10:00 PM</p></td>
-<td><p> Batch of 60 students.By Shreyas Gupta</p></td>
+<td><p></p></td>
 </tr>
 
 <tr class="even">
 <td><p><strong>Saturday, 24</strong><sup><strong>th</strong></sup> <strong>August</strong></p></td>
 <td><p>Interaction with Seniors</p></td>
 <td><p>08:30 PM-10:00 PM</p></td>
-<td><p> Know what all you can do</p></td>
+<td><p></p></td>
 </tr>
 
 <tr class="odd">
 <td><p><strong>Sunday, 25</strong><sup><strong>th</strong></sup> <strong>August</strong></p></td>
 <td><p>Fresher's Video</p></td>
 <td><p>09:00 AM</p></td>
-<td><p> Induction Committee</p></td>
+<td><p></p></td>
 </tr>
 
 
