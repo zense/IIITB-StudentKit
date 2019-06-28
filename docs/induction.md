@@ -7,7 +7,7 @@
 </colgroup>
 <thead>
 <tr class="header">
-<p>The purpose of this workplace Induction is to make your transition into your new role as smooth as possible. The process will help you integrate and make the most out of your life here! So dive right in!</p>
+<p>"There is something magical about new beginnings!"</p><p>The purpose of Induction is to make your transition into this new stage of your life as smooth as possible. The process will help you blend in and make the most out of your life here! So, lets dive right in!</p>
 <th><strong>Day and Date</strong></th>
 <th><strong>Event</strong></th>
 <th><strong>Timings and Venue</strong></th>
@@ -42,21 +42,20 @@
 <tr class="even">
 <td><p><strong>Wednesday, 31</strong><sup><strong>st</strong></sup> <strong>July </strong></p></td>
 <td><p>The First Day Of College</p></td>
-<td><p>Excited! You will finally get a chance to get your hands dirty and dive right in the field that you chose!(The timetable will be provided to you on the day of the orientation)</p>
+<td><p>Classes begin ! Get ready to get your hands dirty and dive right in the field that you chose. (The timetable will be provided on the day of the orientation)</p>
 
 <!-- <p>Also the information will be sent on to your <strong>IIITB Mailing ID</strong></p> -->
 
 </td>
-<td><p>We know it's tough but PLEASE do get early guys and enjoy the breakfast before going to class. Don't forget to take a notebook along with you!(Believe us, the notes DO help!)</td>
+<td><p>It may be tough but do get up early and have a good breakfast before going to class. Don't forget to take a notebook along with you.(Believe us, the notes DO help!)</td>
 </tr>
 
 <tr class="odd">
 <td></td>
 <td><p>Ice Breaker</p><p>Interaction with the seniors</p><p>Introduction to the mentors</p></td>
 <td><p> 08:30 PM</p>
-<td><p>You will get to meet new people and make new friends. So be there!</p>
-<p>A delightful interaction with seniors, Mentor details.</p>
-<p>Come out of your closet. Dare to dream big.....We need you!!!</p>
+<td><p>Meet and mingle with your batchmates and make new friends. Come out of your shells! Be ready for a fun-filled interaction with your seniors.
+Get know your mentors who will help you settle in.</p>
 </td>
 </tr>
 
@@ -65,7 +64,7 @@
 
 <td><p>"School to College"</p></td>
 <td><p>08:30 PM – 10:00 PM</p></td>
-<td><p></p></td>
+<td><p>College might seem like "A whole new world" compared to school; This session will adress exactly that.</p></td>
 </tr>
 
 <tr class="odd">
@@ -80,14 +79,14 @@
 <td><p><strong>Saturday, 3</strong><sup><strong>rd</strong></sup> <strong>August</strong></p></td>
 <td><p>Zense Session 1</p></td>
 <td><p>11:00 AM-12:30 PM </p></td>
-<td> <p>This session will be conducted by IMT'18 Zense members</p></td>
+<td> <p>Get an insight into a whole bunch of exciting areas in this session by the IMT'18 members of Zense - the software development group of IIITB</p></td>
 </tr>
 
 <tr class="odd">
 <td></td>
 <td><p>Club Intros</p></td>
 <td><p>2:00 PM - 4:00 PM</p></td>
-<td><p>Short intros by the clubs running on the campus</p></td>
+<td><p>Short intros by the clubs and committees on the campus</p></td>
 </tr>
 
 <tr class="even">
@@ -101,14 +100,14 @@
 <td><p><strong>Sunday, 4</strong><sup><strong>th</strong></sup> <strong>August</strong></p></td>
 <td><p>CAMP Session</p></td>
 <td><p>10:00 AM-11:30 PM </p></td>
-<td><p></p></td>
+<td><p>Get ready to put those grey cells to work in this session by the Club for Algorithms,Maths & Programming (CAMP) !</p></td>
 </tr>
 
 <tr class="even">
 <td></td>
 <td><p>League of Fanatics</p></td>
 <td><p>5:00 PM - 7:00 PM</p></td>
-<td><p></p></td>
+<td><p>Unleash the anime and series geek in you!</p></td>
 </tr>
 
 <tr class="odd">
@@ -128,11 +127,11 @@
 
 
 <tr class="odd">
-<td><p><strong>Thursday, 7</strong><sup><strong>th</strong></sup> <strong>August</strong></p></td>
+<td><p><strong>Thursday, 8</strong><sup><strong>th</strong></sup> <strong>August</strong></p></td>
 
 <td><p>Enigma</p></td>
 <td><p>8:30 PM - 10:00 PM</p></td>
-<td><p></p></td>
+<td><p>Brace yourselves ,for you will bitten by the robotics bug in this session by Enigma-The robotics club</p></td>
 </tr>
 
 <tr class="even">
@@ -147,7 +146,7 @@
 <td><p><strong>Saturday, 10</strong><sup><strong>th</strong></sup> <strong>August</strong></p></td>
 <td><p>Zense Session 2</p></td>
 <td><p>11:00 AM - 12:30 PM</p></td>
-<td><p>Session by IMT'18 Zense members </p></td>
+<td><p></p></td>
 </tr>
 
 <tr class="even">
@@ -168,7 +167,7 @@
 <td></td>
 <td><p>Scavenger Hunt</p></td>
 <td><p>02:00 PM - 04:00 PM</p></td>
-<td><p></p></td>
+<td><p>Your friends turn foes,as you engage in what is both a battle of wits and a race against time!</p></td>
 </tr>
 
 
@@ -193,7 +192,7 @@
 <td><p>Independence Day Celebrations</p></td>
 <td><p>9:00 AM – 10:00 AM</p>
 <p>Lawn Area near Reception, Academic Block</p></td>
-<td><p>The celeberation ceremony for 73rd Independence day of India.</p>
+<td><p>The ceremony to celebrate the 73rd Independence day of India.</p>
 <p>VANDE MATARAM</p></td>
 </tr>
 
@@ -238,7 +237,7 @@
 </tr>
 
 <tr class="odd">
-<td><p><strong>Will be informed</strong></p></td>
+<td><p><strong>TBA</strong></p></td>
 <td><p>First Batch Photo</p></td>
 <td><p>Timing: Yet to be announced</p>
 <p>Venue will be coordinated by the IIITB Media Lab</p></p></td>
@@ -269,32 +268,27 @@
 <td><p></p></td>
 </tr>
 
+
+
+
 <tr class="odd">
-<td><p><strong>Sunday, 25</strong><sup><strong>th</strong></sup> <strong>August</strong></p></td>
-<td><p>Fresher's Video</p></td>
-<td><p>09:00 AM</p></td>
-<td><p></p></td>
-</tr>
 
-
-<tr class="even">
-
-<td><p><strong>Yet to be declared</strong></p></td>
+<td><p><strong>TBA</strong></p></td>
 <td><p>Coffee with the Director</p></td>
 <td><p>Timings yet to be announced.
 <p>Faculty Lounge, Academic Block</p></td>
-<td><p>Get ready for a personal interaction and coffee with the Director himself! (More information regarding the same will be provided later). Make your impression count.</p></td>
+<td><p>Get ready for a personal interaction and coffee with the Director himself! (More information regarding the same will be provided later).</p></td>
 </tr>
 
-<tr class="odd">
+<tr class="even">
 <td><p><strong>TBA </strong></p></td>
 <td><p> Freshers Night!</p></td>
 <td><p>Late night fun </p>
 <p>Multi-Purpose Hall</p></td>
-<td><p>A night to put your dance shoes on and let your hair down! </p></td>
+<td><p>A night to put on your dancing shoes and let your hair down! </p></td>
 </tr>
 
-<tr class="even">
+<tr class="odd">
 <td><p><strong>Sunday, 15</strong><sup><strong>th</strong></sup> <strong>September </strong></p></td>
 <td><p>Foundation Day</p></td>
 <td><p>5:00 PM - 8:00 PM</p>
@@ -364,7 +358,7 @@
 
 
 
-<!-- 
+<!--
 <tr class="even">
 <td><p><strong>Turesday, August 15</strong><sup><strong>th</strong></sup></p></td>
 <td><p>Independence Day Celebrations</p></td>
@@ -375,7 +369,7 @@
 </tr> -->
 
 
-<!-- 
+<!--
 <tr class="odd">
 <td><p><strong>Will be informed</strong></p></td>
 <td><p>First Batch Photo</p></td>
