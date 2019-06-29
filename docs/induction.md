@@ -1,77 +1,22 @@
 <table class="table">
-<link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet'>
 <colgroup>
 <col width="25%" />
 <col width="25%" />
 <col width="25%" />
 <col width="25%" />
 </colgroup>
-<style>
-
-
-.intro {
-	padding: 30px 0px 30px 0px;
-	width: 1145px;
-	position: sticky;
-	top: 0%;
-	background-color: white;
-	box-sizing: border-box;
-}
-table {
-	text-align: center;
-}
-tr:hover {background-color: #def0ef;}
-th {
-	font-family: 'Roboto';
-	height: 2em;
-	font-size: 1.6em;
-	background-color: #5cb8b2;
-	color: #00000f;
-	text-align: center;
-	position: sticky;
-	top: 10%;
-}
-
-table {
-	background-color: #eef7f7;
-	color: #00000F;
-}
-.dates{
-	font-family: 'Roboto';
-}
-
-td {
-	font-family: 'Roboto';
-}
-
-.footer th {
-	border-radius: 0px 0px 10px 10px;
-	background-color: #5cb8b2;
-	height: 2em;
-	color: #00000F;
-	font-size: 1.8em;
-	position: sticky;
-	top: 30%;
-}
-
-</style>
 <thead>
 <tr class="header">
-<br><h3 style="font-family: 'Roboto'"><i><center>'There is something magical about new beginnings!'</center></i></h3><br>
-
-
-<p class="intro"><b style="color: black; font-size:1.5em">SQUARE</b><span style="font-size: 1.35em">ONE</span>, The Induction Committee has created this timetable to make your transition into this new stage of your life as smooth as possible. The process will help you blend in and make the most out of your life here! So, lets dive right in!</p>
-
-
-<th style="border-radius: 10px 0px 0px 0px"><strong>Day & Date</strong></th>
+<p>"There is something magical about new beginnings!"</p><p>The purpose of Induction is to make your transition into this new stage of your life as smooth as possible. The process will help you blend in and make the most out of your life here! So, lets dive right in!</p>
+<th><strong>Day and Date</strong></th>
 <th><strong>Event</strong></th>
-<th><strong>Timings & Venue</strong></th>
-<th style="border-radius: 0px 10px 0px 0px"><strong>Description</strong></th>
+<th><strong>Timings and Venue</strong></th>
+<th><strong>Description</strong></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td class="dates"><p><strong>Tuesday, 30</strong><strong>th</strong> <strong>July</strong></p></td>
+<td><p><strong>Tuesday, 30</strong><sup><strong>th</strong></sup> <strong>July</strong></p></td>
 <td><p>Students Arrive</p>
 <p>Registration and verification of docs</p></td>
 <td><p>10:00 AM </p>
@@ -95,7 +40,7 @@ td {
 </tr>
 
 <tr class="even">
-<td class="dates"><p><strong>Wednesday, 31</strong><strong>st</strong> <strong>July </strong></p></td>
+<td><p><strong>Wednesday, 31</strong><sup><strong>st</strong></sup> <strong>July </strong></p></td>
 <td><p>The First Day Of College</p></td>
 <td><p>Classes begin ! Get ready to get your hands dirty and dive right in the field that you chose. (The timetable will be provided on the day of the orientation)</p>
 
@@ -115,7 +60,7 @@ Get know your mentors who will help you settle in.</p>
 </tr>
 
 <tr class="even">
-<td class="dates"><p><strong>Thursday, 1</strong><strong>st</strong> <strong>August</strong></p></td>
+<td><p><strong>Thursday, 1</strong><sup><strong>st</strong></sup> <strong>August</strong></p></td>
 
 <td><p>"School to College"</p></td>
 <td><p>08:30 PM – 10:00 PM</p></td>
@@ -123,7 +68,7 @@ Get know your mentors who will help you settle in.</p>
 </tr>
 
 <tr class="odd">
-<td class="dates"><p><strong>Friday, 2</strong><strong>nd</strong> <strong>August</strong></p></td>
+<td><p><strong>Friday, 2</strong><sup><strong>nd</strong></sup> <strong>August</strong></p></td>
 
 <td><p>Movie Night</p></td>
 <td><p>08:30 PM – 11:00 PM</p></td>
@@ -131,7 +76,7 @@ Get know your mentors who will help you settle in.</p>
 </tr>
 
 <tr class="even">
-<td class="dates"><p><strong>Saturday, 3</strong><strong>rd</strong> <strong>August</strong></p></td>
+<td><p><strong>Saturday, 3</strong><sup><strong>rd</strong></sup> <strong>August</strong></p></td>
 <td><p>Zense Session 1</p></td>
 <td><p>11:00 AM-12:30 PM </p></td>
 <td> <p>Get an insight into a whole bunch of exciting areas in this session by the IMT'18 members of Zense - the software development group of IIITB</p></td>
@@ -152,7 +97,7 @@ Get know your mentors who will help you settle in.</p>
 </tr>
 
 <tr class="odd">
-<td class="dates"><p><strong>Sunday, 4</strong><strong>th</strong> <strong>August</strong></p></td>
+<td><p><strong>Sunday, 4</strong><sup><strong>th</strong></sup> <strong>August</strong></p></td>
 <td><p>CAMP Session</p></td>
 <td><p>10:00 AM-11:30 PM </p></td>
 <td><p>Get ready to put those grey cells to work in this session by the Club for Algorithms,Maths & Programming (CAMP) !</p></td>
@@ -166,7 +111,7 @@ Get know your mentors who will help you settle in.</p>
 </tr>
 
 <tr class="odd">
-<td class="dates"><p><strong>Monday, 5</strong><strong>th</strong> <strong>August</strong></p></td>
+<td><p><strong>Monday, 5</strong><sup><strong>th</strong></sup> <strong>August</strong></p></td>
 
 <td><p>Photography Workshop Batch-1</p></td>
 <td><p>8:30 PM - 10:00 PM</p></td>
@@ -174,24 +119,23 @@ Get know your mentors who will help you settle in.</p>
 </tr>
 
 <tr class="even">
-<td class="dates"><p><strong>Tuesday, 6</strong><strong>th</strong> <strong>August</strong></p></td>
+<td><p><strong>Tuesday, 6</strong><sup><strong>th</strong></sup> <strong>August</strong></p></td>
 <td><p>Photography Workshop Batch-2</p></td>
 <td><p>8:30 PM - 10:00 PM</p></td>
-<td></td>
 </tr>
 
 
 
 <tr class="odd">
-<td class="dates"><p><strong>Thursday, 8</strong><strong>th</strong> <strong>August</strong></p></td>
+<td><p><strong>Thursday, 8</strong><sup><strong>th</strong></sup> <strong>August</strong></p></td>
 
 <td><p>Enigma</p></td>
 <td><p>8:30 PM - 10:00 PM</p></td>
-<td><p>Brace yourselves, for you will bitten by the robotics bug in this session by Enigma-The robotics club</p></td>
+<td><p>Brace yourselves ,for you will bitten by the robotics bug in this session by Enigma-The robotics club</p></td>
 </tr>
 
 <tr class="even">
-<td class="dates"><p><strong>Friday, 9</strong><strong>th</strong> <strong>August</strong></p></td>
+<td><p><strong>Friday, 9</strong><sup><strong>th</strong></sup> <strong>August</strong></p></td>
 
 <td><p>Night Olympics</p></td>
 <td><p>9:00 PM - 11:00 PM</p></td>
@@ -199,7 +143,7 @@ Get know your mentors who will help you settle in.</p>
 </tr>
 
 <tr class="odd">
-<td class="dates"><p><strong>Saturday, 10</strong><strong>th</strong> <strong>August</strong></p></td>
+<td><p><strong>Saturday, 10</strong><sup><strong>th</strong></sup> <strong>August</strong></p></td>
 <td><p>Zense Session 2</p></td>
 <td><p>11:00 AM - 12:30 PM</p></td>
 <td><p></p></td>
@@ -207,13 +151,13 @@ Get know your mentors who will help you settle in.</p>
 
 <tr class="even">
 <td></td>
-<td><p>Karaoke Night</p></td>
+<td><p>Karaoke Nights</p></td>
 <td><p>09:00 PM - 10:00 PM</p></td>
 <td><p>Come sing your hearts out!</p></td>
 </tr>
 
 <tr class="odd">
-<td class="dates"><p><strong>Sunday, 11</strong><strong>th</strong> <strong>August</strong></p></td>
+<td><p><strong>Sunday, 11</strong><sup><strong>th</strong></sup> <strong>August</strong></p></td>
 <td><p>Photography Session</p></td>
 <td><p>11:00 AM - 12:30 PM</p></td>
 <td><p>Combined session to review what you've learnt</p></td>
@@ -228,7 +172,7 @@ Get know your mentors who will help you settle in.</p>
 
 
 <tr class="odd">
-<td class="dates"><p><strong>Tuesday, 13</strong><strong>th</strong> <strong>August</strong></p></td>
+<td><p><strong>Tuesday, 13</strong><sup><strong>th</strong></sup> <strong>August</strong></p></td>
 
 <td><p>Workshops-1</p></td>
 <td><p>09:00 PM - 10:30 PM</p></td>
@@ -236,7 +180,7 @@ Get know your mentors who will help you settle in.</p>
 </tr>
 
 <tr class="even">
-<td class="dates"><p><strong>Wednesday, 14</strong><strong>th</strong> <strong>August</strong></p></td>
+<td><p><strong>Wednesday, 14</strong><sup><strong>th</strong></sup> <strong>August</strong></p></td>
 
 <td><p>Workshops-2</p></td>
 <td><p>09:00 PM - 10:30 PM</p></td>
@@ -244,7 +188,7 @@ Get know your mentors who will help you settle in.</p>
 </tr>
 
 <tr class="odd">
-<td class="dates"><p><strong>Thursday, August 15</strong><strong>th</strong></p></td>
+<td><p><strong>Thursday, August 15</strong><sup><strong>th</strong></sup></p></td>
 <td><p>Independence Day Celebrations</p></td>
 <td><p>9:00 AM – 10:00 AM</p>
 <p>Lawn Area near Reception, Academic Block</p></td>
@@ -260,7 +204,7 @@ Get know your mentors who will help you settle in.</p>
 </tr>
 
 <tr class="odd">
-<td class="dates"><p><strong>Friday, 16</strong><strong>th</strong> <strong>August</strong></p></td>
+<td><p><strong>Friday, 16</strong><sup><strong>th</strong></sup> <strong>August</strong></p></td>
 
 <td><p>Digital Art-1B</p></td>
 <td><p>09:00 PM - 10:30 PM</p></td>
@@ -268,7 +212,7 @@ Get know your mentors who will help you settle in.</p>
 </tr>
 
 <tr class="even">
-<td class="dates"><p><strong>Saturday, 17</strong><strong>th</strong> <strong>August</strong></p></td>
+<td><p><strong>Saturday, 17</strong><sup><strong>th</strong></sup> <strong>August</strong></p></td>
 <td><p>Social Service</p></td>
 <td><p>09:00 AM - 05:00 PM (Tentative Timings)</p></td>
 <td><p>Spend a day helping the underprivileged!</p></td>
@@ -277,7 +221,7 @@ Get know your mentors who will help you settle in.</p>
 
 
 <tr class="odd">
-<td class="dates"><p><strong>Tuesday, 20</strong><strong>th</strong> <strong>August</strong></p></td>
+<td><p><strong>Tuesday, 20</strong><sup><strong>th</strong></sup> <strong>August</strong></p></td>
 
 <td><p>Workshops-3</p></td>
 <td><p>08:30 PM - 10:00 PM</p></td>
@@ -285,7 +229,7 @@ Get know your mentors who will help you settle in.</p>
 </tr>
 
 <tr class="even">
-<td class="dates"><p><strong>Wednesday, 21</strong><strong>st</strong> <strong>August</strong></p></td>
+<td><p><strong>Wednesday, 21</strong><sup><strong>st</strong></sup> <strong>August</strong></p></td>
 
 <td><p>Workshops-4</p></td>
 <td><p>08:30 PM - 10:00 PM</p></td>
@@ -293,7 +237,7 @@ Get know your mentors who will help you settle in.</p>
 </tr>
 
 <tr class="odd">
-<td class="dates"><p><strong>TBA</strong></p></td>
+<td><p><strong>TBA</strong></p></td>
 <td><p>First Batch Photo</p></td>
 <td><p>Timing: Yet to be announced</p>
 <p>Venue will be coordinated by the IIITB Media Lab</p></p></td>
@@ -302,7 +246,7 @@ Get know your mentors who will help you settle in.</p>
 </tr>
 
 <tr class="even">
-<td class="dates"><p><strong>Thursday, 22</strong><strong>nd</strong> <strong>August</strong></p></td>
+<td><p><strong>Thursday, 22</strong><sup><strong>nd</strong></sup> <strong>August</strong></p></td>
 
 <td><p>Digital Art-2A</p></td>
 <td><p>08:30 PM - 10:00 PM</p></td>
@@ -310,7 +254,7 @@ Get know your mentors who will help you settle in.</p>
 </tr>
 
 <tr class="odd">
-<td class="dates"><p><strong>Friday, 23</strong><strong>rd</strong> <strong>August</strong></p></td>
+<td><p><strong>Friday, 23</strong><sup><strong>rd</strong></sup> <strong>August</strong></p></td>
 
 <td><p>Digital Art-2B</p></td>
 <td><p>08:30 PM - 10:00 PM</p></td>
@@ -318,7 +262,7 @@ Get know your mentors who will help you settle in.</p>
 </tr>
 
 <tr class="even">
-<td class="dates"><p><strong>Saturday, 24</strong><strong>th</strong> <strong>August</strong></p></td>
+<td><p><strong>Saturday, 24</strong><sup><strong>th</strong></sup> <strong>August</strong></p></td>
 <td><p>Interaction with Seniors</p></td>
 <td><p>08:30 PM-10:00 PM</p></td>
 <td><p></p></td>
@@ -329,7 +273,7 @@ Get know your mentors who will help you settle in.</p>
 
 <tr class="odd">
 
-<td class="dates"><p><strong>TBA</strong></p></td>
+<td><p><strong>TBA</strong></p></td>
 <td><p>Coffee with the Director</p></td>
 <td><p>Timings yet to be announced.
 <p>Faculty Lounge, Academic Block</p></td>
@@ -337,7 +281,7 @@ Get know your mentors who will help you settle in.</p>
 </tr>
 
 <tr class="even">
-<td class="dates"><p><strong>TBA </strong></p></td>
+<td><p><strong>TBA </strong></p></td>
 <td><p> Freshers Night!</p></td>
 <td><p>Late night fun </p>
 <p>Multi-Purpose Hall</p></td>
@@ -345,22 +289,13 @@ Get know your mentors who will help you settle in.</p>
 </tr>
 
 <tr class="odd">
-<td class="dates"><p><strong>Sunday, 15</strong><strong>th</strong> <strong>September </strong></p></td>
+<td><p><strong>Sunday, 15</strong><sup><strong>th</strong></sup> <strong>September </strong></p></td>
 <td><p>Foundation Day</p></td>
 <td><p>5:00 PM - 8:00 PM</p>
 <p>Multi-Purpose Hall</p></td>
 <td><p>Happy Birthday to IIITB. Enjoy the evening as you bite into the slice of the<strong> Delicious Cake</strong>!</p></td>
 </tr>
-</tbody>
-<tfoot>
-<tr class="footer">
-<th colspan="4" style="border: 0px solid black"><b>Enjoy!</b></th>	
-</tfoot>
-</table>
-<div></div>
-<div></div>
-<div></div>
-<div></div>
+
 
 
 
@@ -400,7 +335,7 @@ Get know your mentors who will help you settle in.</p>
 
 
 <!-- <tr class="even">
-<td class="dates"><p><strong>Saturday/Sunday, 5/6</strong><strong>th</strong> <strong>August</strong></p>
+<td><p><strong>Saturday/Sunday, 5/6</strong><sup><strong>th</strong></sup> <strong>August</strong></p>
 <p><strong>(Finalized date will be told later)</strong></p></td>
 <td><p>Inter Batch Informals along with Introduction to various clubs at IIITB. </p></td>
 <td><p>It's time to meet your seniors.</p>
@@ -412,7 +347,7 @@ Get know your mentors who will help you settle in.</p>
 </tr> -->
 
 <!-- <tr class="odd">
-<td class="dates"><p><strong>Will be informed </strong></p></td>
+<td><p><strong>Will be informed </strong></p></td>
 <td><p>Meeting with the Women's Cell</p>
 </td>
 <td><p>1:00 PM – 2:00 PM</p>
@@ -425,7 +360,7 @@ Get know your mentors who will help you settle in.</p>
 
 <!--
 <tr class="even">
-<td class="dates"><p><strong>Turesday, August 15</strong><strong>th</strong></p></td>
+<td><p><strong>Turesday, August 15</strong><sup><strong>th</strong></sup></p></td>
 <td><p>Independence Day Celebrations</p></td>
 <td><p>9:00 AM – 10:00 AM</p>
 <p>Lawn Area near Reception, Academic Block</p></td>
@@ -436,7 +371,7 @@ Get know your mentors who will help you settle in.</p>
 
 <!--
 <tr class="odd">
-<td class="dates"><p><strong>Will be informed</strong></p></td>
+<td><p><strong>Will be informed</strong></p></td>
 <td><p>First Batch Photo</p></td>
 <td><p>Timing: Yet to be announced</p>
 <p>Venue will be coordinated by the IIITB Media Lab</p></p></td>
@@ -448,7 +383,7 @@ Get know your mentors who will help you settle in.</p>
 
 <!--
 <tr class="even">
-<td class="dates"><p><strong>Will be informed</strong></p></td>
+<td><p><strong>Will be informed</strong></p></td>
 <td><p>Meeting the Zense Developer Group</p></td>
 <td>
 <p>Venue will be coordinated by Zense members</p></td>
@@ -456,14 +391,14 @@ Get know your mentors who will help you settle in.</p>
 </tr>
 
 <tr class="odd">
-<td class="dates"><p><strong>Will be announced</strong></p></td>
+<td><p><strong>Will be announced</strong></p></td>
 <td><p>IIITB Literary Society (8Bit Magazine) Meeting</p></td>
-<td class="dates"><p><strong>Time will be declared later</strong></p></td>
+<td><p><strong>Time will be declared later</strong></p></td>
 <td><p> A meeting with the IIITB Literary Society which is responsible for the conception and running of our magazine. This is the club that makes sure that your creativity has an outlet and an audience.</p><p>So grab the opportunity to let out your inner Tolstoy, Dickens, Wordsworth or even Chetan Bhagat!(Completely your choice!) </td>
 </tr>
 
  <tr class="even">
-<td class="dates"><p><strong>Will be informed</strong></p></td>
+<td><p><strong>Will be informed</strong></p></td>
 <td><p>iMTech SAC (Students Activity Council) Elections</p></td>
 <td><p>8:00 PM – 10:00 PM</p>
 <p>MCR (Main Class Room), Room 106,Academic Block</p></td>
@@ -471,8 +406,12 @@ Get know your mentors who will help you settle in.</p>
 </tr>
 
 <tr class="odd">
-<td class="dates"><p><strong>Will be informed</strong></p></td>
+<td><p><strong>Will be informed</strong></p></td>
 <td><p>Infin8 Fest Meeting</p></td>
-<td class="dates"><p><strong>Again will be informed by the Infin8 Committee members</strong></p></td>
+<td><p><strong>Again will be informed by the Infin8 Committee members</strong></p></td>
 <td><p>The socio cultural fest of the college. Come up with good ideas and make an impact with your ideas!</p></td>
 </tr> -->
+
+
+</tbody>
+</table>
