@@ -1,5 +1,3 @@
-***Ask any more questions from <a href="https://www.facebook.com/groups/391580577698895/" target="_blank"> iMTech Admission Forum 2019 </a>***
-
 ***<a href="https://github.com/zense/IIITB-StudentKit/raw/gh-pages/docs/iMTech_manual_v2_1.pdf" target="_blank" download>
  Information about the iMTech course structure and electives </a>***
 
@@ -66,8 +64,7 @@ programme, I finish one year early.**
     
     For more info, please visit <a href="https://www.iiitb.ac.in/aboutus.php?pid=Annual-Reports" target="_blank">Annual Placement Reports</a>.
 
-4. **I am not able to pay the fee. Is any financial assistance
-available?**
+4. **I am not able to pay the fee. Is any financial assistance available?**
 
   Yes, financial assistance is available in the form of scholarships.
 
@@ -130,8 +127,8 @@ available?**
 
   |  Branch  |   Opening    |   Closing    |
   | ---   | --- | --- |
-  | CSE | 2,344 | 8,705 |
-  | ECE | 4,525 | 11,520 |
+  | CSE | 2344 | 8705 |
+  | ECE | 4525 | 11520 |
 
 
 11. **Is there any management quota?**
@@ -192,8 +189,7 @@ to some other place that I prefer, will I get any refund?**
   between seniors and juniors. Juniors can take help or guidance from
   seniors without any hesitation.
 
-8.  **Is the curriculum for ECE and CSE same for the first 4
-    semesters?**
+8.  **Is the curriculum for ECE and CSE same for the first 4 semesters?**
 
   Yes, the curriculum is same for the first 2 years. We share the same core
   subjects like Data Structures, Programming, Digital Design and
@@ -292,7 +288,7 @@ Clubs on campus?**
 
   An annual intracollege sports fest Spandan, is held each year, which
   sees participation from both students and alumni alike. Also, we have a
-  student run cultural fest (Infin8) which is being conducted since the last two years.
+  student run cultural fest (Infin8) which is being conducted since the last 4 years.
 
 9. **Is the transport facility (college bus) available?**
 
@@ -346,9 +342,12 @@ available in its vicinity?**
 
 15. **What is the system in IIIT Bangalore for washing clothes (students)?**
 
-  The students are required to wash their own clothes or avail the
-  services of any laundry service of their choice. The hostel does not
-  provide any official system or washing machine for laundry.
+  There are 3 ways to get your laundry done: 
+  1. Wash yourself (separate washing areas are available, machines are not) and hang them in the washing areas and iron them in the ironing areas.
+  2. Laundry Anna (Laundry Services): Collects clothes at a price per Kg. You can choose what type of washing you want to be done. This is the most preferred method of laundry. Follows the schedule of TTS (Tuesday/Thursday/Saturday)
+  3. Dhobhi/Washerman: This costs a little bit lesser than Laundry Anna's services and is similar to Laundry Anna. 
+  
+  Laundry Anna is preferred over Washerman because it is more systematic/organised.
 
 16. **Are there any hotels nearby or will the accommodations be
     available in the college for parents?**
@@ -380,7 +379,7 @@ available in its vicinity?**
   There is 1 canteen in the campus and 1 coffee shop.
   The canteen is located right beside the mess and the coffee shop is present in the old academic block.
 
-  Canteen has both North and South Indian food, and Non-Vegetarian food including eggs, and packaged products.
+  Canteen has both North and South Indian food, and Vegetarian food including eggs, and packaged products.
   Canteen is open from 9 AM - 2 AM 
 
   The coffee shop serves coffee/tea/milk from 9 AM - 5 PM at a fixed price of Rs. 10 (Best coffee available in campus).
@@ -391,7 +390,7 @@ available in its vicinity?**
 
 22. **What about WiFi connectivity in hostels?**
 
-   WiFi routers are installed in all hostels. You can access WiFi once you’re provided with a your login ID and Password.
+   WiFi routers are installed in all hostels. You can access WiFi once you’re provided with your own login ID and Password.
 
 23. **Where do I get my books?**
 
