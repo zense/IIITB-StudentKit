@@ -62,7 +62,7 @@ programme, I finish one year early.**
     
     **Average package : 19 LPA**
     
-    **Median package : 18 LPA**
+    **Median package : 17 LPA**
     
     For more info, please visit <a href="https://www.iiitb.ac.in/aboutus.php?pid=Annual-Reports" target="_blank">Annual Placement Reports</a>.
 
@@ -130,7 +130,7 @@ available?**
 
   |  Branch  |   Opening    |   Closing    |
   | ---   | --- | --- |
-  | CSE | 2,470 | 8,705 |
+  | CSE | 2,344 | 8,705 |
   | ECE | 4,525 | 11,520 |
 
 
@@ -381,7 +381,7 @@ available in its vicinity?**
   The canteen is located right beside the mess and the coffee shop is present in the old academic block.
 
   Canteen has both North and South Indian food, and Non-Vegetarian food including eggs, and packaged products.
-  Canteen is open from 7 AM - 3 AM 
+  Canteen is open from 9 AM - 2 AM 
 
   The coffee shop serves coffee/tea/milk from 9 AM - 5 PM at a fixed price of Rs. 10 (Best coffee available in campus).
 
@@ -397,6 +397,9 @@ available in its vicinity?**
 
    Feel free to check out the Library as they have a plethora of reference books and others. You can always buy second-hand books from stores in MG Road (a 40 min bus ride from campus), where you’ll find most of the books you might need but you might have to haggle a bit over the prices. Some seniors are always willing to lend their old books, so feel free to ask somebody from your department if you happen to know them.
 
-   Most of the curriculum for the first years is common for all the departments (B.Tech) and cover General Institute requirements. You’ll also have a course on Engineering Graphics in either of the semesters (I or II) so it might be handy to have a mini-drafter beforehand.
-  
+
+24. **Which Laptop Should I buy?**
+   You can view an excerpt from IIITB Handbook as a laptop buying guide: 
+   
+  **<a href="https://drive.google.com/file/d/1_BFTGeEt7MhEL2uepcByh21vpYSKQf4I/view?usp=sharing" target="_blank">Laptop Guide</a>**
 
