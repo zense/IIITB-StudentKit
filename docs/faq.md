@@ -55,17 +55,15 @@ programme, I finish one year early.**
 
 3. **What have been the placements of students from IIIT Bangalore?**
 
-    The first iMTech batch has passed out this year and the placement statistics
-    were pretty much better than expected, thanks to the excellent placement committee.
+    The third iMTech batch passed out in 2019 and the placement statistics
     The packages for the first iMTech batch were:
     
-    **Max package : 27 lpa (Amazon)**
+    **Max package : 54 LPA (Rubrik)**
     
-    **Average package : 12 lpa**
+    **Average package : 19 LPA**
     
-    **Min package : 7 lpa**
+    **Median package : 18 LPA**
     
-    Considering the fact that it was the first ever iMTech batch, the placements are too good and will be better in the upcoming years.   
     For more info, please visit <a href="https://www.iiitb.ac.in/aboutus.php?pid=Annual-Reports" target="_blank">Annual Placement Reports</a>.
 
 4. **I am not able to pay the fee. Is any financial assistance
@@ -119,10 +117,12 @@ available?**
   hostels with all modern facilities, fully air-conditioned Academic Block
   and a newly constructed Infosys Academic Block.
 
+  IIIT Bangalore also has an incubation centre which houses over 70 start-ups as of 2018.
+
 9. **Which degree will I be rewarded on graduation?**
 
-  The degree give is subject to UGC regulation much like all other five
-  year programs in the country (including the five year courses in IITs).
+  Separate Degrees of Btech and Mtech would be given after completion of the course.
+  (Can not exit between the programme with just a Btech)
 
 10. **What are opening and closing JEE (Main) Marks in 2016 (branch
 wise)?**
@@ -169,14 +169,14 @@ admissions in IIIT Bangalore ?**
 
 4. **Is branch change allowed?**
 
-  No, branch change is not allowed after admission.
+  Yes, Branch change is allowed after the end of first year on the basis of performance (CGPA) and Maximum 10% student strength (of one branch) can change their branch from one branch to another
 
 5. **If I pay the acceptance fees for iMtech at IIIT Bangalore and later make it
 to some other place that I prefer, will I get any refund?**
 
-  Yes, your acceptance fees will be refunded.
+  Yes, your acceptance fees will be refunded after deduction of Rs. 10,000
 
-6. **How much of the fees need to pay to just book the seat?**
+6. **How much of the fees need to pay to confirm my seat?**
 
   The fees will be mentioned in your offer later. It is usually the fees
   for the first semester.
@@ -193,6 +193,7 @@ to some other place that I prefer, will I get any refund?**
   Yes, the curriculum is same for the first 2 years. We share the same core
   subjects like Data Structures, Programming, Digital Design and
   Networking.
+ 
 
 9.  **I have been offered both CSE and ECE in the offer letter. I selected CSE or ECE respectively in the acceptance mail. Does it mean I will get CSE or ECE respectively?**
 
@@ -229,8 +230,9 @@ facilities?**
 
 3. **How many students will share a room?**
 
-  Two people will share the room in Men's Hostel for the first two years
+  Two/Three (subject to availability and batch size) people will share the room in Men's Hostel for the first two years
   of college and then a single room will be allotted to all the boys.
+
   Girls, on the other hand, are provided with a single room throughout
   their stay in college.
 
@@ -301,6 +303,8 @@ available in its vicinity?**
   the city and boasts of having the headquarters of Infosys, Wipro etc.
   Hence facilities like reasonable food outlets, hospitals, hotels etc. are
   all very easily reachable.
+
+  Electronics City is in the South-Eastern part of Bangalore
 
 11. **How many months vacation do students generally get?**
 
