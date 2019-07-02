@@ -1,5 +1,3 @@
-***Ask any more questions from <a href="https://www.facebook.com/groups/391580577698895/" target="_blank"> iMTech Admission Forum 2017 </a>***
-
 ***<a href="https://github.com/zense/IIITB-StudentKit/raw/gh-pages/docs/iMTech_manual_v2_1.pdf" target="_blank" download>
  Information about the iMTech course structure and electives </a>***
 
@@ -55,21 +53,18 @@ programme, I finish one year early.**
 
 3. **What have been the placements of students from IIIT Bangalore?**
 
-    The first iMTech batch has passed out this year and the placement statistics
-    were pretty much better than expected, thanks to the excellent placement committee.
-    The packages for the first iMTech batch were:
+    The third iMTech batch passed out in 2019 and the placement statistics
+    The packages for the iMTech 2019 batch were:
     
-    **Max package : 27 lpa (Amazon)**
+    **Max package : 54 LPA (Rubrik)**
     
-    **Average package : 12 lpa**
+    **Average package : 19 LPA**
     
-    **Min package : 7 lpa**
+    **Median package : 17 LPA**
     
-    Considering the fact that it was the first ever iMTech batch, the placements are too good and will be better in the upcoming years.   
     For more info, please visit <a href="https://www.iiitb.ac.in/aboutus.php?pid=Annual-Reports" target="_blank">Annual Placement Reports</a>.
 
-4. **I am not able to pay the fee. Is any financial assistance
-available?**
+4. **I am not able to pay the fee. Is any financial assistance available?**
 
   Yes, financial assistance is available in the form of scholarships.
 
@@ -119,20 +114,21 @@ available?**
   hostels with all modern facilities, fully air-conditioned Academic Block
   and a newly constructed Infosys Academic Block.
 
+  IIIT Bangalore also has an incubation centre which houses over 70 start-ups as of 2018.
+
 9. **Which degree will I be rewarded on graduation?**
 
-  The degree give is subject to UGC regulation much like all other five
-  year programs in the country (including the five year courses in IITs).
+  Separate Degrees of Btech and Mtech would be given after completion of the course.
+  (Can not exit between the programme with just a Btech)
 
-10. **What are opening and closing JEE (Main) Marks in 2016 (branch
-wise)?**
+10. **What are opening and closing JEE (Main) ranks in 2018 (branchwise)?**
 
-  The cutoffs for 2016 were:
+  The cutoffs for 2018 were:
 
   |  Branch  |   Opening    |   Closing    |
   | ---   | --- | --- |
-  | CSE | 242 | 190 |
-  | ECE | N/A | 179 |
+  | CSE | 2344 | 8705 |
+  | ECE | 4525 | 11520 |
 
 
 11. **Is there any management quota?**
@@ -147,10 +143,9 @@ admissions in IIIT Bangalore ?**
 
 ##Admission FAQs
 
-1. **What is the cutoff for the first list?**
+1. **What is the cutoff for the first list in 2019?**
 
-  The cutoff for the first list was 202. The college accepted roughly 232
-  students in the first list.
+  The cutoff for the first list was AIR 6,400 for both CSE and ECE.
 
 2. **What is the last date to apply for a 100% refund at IIIT
     Bangalore?**
@@ -169,30 +164,37 @@ admissions in IIIT Bangalore ?**
 
 4. **Is branch change allowed?**
 
-  No, branch change is not allowed after admission.
+  Yes, Branch change is allowed after the end of first year on the basis of performance (CGPA) and Maximum 10% student strength (of one branch) can change their branch from one branch to another
 
 5. **If I pay the acceptance fees for iMtech at IIIT Bangalore and later make it
 to some other place that I prefer, will I get any refund?**
 
-  Yes, your acceptance fees will be refunded.
+  Yes, your acceptance fees will be refunded after deduction of Rs. 10,000
 
-6. **How much of the fees need to pay to just book the seat?**
+6. **How much of the fees do I need to pay to confirm my seat?**
 
-  The fees will be mentioned in your offer later. It is usually the fees
+  The fees will be mentioned in your offer letter. It is usually the fees
   for the first semester.
 
-7. **What is the scene of ragging at IIIT Bangalore?**
+7. **Is there any ragging in the college?**
+
+  Ragging is a Criminal and Non-Bailable offense, punished by dismissal from the Institute, a fine and 
+  imprisonment up to two years.
+
+  When you joined IIIT-B, you would have signed an undertaking that you would neither indulge in nor propagate ragging and 
+  every other student has signed the same undertaking.If you ever feel that you are in a situation where you feel you are 
+  being ragged, please don’t go along with it, report it to the concerned authorities.
 
   IIIT Bangalore is a totally ragging free campus. There is a healthy relationship
   between seniors and juniors. Juniors can take help or guidance from
   seniors without any hesitation.
 
-8.  **Is the curriculum for ECE and CSE same for the first 4
-    semesters?**
+8.  **Is the curriculum for ECE and CSE same for the first 4 semesters?**
 
   Yes, the curriculum is same for the first 2 years. We share the same core
   subjects like Data Structures, Programming, Digital Design and
   Networking.
+ 
 
 9.  **I have been offered both CSE and ECE in the offer letter. I selected CSE or ECE respectively in the acceptance mail. Does it mean I will get CSE or ECE respectively?**
 
@@ -229,8 +231,9 @@ facilities?**
 
 3. **How many students will share a room?**
 
-  Two people will share the room in Men's Hostel for the first two years
+  Two/Three (subject to availability and batch size) people will share the room in Men's Hostel for the first two years
   of college and then a single room will be allotted to all the boys.
+
   Girls, on the other hand, are provided with a single room throughout
   their stay in college.
 
@@ -285,7 +288,7 @@ Clubs on campus?**
 
   An annual intracollege sports fest Spandan, is held each year, which
   sees participation from both students and alumni alike. Also, we have a
-  student run cultural fest (Infin8) which is being conducted since the last two years.
+  student run cultural fest (Infin8) which is being conducted since the last 4 years.
 
 9. **Is the transport facility (college bus) available?**
 
@@ -301,6 +304,8 @@ available in its vicinity?**
   the city and boasts of having the headquarters of Infosys, Wipro etc.
   Hence facilities like reasonable food outlets, hospitals, hotels etc. are
   all very easily reachable.
+
+  Electronics City is in the South-Eastern part of Bangalore
 
 11. **How many months vacation do students generally get?**
 
@@ -337,9 +342,12 @@ available in its vicinity?**
 
 15. **What is the system in IIIT Bangalore for washing clothes (students)?**
 
-  The students are required to wash their own clothes or avail the
-  services of any laundry service of their choice. The hostel does not
-  provide any official system or washing machine for laundry.
+  There are 3 ways to get your laundry done: 
+  1. Wash yourself (separate washing areas are available, machines are not) and hang them in the washing areas and iron them in the ironing areas.
+  2. Laundry Anna (Laundry Services): Collects clothes at a price per Kg. You can choose what type of washing you want to be done. This is the most preferred method of laundry. Follows the schedule of TTS (Tuesday/Thursday/Saturday)
+  3. Dhobhi/Washerman: This costs a little bit lesser than Laundry Anna's services and is similar to Laundry Anna. 
+  
+  Laundry Anna is preferred over Washerman because it is more systematic/organised.
 
 16. **Are there any hotels nearby or will the accommodations be
     available in the college for parents?**
@@ -360,3 +368,37 @@ available in its vicinity?**
 
   No, students aren't allowed to bring Electric Kettles, Irons and so
   forth.
+  
+19.  **Is there a curfew for the hostels?**
+
+  No, There is no curfew for hostels, You can roam about the campus whenever you want to and do whatever you want to
+  Many classrooms are open till 2-4 AM and the library is open till 2 AM to facilitate the learning for students.
+ 
+20. **How many canteens are there in campus? What all food is available in canteen (North Indian/South India/Veg/Non-Veg)**
+
+  There is 1 canteen in the campus and 1 coffee shop.
+  The canteen is located right beside the mess and the coffee shop is present in the old academic block.
+
+  Canteen has both North and South Indian food, and Vegetarian food including eggs, and packaged products.
+  Canteen is open from 9 AM - 2 AM 
+
+  The coffee shop serves coffee/tea/milk from 9 AM - 5 PM at a fixed price of Rs. 10 (Best coffee available in campus).
+
+21. **Is there any official Email-ID for students?**
+
+   After the orientation program, every first year will receive an official Email-ID and password.
+
+22. **What about WiFi connectivity in hostels?**
+
+   WiFi routers are installed in all hostels. You can access WiFi once you’re provided with your own login ID and Password.
+
+23. **Where do I get my books?**
+
+   Feel free to check out the Library as they have a plethora of reference books and others. You can always buy second-hand books from stores in MG Road (a 40 min bus ride from campus), where you’ll find most of the books you might need but you might have to haggle a bit over the prices. Some seniors are always willing to lend their old books, so feel free to ask somebody from your department if you happen to know them.
+
+
+24. **Which Laptop Should I buy?**
+   You can view an excerpt from IIITB Handbook as a laptop buying guide: 
+   
+  **<a href="https://drive.google.com/file/d/1_BFTGeEt7MhEL2uepcByh21vpYSKQf4I/view?usp=sharing" target="_blank">Laptop Guide</a>**
+

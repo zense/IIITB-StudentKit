@@ -1,35 +1,64 @@
 **At the time of admission, the student has to submit the following original
 documents, along with one set of Xerox copy of certificates:**
-* 10th Marksheet/ Certificate/ Date of Birth certificate
-* 11th and 12th Marksheet/ Certificates
+* 10th Marksheet/ Certificate/ Date of Birth certificate (+1 self attested Photocopy)
+
+* 12th Marksheet/ Certificates (If you belong to a State board that adds class 11 and 12 Marks for final results, then do bring them both) 
+(+1 Self Attested Photocopy)
+
 * Transfer Certificate/ Migration Certificate
-* JEE (Main) Score Card (Since CBSE has stopped sending the hard copies, soft copies will also do).
+
+* JEE (Main) Score Card (soft copy of NTA scorecard)
+
 * Four (or more) Passport size photographs
+
 * Allotment letter
 
 
 **Necessary Items to be brought to College**
 
-Apart from your baggage (clothes, footwear etc.), we expect you to bring
-the following items with you:
+1. **What Type of clothes should I pack?**
 
-* Sport shoes (First Years are expected to attend P.E.)
-* Scientific calculator
+* Bangalore is moderately cold for major parts of the year and rains frequently, therefore it is adviced to keep the ratio of Winter:summer clothes higher. 
+* Pack light jackets, nothing heavy is necessary.
+* Bangalore gets relatively hotter (30 Degrees) during the months of April-May, so plan accordingly.
 
-Other items of daily usage shall be available around campus at
-competitive prices (can be brought from home too):
+2. **Are sports Shoes necessary?**
 
-* Mattress– 3x6 ft and bedsheets.
+* First year students have to attend P.E. 2 days in a week (as of 2018) as a compulsory course, so don't forget to bring sports shoes. The college would provide you a Nylon/Lycra tracksuit for both summers and winters.
+
+3. **Should I bring a scientific calculator?**
+
+First year students would have most of their Exams on a Digital pad and calculator would be available on screen, so a calculator isn't a **necessity** in your 1st year. You could need it in your further years or certain courses. 
+
+You can also approach your seniors (who would be passing out) to buy theirs, as scientific calculators are rather expensive.
+
+4. **Should I bring a matress Along?**
+
+You can buy a matress in campus on your first day, a shop would be set up where you can compare and buy whatever type of matress you want.
+
+5.  **What all would be there in my room?**
+
+* Table
+* Chair
+* Wardrobe
+* Bed
+* Storage cabinet
+* Curtains
+
+6. **What all should be brought from home? What can we buy at campus?**
+
+Shops for the following items would be present on the first day, i.e. no need to get these from home: 
+* Matresses
 * Pillows
-* Sanitary Items - Buckets, Mugs, Soaps etc.
-* Cloth Hangers
+* Sanitary items - Buckets, Mugs
 
-***There is a D-Mart outlet located approximately 1.5kms away from campus
-for purchasing necessary daily-use utilities, fruits/snacks and clothes.***
 
-***Also the students don’t need to bring curtains and brooms, as
+**There is a D-Mart outlet located approximately 1.5kms away from campus
+for purchasing necessary daily-use utilities, fruits/snacks and clothes.**
+
+**The students don’t need to bring curtains and brooms, as
 curtains will be already installed in your respective rooms and the
-cleaning will be taken care of by the cleaning staff.***
+cleaning will be taken care of by the cleaning staff.**
 
 **Cell phone Connections**
 
@@ -58,6 +87,6 @@ any enrolled candidate has any medical condition, severe allergies or
 any chronic ailment, it is advised to bring the medicines and prescriptions you might need
 in an emergency.
 
-***Also the management has made the facility of medical consultants
+**The management has made the facility of medical consultants
 available in campus four days in a week, further details will be made
-available to you once you complete your admission procedures.***
+available to you once you complete your admission procedures.**
