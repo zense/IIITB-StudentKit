@@ -1,4 +1,4 @@
-***Ask any more questions from <a href="https://www.facebook.com/groups/391580577698895/" target="_blank"> iMTech Admission Forum 2017 </a>***
+***Ask any more questions from <a href="https://www.facebook.com/groups/391580577698895/" target="_blank"> iMTech Admission Forum 2019 </a>***
 
 ***<a href="https://github.com/zense/IIITB-StudentKit/raw/gh-pages/docs/iMTech_manual_v2_1.pdf" target="_blank" download>
  Information about the iMTech course structure and electives </a>***
@@ -56,7 +56,7 @@ programme, I finish one year early.**
 3. **What have been the placements of students from IIIT Bangalore?**
 
     The third iMTech batch passed out in 2019 and the placement statistics
-    The packages for the first iMTech batch were:
+    The packages for the iMTech 2019 batch were:
     
     **Max package : 54 LPA (Rubrik)**
     
@@ -124,15 +124,14 @@ available?**
   Separate Degrees of Btech and Mtech would be given after completion of the course.
   (Can not exit between the programme with just a Btech)
 
-10. **What are opening and closing JEE (Main) Marks in 2016 (branch
-wise)?**
+10. **What are opening and closing JEE (Main) ranks in 2018 (branchwise)?**
 
-  The cutoffs for 2016 were:
+  The cutoffs for 2018 were:
 
   |  Branch  |   Opening    |   Closing    |
   | ---   | --- | --- |
-  | CSE | 242 | 190 |
-  | ECE | N/A | 179 |
+  | CSE | 2,470 | 8,705 |
+  | ECE | 4,525 | 11,520 |
 
 
 11. **Is there any management quota?**
@@ -147,10 +146,9 @@ admissions in IIIT Bangalore ?**
 
 ##Admission FAQs
 
-1. **What is the cutoff for the first list?**
+1. **What is the cutoff for the first list in 2019?**
 
-  The cutoff for the first list was 202. The college accepted roughly 232
-  students in the first list.
+  The cutoff for the first list was AIR 6,400 for both CSE and ECE.
 
 2. **What is the last date to apply for a 100% refund at IIIT
     Bangalore?**
@@ -176,12 +174,19 @@ to some other place that I prefer, will I get any refund?**
 
   Yes, your acceptance fees will be refunded after deduction of Rs. 10,000
 
-6. **How much of the fees need to pay to confirm my seat?**
+6. **How much of the fees do I need to pay to confirm my seat?**
 
-  The fees will be mentioned in your offer later. It is usually the fees
+  The fees will be mentioned in your offer letter. It is usually the fees
   for the first semester.
 
-7. **What is the scene of ragging at IIIT Bangalore?**
+7. **Is there any ragging in the college?**
+
+  Ragging is a Criminal and Non-Bailable offense, punished by dismissal from the Institute, a fine and 
+  imprisonment up to two years.
+
+  When you joined IIIT-B, you would have signed an undertaking that you would neither indulge in nor propagate ragging and 
+  every other student has signed the same undertaking.If you ever feel that you are in a situation where you feel you are 
+  being ragged, please don’t go along with it, report it to the concerned authorities.
 
   IIIT Bangalore is a totally ragging free campus. There is a healthy relationship
   between seniors and juniors. Juniors can take help or guidance from
@@ -364,3 +369,34 @@ available in its vicinity?**
 
   No, students aren't allowed to bring Electric Kettles, Irons and so
   forth.
+  
+19.  **Is there a curfew for the hostels?**
+
+  No, There is no curfew for hostels, You can roam about the campus whenever you want to and do whatever you want to
+  Many classrooms are open till 2-4 AM and the library is open till 2 AM to facilitate the learning for students.
+ 
+20. **How many canteens are there in campus? What all food is available in canteen (North Indian/South India/Veg/Non-Veg)**
+
+  There is 1 canteen in the campus and 1 coffee shop.
+  The canteen is located right beside the mess and the coffee shop is present in the old academic block.
+
+  Canteen has both North and South Indian food, and Non-Vegetarian food including eggs, and packaged products.
+  Canteen is open from 7 AM - 3 AM 
+
+  The coffee shop serves coffee/tea/milk from 9 AM - 5 PM at a fixed price of Rs. 10 (Best coffee available in campus).
+
+21. **Is there any official Email-ID for students?**
+
+   After the orientation program, every first year will receive an official Email-ID and password.
+
+22. **What about WiFi connectivity in hostels?**
+
+   WiFi routers are installed in all hostels. You can access WiFi once you’re provided with a your login ID and Password.
+
+23. **Where do I get my books?**
+
+   Feel free to check out the Library as they have a plethora of reference books and others. You can always buy second-hand books from stores in MG Road (a 40 min bus ride from campus), where you’ll find most of the books you might need but you might have to haggle a bit over the prices. Some seniors are always willing to lend their old books, so feel free to ask somebody from your department if you happen to know them.
+
+   Most of the curriculum for the first years is common for all the departments (B.Tech) and cover General Institute requirements. You’ll also have a course on Engineering Graphics in either of the semesters (I or II) so it might be handy to have a mini-drafter beforehand.
+  
+
