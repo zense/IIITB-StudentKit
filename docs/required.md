@@ -16,27 +16,27 @@ documents, along with one set of Xerox copy of certificates:**
 
 **Necessary Items to be brought to College**
 
-1. **What Type of clothes should I pack?**
+**1. What Type of clothes should I pack?**
 
 * Bangalore is moderately cold for major parts of the year and rains frequently, therefore it is adviced to keep the ratio of Winter:summer clothes higher. 
 * Pack light jackets, nothing heavy is necessary.
 * Bangalore gets relatively hotter (30 Degrees) during the months of April-May, so plan accordingly.
 
-2. **Are sports Shoes necessary?**
+**2. Are sports Shoes necessary?**
 
 * First year students have to attend P.E. 2 days in a week (as of 2018) as a compulsory course, so don't forget to bring sports shoes. The college would provide you a Nylon/Lycra tracksuit for both summers and winters.
 
-3. **Should I bring a scientific calculator?**
+**3. Should I bring a scientific calculator?**
 
 First year students would have most of their Exams on a Digital pad and calculator would be available on screen, so a calculator isn't a **necessity** in your 1st year. You could need it in your further years or certain courses. 
 
 You can also approach your seniors (who would be passing out) to buy theirs, as scientific calculators are rather expensive.
 
-4. **Should I bring a matress Along?**
+**4. Should I bring a matress Along?**
 
 You can buy a matress in campus on your first day, a shop would be set up where you can compare and buy whatever type of matress you want.
 
-5.  **What all would be there in my room?**
+**5.  What all would be there in my room?**
 
 * Table
 * Chair
@@ -45,7 +45,7 @@ You can buy a matress in campus on your first day, a shop would be set up where 
 * Storage cabinet
 * Curtains
 
-6. **What all should be brought from home? What can we buy at campus?**
+**6. What all should be brought from home? What can we buy at campus?**
 
 Shops for the following items would be present on the first day, i.e. no need to get these from home: 
 * Matresses
