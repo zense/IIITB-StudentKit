@@ -266,8 +266,6 @@ Clubs on campus?**
   Yes, the robotics club (Enigma) was recently formed in 2016 and has been very active since then.
 
   iMTech students have done projects on iRobot.
-  Please go to this link to see **<a href="http://studentkit.zense.co.in/docs/video.html" target="_blank">
-  Projects @ IIIT Bangalore </a>.**
 
   Also we have multiple other clubs like the 8bit Club, Zense Developers Group , Comic Club
   and many others.
