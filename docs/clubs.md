@@ -21,7 +21,7 @@ Find us on <a href="https://www.facebook.com/8-Bit-IIIT-Bangalore-69880322688841
 
 Aikyam is the social wing of IIIT Bangalore that was started in 2008 by the students of IIIT Bangalore. It is an initiative taken to help the poor and the needy and understand our <strong>social responsibility</strong>.
 
-What we do as part of Aikyam is plan ‘Aikyam Trips’ to visit orphanages occasionally and spend our day with the children there. We usually collect funds from the students in college before any trip. We buy the necessary items for the children there and also give the funds collected to the orphanage. We generally visit the ‘<a href="http://www.desiresociety.org/" target="_blank">Desire Society</a>’ - a home for HIV affected kids (aged between 3-15) , and ‘Swanthana’ - which is a home for mentally and physically challenged girls. Apart from this, we frequently collect articles like clothes, food and books from the students and donate them to the needy. For example, <a href="https://www.facebook.com/permalink.php?story_fbid=1165116266895953&id=130926363648287" target="_blank">last year on Eid</a>, we collected these articles and donated them to the <a href="http://goonj.org/page_id=22873/" target="_blank">Goonj society</a>. 
+What we do as part of Aikyam is plan ‘Aikyam Trips’ to visit orphanages occasionally and spend our day with the children there. We usually collect funds from the students in college before any trip. We buy the necessary items for the children there and also give the funds collected to the orphanage. We generally visit the ‘<a href="http://www.desiresociety.org/" target="_blank">Desire Society</a>’ - a home for HIV affected kids (aged between 3-15) , and ‘Swanthana’ - which is a home for mentally and physically challenged girls. Apart from this, we frequently collect articles like clothes, food and books from the students and donate them to the needy. For example, <a href="https://www.facebook.com/permalink.php?story_fbid=1165116266895953&id=130926363648287" target="_blank">last year on Eid</a>, we collected these articles and donated them to the <a href="http://goonj.org/page_id=22873/" target="_blank">Goonj society</a>.
 
 We also conduct activities in college to spread social awareness among the students. For example, we started two initiatives in 2016 - <a href="https://www.youtube.com/watch?v=ocJbYOnic60&feature=youtu.be" target="_blank">The Little Things and <a href="https://www.facebook.com/pg/Aikyam-130926363648287/photos/?tab=album&album_id=1170969112977335" target="_blank">The Tiny Tales</a>. The Little Things is an initiative where the students make a short video to convey their concern to protect the environment or to support a social cause. The Tiny Tales is another such event where the students write a line or two on what they think they can do for the society. We organise events to raise funds for donation. One such event was putting up a lemonade stall or pani puri stall during the college fest. We also help in organising blood donation camps at our college.
 
@@ -43,23 +43,23 @@ Being a part of this committee will enable you to make contacts, improve your ma
 
 <img src="../images/clubs/branding.jpg" > </img>
 
-You are doing a great work, but still not getting recognition from others? Then, you have to think of brand building. Building a brand has become an important aspect for each and everyone these days. 
+You are doing a great work, but still not getting recognition from others? Then, you have to think of brand building. Building a brand has become an important aspect for each and everyone these days.
 
-We, the Branding committee at IIIT Bangalore are happy to give students an opportunity to learn how to build a brand. We do promote our institute's good work to the world and keep working on the betterment of our brand image.  We also publicise Institute events such as Spandan, RISE, Sangam, and so on. The team contributes to the institute's social media pages at the time of events and admissions. Also, we design some of our event invitations, posters and T-shirts. 
+We, the Branding committee at IIIT Bangalore are happy to give students an opportunity to learn how to build a brand. We do promote our institute's good work to the world and keep working on the betterment of our brand image.  We also publicise Institute events such as Spandan, RISE, Sangam, and so on. The team contributes to the institute's social media pages at the time of events and admissions. Also, we design some of our event invitations, posters and T-shirts.
 
 If you are interested in Branding, Digital Media Marketing and Design you can be a part of Branding committee and get hands-on experience in these areas during your stay at IIIT Bangalore.
 
-You can visit us at <a href="https://twitter.com/IIITB_official" target="_blank">Twitter </a>, <a href="https://www.facebook.com/IIITBofficial/" target="_blank">Facebook </a> & <a href="https://www.linkedin.com/school/800493/" target="_blank">Linkedin</a>. 
+You can visit us at <a href="https://twitter.com/IIITB_official" target="_blank">Twitter </a>, <a href="https://www.facebook.com/IIITBofficial/" target="_blank">Facebook </a> & <a href="https://www.linkedin.com/school/800493/" target="_blank">Linkedin</a>.
 
 ## Chhayachitra
 
 <img src = "../images/clubs/Chhayachitra.png" width="500" height="300"> </img>
 
-The Chhayachitra (Photography Club) at IIIT Bangalore aims to capture each and every beautiful moment of the college's fests and celebrations. Nothing escapes our cameras! Every smile, every moment - whether it's of joy, or just relief from all the exhausting work and every group photo is caught by us. What better feeling can a photographer get other than the perfect click! While creating short films can be tiresome, we have loads of fun ! :) 
+The Chhayachitra (Photography Club) at IIIT Bangalore aims to capture each and every beautiful moment of the college's fests and celebrations. Nothing escapes our cameras! Every smile, every moment - whether it's of joy, or just relief from all the exhausting work and every group photo is caught by us. What better feeling can a photographer get other than the perfect click! While creating short films can be tiresome, we have loads of fun ! :)
 
 We help each other in terms of techniques, skills and perspectives for better shots thus making the best out of ourselves as photographers. Although the club was founded in 2015, it is growing fast and gaining popularity.
-<!-- 
-The club doesn't just revolve around photographs but also manages its own <a href="https://www.youtube.com/user/iiitbmedia" target="_blank">Youtube</a> & <a href="https://www.instagram.com/iiitb_official/" target="_blank">Instagram</a> channel. 
+<!--
+The club doesn't just revolve around photographs but also manages its own <a href="https://www.youtube.com/user/iiitbmedia" target="_blank">Youtube</a> & <a href="https://www.instagram.com/iiitb_official/" target="_blank">Instagram</a> channel.
 -->
 
 <em><strong>REMEMBER: All it takes is a camera to start with, be it a smartphone or DSLR.</strong></em>
@@ -74,7 +74,7 @@ The club took its present form this April with an aim to make the campus, a sta
 
 **REMEMBER: It never starts with a sophisticated one!!!**
 
-Find us on <a href="https://www.facebook.com/citeiiitb/" target="_blank">Facebook</a> & <a href="https://www.instagram.com/cite_iiitb/?hl=en" target="_bank">Instagram</a>. 
+Find us on <a href="https://www.facebook.com/citeiiitb/" target="_blank">Facebook</a> & <a href="https://www.instagram.com/cite_iiitb/?hl=en" target="_bank">Instagram</a>.
 
 -->
 
@@ -89,7 +89,7 @@ Hop in, Let's have a great time together!
 
 Find us on <a href="https://www.facebook.com/millionlaugh/" target="_blank">Facebook</a>.
 
-## CAMP 
+## CAMP
 
 <img src = "../images/clubs/CAMP.png" > </img>
 
@@ -123,7 +123,7 @@ Follow our <a href="https://www.facebook.com/EnigmaIIITB/" target="_blank">Faceb
 
 ## Food Committee
 
-Food committee at IIIT Bangalore is a student body which acts as a bridge between the caterer and the students. The committee works on very sensitive and crucial issues like maintaining the sanitary conditions of kitchen, mess, and canteen. They negotiate with the caterer, prepare a menu and try to fit a balance between the taste and quality of the food served in mess. Since IIIT Bangalore has students from all across the country sometimes it becomes difficult to serve everyone as per their needs and wishes for that they have an excellent complaint portal, they not only respond but also solve the problem within 48 hrs in most cases. 
+Food committee at IIIT Bangalore is a student body which acts as a bridge between the caterer and the students. The committee works on very sensitive and crucial issues like maintaining the sanitary conditions of kitchen, mess, and canteen. They negotiate with the caterer, prepare a menu and try to fit a balance between the taste and quality of the food served in mess. Since IIIT Bangalore has students from all across the country sometimes it becomes difficult to serve everyone as per their needs and wishes for that they have an excellent complaint portal, they not only respond but also solve the problem within 48 hrs in most cases.
 
 This committee gives an exposure to different food cultures in our country and also builds confidence to deal with people of different backgrounds, some are literate some are not, few are so adamant about their point that you need real negotiation skills to get your point established.
 
@@ -173,17 +173,17 @@ Among the events that SPIC MACAY IIIT Bangalore chapter organised in the previou
 
 The events organised last year include a violin performance by the maestro TN Krishnan, Bharatanatyam performance by P Praveen Kumar and Yamini.
 
-Yamini was a night filled with pleasant melodies and captivating dances. For twelve hours, from October 31st 6PM to November 31st 6 AM, we were enthralled by the performnaces of leading artistes - by the lilting movements of Methil Devika's Mohiniattam, Carnatic and Hindustani vocals by Bombay Jayashri and Shruti Sadolikar, and the soothing notes of Nityanand Haldipur's Hindustani Bansuri and Seshampatti Sivalingam's Nadaswaram. 
+Yamini was a night filled with pleasant melodies and captivating dances. For twelve hours, from October 31st 6PM to November 31st 6 AM, we were enthralled by the performnaces of leading artistes - by the lilting movements of Methil Devika's Mohiniattam, Carnatic and Hindustani vocals by Bombay Jayashri and Shruti Sadolikar, and the soothing notes of Nityanand Haldipur's Hindustani Bansuri and Seshampatti Sivalingam's Nadaswaram.
 
 SPIC MACAY runs on the energy of volunteers who come from all walks of life - students, teachers, housewives, professional and retired people, young and old. Nishkam Seva is a key aspect of the movement.
 
 <a href="http://spicmacay.com/get-involved" target="_blank">Join us</a>
 
-## Theatre Arts Club (TAC)
+## Parvaaz
 
 <img src="../images/clubs/TAC.jpg" width="350" height="250"> </img>
 
-The Theatre Arts club is a humble effort to bring the artistic expression to the campus in the form of a plethora of thespian talents such as mime, theatre, street play. We, the members of the TAC have delighted the audience by our performances on Teacher's day, Women's day, as well as raised and created awareness on issues like food wastage(along with Food committee), and sexual harrassment(along with Internal Complains committee), essentially capturing the zeitgeist of quintessential campus life. We also work in collaboration with Chhayachitra in producing promotional videos like Sangam and Yamini promotion, Campus life video etc.
+Parvaaz is a humble effort to bring the artistic expression to the campus in the form of a plethora of thespian talents such as mime, theatre, street play. We, the members of the Parvaaz have delighted the audience by our performances on Teacher's day, Women's day, as well as raised and created awareness on issues like food wastage(along with Food committee), and sexual harrassment(along with Internal Complains committee), essentially capturing the zeitgeist of quintessential campus life. We also work in collaboration with Chhayachitra in producing promotional videos like Sangam and Yamini promotion, Campus life video etc.
 
 We also participate in interactive college theatre competitions.
 If you find yourself bitten by the theatre bug, and want to showcase your talents in acting, writing, direction and screenplay, costume design or video editing, avail yourself a position amongst us. You are guaranteed to learn, teach, and most importantly have fun.
