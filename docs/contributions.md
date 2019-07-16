@@ -10,8 +10,13 @@
   - Anshika Gupta
   - Anshuk Uppal
   - Prachi Dhamange
+  - Saad Patel
+  - Arpitha Malavalli - **SQUARE**ONE
+  - Saiakash Konidena - **SQUARE**ONE
+  - Sai Rithwik M     - **SQUARE**ONE  
+  - Tanmay Arora      - **SQUARE**ONE
 
-  
+
 ### Website and Inputs
   - Aditya Thiruvengadam
   - Mudita Baid
@@ -20,7 +25,8 @@
   - Ananya Appan
   - <a href="https://www.facebook.com/iiitb.infin8/?ref=aymt_homepage_panel" target="_blank"> Infin8 Fest Committee </a>
   - <a href="http://zense.co.in" target="_blank"> Zense Developers Group </a>
-  
+
+
 ### Photo Credits
   - Bhargav Sridhar
   - Tejas Kotha

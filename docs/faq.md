@@ -1,7 +1,7 @@
 ***<a href="https://github.com/zense/IIITB-StudentKit/raw/gh-pages/docs/iMTech_manual_v2_1.pdf" target="_blank" download>
  Information about the iMTech course structure and electives </a>***
 
-***<a href="https://www.quora.com/topic/International-Institute-of-Information-Technology-Bangalore-IIIT-B/faq" target="_blank">Important Quora Q/As</a>***
+***<a href="https://www.quora.com/topic/International-Institute-of-Information-Technology-Bangalore-IIIT-B" target="_blank">Important Quora Q/As</a>***
 
 ---
 
@@ -55,13 +55,13 @@ programme, I finish one year early.**
 
     The third iMTech batch passed out in 2019 and the placement statistics
     The packages for the iMTech 2019 batch were:
-    
+
     **Max package : 54 LPA (Rubrik)**
-    
+
     **Average package : 19 LPA**
-    
+
     **Median package : 17 LPA**
-    
+
     For more info, please visit <a href="https://www.iiitb.ac.in/aboutus.php?pid=Annual-Reports" target="_blank">Annual Placement Reports</a>.
 
 4. **I am not able to pay the fee. Is any financial assistance available?**
@@ -178,11 +178,11 @@ to some other place that I prefer, will I get any refund?**
 
 7. **Is there any ragging in the college?**
 
-  Ragging is a Criminal and Non-Bailable offense, punished by dismissal from the Institute, a fine and 
+  Ragging is a Criminal and Non-Bailable offense, punished by dismissal from the Institute, a fine and
   imprisonment up to two years.
 
-  When you joined IIIT-B, you would have signed an undertaking that you would neither indulge in nor propagate ragging and 
-  every other student has signed the same undertaking.If you ever feel that you are in a situation where you feel you are 
+  When you joined IIIT-B, you would have signed an undertaking that you would neither indulge in nor propagate ragging and
+  every other student has signed the same undertaking.If you ever feel that you are in a situation where you feel you are
   being ragged, please don’t go along with it, report it to the concerned authorities.
 
   IIIT Bangalore is a totally ragging free campus. There is a healthy relationship
@@ -194,7 +194,7 @@ to some other place that I prefer, will I get any refund?**
   Yes, the curriculum is same for the first 2 years. We share the same core
   subjects like Data Structures, Programming, Digital Design and
   Networking.
- 
+
 
 9.  **I have been offered both CSE and ECE in the offer letter. I selected CSE or ECE respectively in the acceptance mail. Does it mean I will get CSE or ECE respectively?**
 
@@ -266,8 +266,6 @@ Clubs on campus?**
   Yes, the robotics club (Enigma) was recently formed in 2016 and has been very active since then.
 
   iMTech students have done projects on iRobot.
-  Please go to this link to see **<a href="http://studentkit.zense.co.in/docs/video.html" target="_blank">
-  Projects @ IIIT Bangalore </a>.**
 
   Also we have multiple other clubs like the 8bit Club, Zense Developers Group , Comic Club
   and many others.
@@ -342,11 +340,11 @@ available in its vicinity?**
 
 15. **What is the system in IIIT Bangalore for washing clothes (students)?**
 
-  There are 3 ways to get your laundry done: 
+  There are 3 ways to get your laundry done:
   1. Wash yourself (separate washing areas are available, machines are not) and hang them in the washing areas and iron them in the ironing areas.
   2. Laundry Anna (Laundry Services): Collects clothes at a price per Kg. You can choose what type of washing you want to be done. This is the most preferred method of laundry. Follows the schedule of TTS (Tuesday/Thursday/Saturday)
-  3. Dhobhi/Washerman: This costs a little bit lesser than Laundry Anna's services and is similar to Laundry Anna. 
-  
+  3. Dhobhi/Washerman: This costs a little bit lesser than Laundry Anna's services and is similar to Laundry Anna.
+
   Laundry Anna is preferred over Washerman because it is more systematic/organised.
 
 16. **Are there any hotels nearby or will the accommodations be
@@ -368,19 +366,19 @@ available in its vicinity?**
 
   No, students aren't allowed to bring Electric Kettles, Irons and so
   forth.
-  
+
 19.  **Is there a curfew for the hostels?**
 
   No, There is no curfew for hostels, You can roam about the campus whenever you want to and do whatever you want to
   Many classrooms are open till 2-4 AM and the library is open till 2 AM to facilitate the learning for students.
- 
+
 20. **How many canteens are there in campus? What all food is available in canteen (North Indian/South India/Veg/Non-Veg)**
 
   There is 1 canteen in the campus and 1 coffee shop.
   The canteen is located right beside the mess and the coffee shop is present in the old academic block.
 
   Canteen has both North and South Indian food, and Vegetarian food including eggs, and packaged products.
-  Canteen is open from 9 AM - 2 AM 
+  Canteen is open from 9 AM - 2 AM
 
   The coffee shop serves coffee/tea/milk from 9 AM - 5 PM at a fixed price of Rs. 10 (Best coffee available in campus).
 
@@ -398,7 +396,6 @@ available in its vicinity?**
 
 
 24. **Which Laptop Should I buy?**
-   You can view an excerpt from IIITB Handbook as a laptop buying guide: 
-   
-  **<a href="https://drive.google.com/file/d/1_BFTGeEt7MhEL2uepcByh21vpYSKQf4I/view?usp=sharing" target="_blank">Laptop Guide</a>**
+   You can view an excerpt from IIITB Handbook as a laptop buying guide:
 
+  **<a href="https://drive.google.com/file/d/1_BFTGeEt7MhEL2uepcByh21vpYSKQf4I/view?usp=sharing" target="_blank">Laptop Guide</a>**
