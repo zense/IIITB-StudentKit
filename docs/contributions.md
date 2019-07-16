@@ -13,10 +13,10 @@
   - Anshuk Uppal
   - Prachi Dhamange
   - Saad Patel
-  - Arpitha Malavalli - **SQUARE**ONE
-  - Saiakash Konidena - **SQUARE**ONE
-  - Sai Rithwik M     - **SQUARE**ONE  
-  - Tanmay Arora      - **SQUARE**ONE
+  - Arpitha Malavalli 
+  - Saiakash Konidena 
+  - Sai Rithwik M     
+  - Tanmay Arora      
 
 &nbsp;
 
