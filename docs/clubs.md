@@ -1,4 +1,4 @@
-<strong>(PS: The following clubs have been arranged in the alphabetical order.)</strong>
+&nbsp;
 
 ## 8Bit
 
