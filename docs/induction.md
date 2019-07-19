@@ -58,7 +58,7 @@
 		font-family: 'Grand Hotel', 'cursive';
 		text-align: center;
 		color: black;
-		line-height: 0;
+		line-height: normal;
 	}
 
 
