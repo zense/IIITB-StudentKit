@@ -1,17 +1,81 @@
 <table class="table">
+	<link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet'>
+	<link href='https://fonts.googleapis.com/css?family=Grand+Hotel|Vibur' rel='stylesheet' type='text/css'>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 <colgroup>
 <col width="25%" />
 <col width="25%" />
 <col width="25%" />
 <col width="25%" />
 </colgroup>
+<style>
+
+
+	.even {
+		background-color: #def0ef;
+	}
+
+	.odd {
+		background-color: #eef7f7;
+	}
+
+	.table {
+		color: black;
+		text-align: center;
+		
+	}
+
+	.quote {
+		text-align: center;
+		font-style: italic;
+		font-size: 3.5rem;
+		color: black;
+		font-family: 'Grand Hotel', 'cursive';
+	}
+
+	.intro {
+		background-color: white;
+		padding-top: 1rem;
+		color: #4c4c4c;
+	}
+
+	#name {
+		font-size: 2.5rem;
+		color: black;
+	}
+
+
+	th {
+		background-color: #5cb8b2;
+		font-size: 2.5rem;
+		font-family: 'Roboto';
+		text-align: center;
+	}
+
+	.footer {
+		height: 10rem;
+		font-size: 6rem;
+		font-family: 'Grand Hotel', 'cursive';
+		text-align: center;
+		color: black;
+		line-height: 0;
+	}
+
+
+	</style>
 <thead>
 <tr class="header">
-<p>"There is something magical about new beginnings!"</p><p>The purpose of Induction is to make your transition into this new stage of your life as smooth as possible. The process will help you blend in and make the most out of your life here! So, lets dive right in!</p>
+<br>
+<p class="quote">'There is something magical about new beginnings!'</p>
+<p class="intro"><span id="name"><b>SQUARE</b>ONE</span>, The Induction Committee has created this timetable to make your transition into this new stage of your life as smooth as possible. The process will help you blend in and make the most out of your life here! So, lets dive right in!</p>
+
+<span class="th">
 <th><strong>Day and Date</strong></th>
 <th><strong>Event</strong></th>
 <th><strong>Timings and Venue</strong></th>
 <th><strong>Description</strong></th>
+</span>
+
 </tr>
 </thead>
 <tbody>
@@ -122,6 +186,7 @@ Get know your mentors who will help you settle in.</p>
 <td><p><strong>Tuesday, 6</strong><sup><strong>th</strong></sup> <strong>August</strong></p></td>
 <td><p>Photography Workshop Batch-2</p></td>
 <td><p>8:30 PM - 10:00 PM</p></td>
+<td></td>
 </tr>
 
 
@@ -297,6 +362,13 @@ Get know your mentors who will help you settle in.</p>
 </tr>
 
 
+</tbody>
+</table>
+
+<br>
+	<p class="footer" colspan="4">"That's all Folks!"</p>	
+
+
 
 
 
@@ -411,7 +483,3 @@ Get know your mentors who will help you settle in.</p>
 <td><p><strong>Again will be informed by the Infin8 Committee members</strong></p></td>
 <td><p>The socio cultural fest of the college. Come up with good ideas and make an impact with your ideas!</p></td>
 </tr> -->
-
-
-</tbody>
-</table>
