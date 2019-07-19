@@ -22,7 +22,6 @@
 	.table {
 		color: black;
 		text-align: center;
-		
 	}
 
 	.quote {
@@ -263,17 +262,17 @@ Get know your mentors who will help you settle in.</p>
 
 <tr class="even">
 <td></td>
-<td><p>Digital Art-1A</p></td>
+<td><p>Visual and Interactive Design-1A</p></td>
 <td><p>09:00 PM - 10:30 PM</p></td>
-<td><p></p></td>
+<td><p>Jump into the magical world of Virtual Design and know the basic elements of a great graphic.</p></td>
 </tr>
 
 <tr class="odd">
 <td><p><strong>Friday, 16</strong><sup><strong>th</strong></sup> <strong>August</strong></p></td>
 
-<td><p>Digital Art-1B</p></td>
+<td><p>Visual and Interactive Design-1B</p></td>
 <td><p>09:00 PM - 10:30 PM</p></td>
-<td><p></p></td>
+<td><p>Jump into the magical world of Virtual Design and know the basic elements of a great graphic.</p></td>
 </tr>
 
 <tr class="even">
@@ -313,17 +312,17 @@ Get know your mentors who will help you settle in.</p>
 <tr class="even">
 <td><p><strong>Thursday, 22</strong><sup><strong>nd</strong></sup> <strong>August</strong></p></td>
 
-<td><p>Digital Art-2A</p></td>
+<td><p>Visual and Interactive Design-2A</p></td>
 <td><p>08:30 PM - 10:00 PM</p></td>
-<td><p></p></td>
+<td><p>Jump into the magical world of Virtual Design and know the basic elements of a great graphic.</p></td>
 </tr>
 
 <tr class="odd">
 <td><p><strong>Friday, 23</strong><sup><strong>rd</strong></sup> <strong>August</strong></p></td>
 
-<td><p>Digital Art-2B</p></td>
+<td><p>Visual and Interactive Design-2B</p></td>
 <td><p>08:30 PM - 10:00 PM</p></td>
-<td><p></p></td>
+<td><p>Jump into the magical world of Virtual Design and know the basic elements of a great graphic.</p></td>
 </tr>
 
 <tr class="even">
@@ -366,7 +365,7 @@ Get know your mentors who will help you settle in.</p>
 </table>
 
 <br>
-	<p class="footer" colspan="4">"That's all Folks!"</p>	
+	<p class="footer" colspan="4">"That's all Folks!"</p>
 
 
 
