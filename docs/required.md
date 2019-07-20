@@ -2,8 +2,6 @@
 
 ##### **This is not an official document. The college shall send a mail regarding the things to be brought. These are the just a reference.**
 
-* Anti Ragging Affidavit
-
 * Medical Certificate
 
 * 10th Marksheet/ Certificate/ Date of Birth certificate (+1 self attested Photocopy)
