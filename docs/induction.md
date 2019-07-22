@@ -272,7 +272,7 @@ Get know your mentors who will help you settle in.</p>
 
 <td><p>Visual and Interactive Design-1B</p></td>
 <td><p>09:00 PM - 10:30 PM</p></td>
-<td><p>Jump into the magical world of Virtual Design and know the basic elements of a great graphic.</p></td>
+<td><p></p></td>
 </tr>
 
 <tr class="even">
@@ -314,7 +314,7 @@ Get know your mentors who will help you settle in.</p>
 
 <td><p>Visual and Interactive Design-2A</p></td>
 <td><p>08:30 PM - 10:00 PM</p></td>
-<td><p>Jump into the magical world of Virtual Design and know the basic elements of a great graphic.</p></td>
+<td><p></p></td>
 </tr>
 
 <tr class="odd">
@@ -322,7 +322,7 @@ Get know your mentors who will help you settle in.</p>
 
 <td><p>Visual and Interactive Design-2B</p></td>
 <td><p>08:30 PM - 10:00 PM</p></td>
-<td><p>Jump into the magical world of Virtual Design and know the basic elements of a great graphic.</p></td>
+<td><p></p></td>
 </tr>
 
 <tr class="even">
