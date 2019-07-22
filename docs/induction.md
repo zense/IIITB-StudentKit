@@ -270,19 +270,32 @@ Get know your mentors who will help you settle in.</p>
 <tr class="odd">
 <td><p><strong>Friday, 16</strong><sup><strong>th</strong></sup> <strong>August</strong></p></td>
 
+<td><p>Create, Communicate, Collaborate</p></td>
+<td><p>7:00 PM – 09:00 PM</p>
+<td><p>An interactive workshop by Ms. Manasi Prasad(Director, Indian Musical Experience)</p>
+</tr>
+
+<tr class="even">
+<td></td>
 <td><p>Visual and Interactive Design-1B</p></td>
 <td><p>09:00 PM - 10:30 PM</p></td>
 <td><p></p></td>
 </tr>
 
-<tr class="even">
+<tr class="odd">
 <td><p><strong>Saturday, 17</strong><sup><strong>th</strong></sup> <strong>August</strong></p></td>
+
 <td><p>Social Service</p></td>
 <td><p>09:00 AM - 05:00 PM (Tentative Timings)</p></td>
 <td><p>Spend a day helping the underprivileged!</p></td>
 </tr>
 
-
+<tr class="even">
+<td></td>
+<td><p>Create, Communicate, Collaborate</p></td>
+<td><p>7:00 PM – 09:00 PM</p>
+<td><p></p>
+</tr>
 
 <tr class="odd">
 <td><p><strong>Tuesday, 20</strong><sup><strong>th</strong></sup> <strong>August</strong></p></td>
