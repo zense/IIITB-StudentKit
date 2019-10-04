@@ -5,7 +5,7 @@ Bengaluru, Karnataka 560100
 
 Phone: [**080 4040 8888**](tel:080 4040 8888)
 
-Standard Charge per night: **₹ 3200**
+Standard Charge per night: **₹ 3323**
 
 Distance: **350m**
 
