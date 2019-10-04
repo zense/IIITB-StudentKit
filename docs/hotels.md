@@ -7,7 +7,7 @@ Phone: [**080 4040 8888**](tel:080 4040 8888)
 
 Standard Charge per night: **₹ 3200**
 
-Distance: **350m**
+Distance: **170m**
 
 It is the nearest hotel to the college from main gate.
 
