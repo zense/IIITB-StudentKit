@@ -90,4 +90,4 @@ any enrolled candidate has any medical condition, severe allergies or
 any chronic ailment, it is advised to bring the medicines and prescriptions you might need
 in an emergency.
 
-#### **The management has made the facility of medical consultants available in campus four days in a week, further details will be made available to you once you complete your admission procedures.**
+#### **The management has made the facility of medical consultants available in campus six days in a week, further details will be made available to you once you complete your admission procedures.**
