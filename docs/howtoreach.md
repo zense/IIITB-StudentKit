@@ -2,9 +2,8 @@
 ***Destination to be reached***
 
 **International Institute of Information Technology Bangalore**  
-*26/C, Electronic City Phase 1*  
-*Hosur Road*  
-*Opposite Infosys Gate 2*  
+*26/C, Electronics City Phase 1*  
+*Hosur Road*   
 *Bengaluru – 560100*  
 
 
@@ -17,7 +16,7 @@ Approx 60 kms
 **By Bus**
 
 Route No. - **KIAS-8**  
-Rs **330/- per person** inclusive of all taxes  
+Rs **325/- per person** inclusive of all taxes  
 Comfortable AC buses
 
 Refer to
