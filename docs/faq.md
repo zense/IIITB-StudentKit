@@ -291,7 +291,7 @@ Clubs on campus?**
 9. **Is the transport facility (college bus) available?**
 
   No, we do not provide transport facility but IIIT Bangalore campus is very
-  well connected to all the public places. IIIT Bangalore also boasts of being right in
+  well connected to all the public places. IIIT Bangalore being right in
   front of the bus stop, hence direct buses to the airport etc. are
   available at regular intervals.
 
