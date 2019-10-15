@@ -24,4 +24,10 @@ Infin8 is an intra college cultural festival conducted by IIIT Bangalore every y
 
 ![](images/events/infin8_2.jpg)
 
+##RMIT
+
+https://www.iiitb.ac.in/rmit-2019/
+
+
+
 
