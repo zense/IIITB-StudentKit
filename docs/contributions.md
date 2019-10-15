@@ -40,4 +40,4 @@
 
 &nbsp;
 
-***Your name could be here next year....so come quick :P***
+**Your name could be here next year!**
