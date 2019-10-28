@@ -173,7 +173,7 @@ Among the events that SPIC MACAY IIIT Bangalore chapter organised in the previou
 
 The events organised last year include a violin performance by the maestro TN Krishnan, Bharatanatyam performance by P Praveen Kumar and Yamini.
 
-Yamini was a night filled with pleasant melodies and captivating dances. For twelve hours, from October 31st 6PM to November 31st 6 AM, we were enthralled by the performnaces of leading artistes - by the lilting movements of Methil Devika's Mohiniattam, Carnatic and Hindustani vocals by Bombay Jayashri and Shruti Sadolikar, and the soothing notes of Nityanand Haldipur's Hindustani Bansuri and Seshampatti Sivalingam's Nadaswaram.
+Yamini was a night filled with pleasant melodies and captivating dances. For twelve hours, from October 31st 6PM to November 1st 6 AM, we were enthralled by the performnaces of leading artistes - by the lilting movements of Methil Devika's Mohiniattam, Carnatic and Hindustani vocals by Bombay Jayashri and Shruti Sadolikar, and the soothing notes of Nityanand Haldipur's Hindustani Bansuri and Seshampatti Sivalingam's Nadaswaram.
 
 SPIC MACAY runs on the energy of volunteers who come from all walks of life - students, teachers, housewives, professional and retired people, young and old. Nishkam Seva is a key aspect of the movement.
 
