@@ -24,4 +24,10 @@ Infin8 is an intra college cultural festival conducted by IIIT Bangalore every y
 
 ![](images/events/infin8_2.jpg)
 
+##Sangam
+Sangam, IIITB’s annual Alumni Day is organized by the placement and outreach team of the college in the month of February every year. This one-day event is loaded with fun activities planned for the Alumni. The students put together entertaining performances and stage events for the alumni. The Food committee set up food stalls in the campus to add to the festivities. We have a blast, with performances by great standup comics and DJ night to end the evening.
+
+![](images/events/sangam_1.JPG)
+
+![](images/events/sangam_2.JPG)
 
