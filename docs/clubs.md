@@ -4,16 +4,14 @@
 
 <img src = "../images/clubs/8bit.png" width="250" height="170"> </img>
 
-8Bit is the official magazine of IIIT Bangalore. It is an entirely student-run club, where they are the sole in-charge of editing the magazine, and deciding its content and structure.
+8Bit is the official magazine of IIIT Bangalore. It is an entirely student-run committee, where they are the sole in-charge of editing the magazine, and deciding its content and structure.
 
 The magazine provides an outlet for your creativity - all your thoughts, artistic endeavors and humor. The best part about 8Bit is that it is not limited to a specific type of content and has a place for everyone - whether you are a designer, artist, writer, editor, poet or just a social person who wants to know people by talking or interviewing them.
 
 Here at 8Bit, the bonds are formed over lively discussion sessions and late night editing and designing marathons.
 So join us for a different take in an IT college, to give you a break and let you explore your lesser known interests!
 
-You can check out our editions <a href="https://drive.google.com/open?id=0B1ktCrJiOYtqUGdYd0tkZDdaWm8" target="_blank"> here </a> !!.
-
-Find us on <a href="https://www.facebook.com/8-Bit-IIIT-Bangalore-698803226888411/" target="_blank">Facebook</a>.
+You can check out all our editions <a href="https://iiitbac-my.sharepoint.com/:f:/g/personal/alumnioffice_iiitb_ac_in/EqrUjY3l7oxOkyaGHw4tWvABKIGV4j88cw2jAO514V9blg?e=kS9lTf" target="_blank"> here </a> !!.
 
 ## Aikyam
 
@@ -105,17 +103,17 @@ Find us on <a href = "https://www.facebook.com/iiitbcp/" target="_blank"> Facebo
 
 Every time you feel the pressure of assignments and work, the Dance Club comes to the rescue! We provide you with every opportunity to relax, let you hair down, and show us some moves ;)  
 
-Although the club was formed in 2016, we have had tremondous particicpation and the club has grown by leaps and bounds. The club has organized many events, ranging from groovy DJ nights to serious inter-batch dance competitions. We never miss a chance to perform! We dance at all major college events be it the college's Foundation Day, or Independence Day. We even conducted a flash mob during our college fest - Infin8.
+Although the club was formed in 2016, we have had tremendous participation and the club has grown by leaps and bounds. The club has organized many events, ranging from groovy DJ nights to serious inter-batch dance competitions. We never miss a chance to perform! We dance at all major college events be it the college's Foundation Day, or Independence Day. We even conducted a flash mob during our college fest - Infin8.
 
 We welcome dancers of all genres, be it Classical , Bollywood or hip-hop to come and join us. However, the dance club is not just for "seasoned" dancers, it's for anyone who has a love and passion for dance, and a willingness to learn. We have had professionals take dance lessons at college, including Zumba sessions and a Bollywood dance workshop during Infin8. And there are always dance jams, where anyone can come and have some fun!!
 
 So shake a leg guys... we're waiting for you!
 
-Join us on <a href = "https://www.facebook.com/groups/840337612790191/" target = "_blank"> Facebook </a>.
+Join us on <a href = "https://www.instagram.com/iiitbdanceclub/" target = "_blank"> Instagram </a> and <a href = "https://www.facebook.com/groups/840337612790191/" target = "_blank"> Facebook </a>.
 
 ## Enigma (Robotics Club)
 
-<img src = "../images/clubs/enigma.png"> </img>
+<img src = "../images/clubs/enigma.png" width="200"> </img>
 
 Enigma, the robotics club was founded in 2016. The objective of this club is to develop awareness and interest in robotics and AI. The club is mentored by the seniors and faculty of the college. Here we hold various workshops and help students to start from basics projects like Maze solver, Line Follower and various other small projects. The club works on a few long term projects including a solar powered tiller and a fire fighting drone. These projects are currently funded and mentored by the college.
 
