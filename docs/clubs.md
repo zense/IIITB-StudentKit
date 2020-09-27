@@ -31,6 +31,18 @@ We look forward to join more hands to make our society a happier place to live i
 
 Find us on <a href="https://www.facebook.com/Aikyam-130926363648287/" target="_blank">Facebook</a>.
 
+## Aksh (Literature Club)
+
+‘Aksh’ – The IIITB Literature Club was formed in October 2019 and since then it has been active in organising various events in the campus as well as online during the lockdown. This club is an attempt to foster literary activities such as poetry, writing and reading among the students and allow them to put emotions into words. Literature helps us understand the world in a better way and it brings diverse groups of people together on the same page. It also acts as the means to create a common platform for self-expression, discussions, and mutual learning. The Club aims at not only refining the literary skills of the students but also developing in them logic and curiosity to know more. Club also works on discovering unique ways to develop an understanding, respect and appreciation of others ideas and thoughts.
+
+Type of Events organized by Aksh are: 
+1. Poetry recitation
+2. Story telling
+3. Writing(article/creative/blog/social media post etc)
+4. Workshops and Competitions
+5. Open Mic Performance
+6. Discussions
+
 ## Alumni Committee
 
 Being a part of Alumni committee helps us to have a close relationship with the Alumni network of IIIT Bangalore. This enables us to learn and grow as individuals with the help of our alumni's testimonials and suggestions. The various Alumni meets and fests which we organize help them connect with their batchmates and relive those college days which they were a part of.
@@ -128,6 +140,19 @@ This committee gives an exposure to different food cultures in our country and a
 If you are someone who needs to polish their managerial skills, friend, this is the right place to start with.
 Join us and make a wonderful eating experience for everyone at IIIT Bangalore.
 
+## Google Developer Student Club
+
+<img src = "../images/clubs/dsc.png" width="500" > </img>
+
+Google Developer Student Clubs are university-based community groups for students interested in Google developer technologies. Students from all undergraduate or graduate programs with an interest in growing as a developer are welcome. By joining a DSC, students grow their knowledge in a peer-to-peer learning environment and build solutions for their community.
+
+The objectives for Google DSC IIIT-B will be as follows:
+1. Creating awareness and preparing candidates for the various opportunities available for them.
+2. Providing a platform for inviting speakers and conducting regular sessions/workshops on technical domains.
+3. Mentoring peers through their projects, competition preparation, etc.
+
+Find us on <a href = "https://www.instagram.com/dsc.iiitb/" target = "_blank"> Instagram </a> and <a href = "https://www.linkedin.com/company/dsc-iiitb" target = "_blank"> Linkedin</a>.
+
 ## Innovation Studio
 
 <img src = "../images/clubs/innovStudio.png"> </img>
@@ -181,7 +206,8 @@ SPIC MACAY runs on the energy of volunteers who come from all walks of life - st
 
 <img src="../images/clubs/TAC.jpg" width="350" height="250"> </img>
 
-Parvaaz is a humble effort to bring the artistic expression to the campus in the form of a plethora of thespian talents such as mime, theatre, street play. We, the members of the Parvaaz have delighted the audience by our performances on Teacher's day, Women's day, as well as raised and created awareness on issues like food wastage(along with Food committee), and sexual harrassment(along with Internal Complains committee), essentially capturing the zeitgeist of quintessential campus life. We also work in collaboration with Chhayachitra in producing promotional videos like Sangam and Yamini promotion, Campus life video etc.
+One of the most successful groups, Parvaaz has won many accolades for the college in various inter-college festivals with their enthralling performances. Parvaaz is a humble effort to bring artistic expression to the campus in the form of a plethora of thespian talents such as stage play, mime, theatre, street play, short films, parodies. We, the members of Parvaaz have delighted the audience by their performances on Teacher's day, Women's day, as well as raised and created awareness on issues like food wastage(along with Food committee), and sexual harassment(along with Internal Complaints Committee), essentially capturing the zeitgeist of quintessential campus life. We also work in collaboration with Chhayachitra in producing promotional videos like Sangam, Yamini promotion, Campus life video etc. and also with the music club and placement committee for the parody of Kabir Singh, namely Fakir Singh which was loved by the audience for its songs and comedy. 
+
 
 We also participate in interactive college theatre competitions.
 If you find yourself bitten by the theatre bug, and want to showcase your talents in acting, writing, direction and screenplay, costume design or video editing, avail yourself a position amongst us. You are guaranteed to learn, teach, and most importantly have fun.
