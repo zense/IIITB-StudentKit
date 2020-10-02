@@ -340,12 +340,7 @@ available in its vicinity?**
 
 15. **What is the system in IIIT Bangalore for washing clothes (students)?**
 
-  There are 3 ways to get your laundry done:
-  1. Wash yourself (separate washing areas are available, machines are not) and hang them in the washing areas and iron them in the ironing areas.
-  2. Laundry Anna (Laundry Services): Collects clothes at a price per Kg. You can choose what type of washing you want to be done. This is the most preferred method of laundry. Follows the schedule of TTS (Tuesday/Thursday/Saturday)
-  3. Dhobhi/Washerman: This costs a little bit lesser than Laundry Anna's services and is similar to Laundry Anna.
-
-  Laundry Anna is preferred over Washerman because it is more systematic/organised.
+There are washing machines in college which can be used to wash clothes.There are separate set of washing machines for boys and girls hostel.Each student is     given an id card which is required to use washing machine.For a semester each student can have some fixed set of free washes(cost included in fees) , beyond that extra charges will apply. Washing area also has facility to dry clothes within an hour as they have giant dryer for the purpose.Each dry session costs some money which needs to be paid separately (not included in fees). There are clothes drying areas on every floor of hostels for natural drying.   
 
 16. **Are there any hotels nearby or will the accommodations be
     available in the college for parents?**
