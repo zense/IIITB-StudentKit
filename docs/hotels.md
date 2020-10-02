@@ -99,7 +99,7 @@ Phone: [**080 4431 0000**](tel:080 4431 0000)
 
 Standard Charge per night: **₹ 4600**
 
-Distance: **950m**
+Distance: **1.1 Km**
 
 <a href="http://www.svenskahotels.com/hotels/bangalore/">Link for the hotel website.</a>
 
