@@ -11,11 +11,33 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,500,700,300,100);
 
 body {
-  background-color: #EBEBEB;
+  /* background-color: #923cb5;
+  background-image: linear-gradient(360deg, #923cb5 0%, #000000 80%); */
+  /* background-color: #8d5185;
+  background-image: linear-gradient(315deg, #8d5185 0%, #a1bafe 74%); */
+  background-color: #7f5a83;
+  background-image: linear-gradient(315deg, #7f5a83 0%, #0d324d 74%);
+
+
+  /* background-color: #EBEBEB; */
+  background-attachment: fixed;
   font-family: "Roboto", helvetica, arial, sans-serif;
   font-size: 16px;
   font-weight: 400;
   text-rendering: optimizeLegibility;
+}
+a{
+  color: #222b59;
+}
+tr:hover a{
+  text-decoration: none;
+  color: azure;
+}
+div.copyright-text{
+  color: azure;
+}
+div.copyright-text a{
+  color: azure;
 }
 
 div.table-title {
@@ -36,16 +58,22 @@ div.table-title {
    text-transform:uppercase;
 }
 .table-fill {
-  background: white;
+  /* background: white; */
+  background-color: #7f5a83;
+  background-image: linear-gradient(315deg, #7f5a83 0%, #0d324d 74%);
+
+
+
   border-radius:3px;
   border-collapse: collapse;
   height: 320px;
   margin: auto;
-  max-width: 600px;
+  max-width: 1000px;
   padding:5px;
-  width: 100%;
+  width: 80%;
   box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
   animation: float 5s infinite;
+
 }
 
 th {
@@ -73,18 +101,20 @@ th:last-child {
 tr {
   border-top: 1px solid #C1C3D1;
   border-bottom-: 1px solid #C1C3D1;
-  color:#666B85;
+  color:#222b59;
   font-size:16px;
   font-weight:normal;
   text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);
 }
 
 tr:hover td {
-  background:#b5b1b1;
+  /* background:#b5b1b1; */
+  background-color: transparent;
   color:#FFFFFF;
   border-top: 1px solid #22262e;
   border-bottom: 1px solid #22262e;
 }
+
 
 tr:first-child {
   border-top:none;
@@ -95,11 +125,13 @@ tr:last-child {
 }
 
 tr:nth-child(odd) td {
-  background:#EBEBEB;
+  /* background:#eaf0ff; */
+  background-color: #f4f4ff;
+  background-blend-mode: lighten;
 }
 
 tr:nth-child(odd):hover td {
-  background:#b5b1b1;
+  background:transparent;
 }
 
 tr:last-child td:first-child {
@@ -112,6 +144,7 @@ tr:last-child td:last-child {
 
 td {
   background:#FFFFFF;
+  color: #222b59;
   padding:20px;
   text-align:left;
   vertical-align:middle;
@@ -153,9 +186,9 @@ td.text-right {
 <thead>
 <tr>
 <th class="text-left"></th>
-<th class="text-left">Name</th>
-<th class="text-left">Designation</th>
-<th class="text-left">Email-Id</th>
+<th class="text-center">Name</th>
+<th class="text-center">Designation</th>
+<th class="text-center">Email-Id</th>
 </tr>
 </thead>
 <tbody class="table-hover">
@@ -180,7 +213,9 @@ td.text-right {
 
 <tr>
 <td class="text-left"><img src="../images/sr-sridhar.jpg" width="120" height="120"alt=""></td>
-<td class="text-left">SR SRIDHAR</td>
+<td class="text-left">
+  <a href="https://www.iiitb.ac.in/administration/cmde-sr-sridhar-retd-2">SR SRIDHAR</a>
+</td>
 <td class="text-left">Registrar</td>
 <td class="text-left"><a href="mailto:Registrar@iiitb.ac.in">Registrar@iiitb.ac.in</a></td>
 </tr>
