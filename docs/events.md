@@ -34,3 +34,7 @@ Sangam, IIITB’s annual Alumni Day is organized by the placement and outreach t
 
 ![](images/events/sangam_2.JPG)
 
+##Umang
+Umang is an annual inter college sports fest held at IIITB. This is an action packed event as teams from various colleges all over Bangalore compete in sports like Basketball, Football, Volleyball and Throwball. There are cash prizes and trophies for the winning teams. Number of teams participating in this tournament grows every year, which makes it more competetive and exciting.
+
+While football and volleyball comprises only of men's teams, basketball is held for both men and women, and throwball only for women.
