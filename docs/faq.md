@@ -286,7 +286,15 @@ Clubs on campus?**
 
   An annual intracollege sports fest Spandan, is held each year, which
   sees participation from both students and alumni alike. Also, we have a
-  student run cultural fest (Infin8) which is being conducted since the last 4 years.
+  student run cultural fest (Infin8) which is being conducted since the last few years.
+  Umang is an annual inter college sports fest where teams from all over the city
+  compete in various sports. Sangam (the Alumni Day), also held every year,
+  is when the students put together an event for the Alumni of IIITB.
+  
+  We also have various other events like Yamini, Foundation Day, ISTEM, etc.
+  
+  Check out this link for more details:
+  **<a href="https://www.iiitb.ac.in/events-and-festivals/" target="_blank"> Events And Festivals </a>**
 
 9. **Is the transport facility (college bus) available?**
 
