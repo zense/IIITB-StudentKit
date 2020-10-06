@@ -34,15 +34,20 @@ Sangam, IIITB’s annual Alumni Day is organized by the placement and outreach t
 
 ![](images/events/sangam_2.JPG)
 
-##Umang
-Umang is an annual inter college sports fest held at IIITB. This is an action packed event as teams from various colleges all over Bangalore compete in sports like Basketball, Football, Volleyball and Throwball. There are cash prizes and trophies for the winning teams. Number of teams participating in this tournament grows every year, which makes it more competetive and exciting.
-
-While football and volleyball comprises only of men's teams, basketball is held for both men and women, and throwball only for women.
-
 
 ##Yamini
 Yamini is an over-night event conducted on October 31st of every year. This event is promoted by SPICMACAY (Society for the Promotion of Indian Classical Music and Culture Amongst Youth). This event is a confluence of various Indian music and dance forms and consists of back-to-back concerts/performances by artistes of renown from all over the country.
 
+
+![](images/events/yamini1.jpg)
+
+![](images/events/yamini2.jpg)
+
+
+##Umang
+Umang is an annual inter college sports fest held at IIITB. This is an action packed event as teams from various colleges all over Bangalore compete in sports like Basketball, Football, Volleyball and Throwball. There are cash prizes and trophies for the winning teams. Number of teams participating in this tournament grows every year, which makes it more competetive and exciting.
+
+While football and volleyball comprises only of men's teams, basketball is held for both men and women, and throwball only for women.
 
 ##RMIT
 The Ramanujam Math and IT conference, held annually, brings together proffessionals in the field of Math and Information Theory. The speakers discuss the advancements in a wide specturm of topics in mathematics like convex analysis, number theory to algebraic geometry, which are foundational for many advanced information technology applications today.
