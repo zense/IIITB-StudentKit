@@ -40,6 +40,12 @@ pre + p { margin: 5vh 0; }
   position: fixed;
 }
 
+.goHome-overlay{
+  font-size: 60px;
+  margin: 15px 15px;
+  position: fixed;
+}
+
 .back1 {
   background: #7FDBFF; /* For browsers that do not support gradients */
   background: -webkit-linear-gradient(left top, #7FDBFF, #F012BE); /* For Safari 5.1 to 6.0 */
