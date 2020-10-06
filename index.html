@@ -504,6 +504,7 @@
 			section.attr('aria-hidden', true);
 			section.hide();
 			section.append('<a class="close-overlay" href="javascript:void(0)" onclick="window.history.back();">&times</a>');
+			section.append('<a class="goHome-overlay" href="/"><i class="fa fa-home"></i></a>');
 			section.append(newDiv);
 			$('body').append(section);
 		}
