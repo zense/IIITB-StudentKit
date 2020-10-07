@@ -112,6 +112,7 @@ Our motto: To produce ACM-ICPC world finalists every year!
 Find us on <a href = "https://www.facebook.com/iiitbcp/" target="_blank"> Facebook .</a>
 
 ## Dance Club
+<img src = "../images/clubs/dance club.png" width="250" height="170"> </img>
 
 Every time you feel the pressure of assignments and work, the Dance Club comes to the rescue! We provide you with every opportunity to relax, let you hair down, and show us some moves ;)  
 
