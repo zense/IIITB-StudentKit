@@ -1,3 +1,4 @@
+<!DOCTYPE HTML>
 <html lang="en">
 <body>
 <head>
@@ -64,7 +65,7 @@ div.table-title {
   width: 80%;
   box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
   animation: float 5s infinite;
-
+  table-layout: fixed;
 }
 
 th {
@@ -171,6 +172,107 @@ td.text-center {
 td.text-right {
   text-align: right;
 }
+
+/* ------media queries----- */
+@media only screen and (max-width: 1131px) {
+  .table-fill {
+    width: 100%;
+  }
+}
+@media only screen and (max-width: 877px) {
+  td {
+    padding: 10px;
+  }
+  th.text-left {
+    width: 140px;
+  }
+}
+@media only screen and (max-width: 752px) {
+  th {
+    font-size: 21px;
+  }
+  td {
+    font-size: 16px;
+  }
+
+}
+@media only screen and (max-width: 690px) {
+  th {
+    font-size: 19px;
+    padding: 20px;
+  }
+  th:nth-child(1) {
+    width: 18%;
+  }
+  th:nth-child(2) {
+    width: 18%;
+  }
+  th:nth-child(3) {
+    width: 18%;
+  }
+  th:nth-child(4) {
+    width: 23%;
+  }
+  td.text-center img {
+    width: 98%;
+    height: auto;
+  }
+  td {
+    font-size: 14px;
+    overflow: auto;
+    padding: 7px;
+  }
+}
+@media only screen and (max-width: 550px) {
+  th {
+    padding: 15px;
+  }
+  th:nth-child(1) {
+    width: 15%;
+  }
+  th:nth-child(3) {
+    width: 19%;
+  }
+  th:nth-child(4) {
+    width: 25%;
+  }
+}
+@media only screen and (max-width: 495px) {
+  th {
+    font-size: 17px;
+    color: #f2f4f7;
+  }
+  th:nth-child(1) {
+    width: 14%;
+  }
+  td {
+    font-size: 12.5px;
+  }
+  .copyright-text {
+    font-size: 14px;
+  }
+}
+@media only screen and (max-width: 440px) {
+  th {
+    font-size: 15px;
+    padding: 12px 10px;
+  }
+  th:nth-child(2) {
+    width: 16.5%;
+  }
+  td {
+    font-size: 11px;
+    padding: 5px;
+  }
+  .copyright-text {
+    font-size: 13px;
+  }
+}
+@media only screen and (max-width: 360px) {
+
+}
+/* ------media queries----- */
+
 </style>
 <table class="table-fill">
 <thead>
@@ -185,8 +287,8 @@ td.text-right {
 
 <tr>
 <td class="text-center"><img src="../images/director.JPG" width="120" height="120" alt=""></td>
-<td class="text-center" 
-    style="cursor:pointer" 
+<td class="text-center"
+    style="cursor:pointer"
     onclick="location.href='https://www.iiitb.ac.in/administration/s-sadagopan'">
   Prof. S Sadagopan
 </td>
@@ -207,8 +309,8 @@ td.text-right {
 
 <tr>
 <td class="text-center"><img src="../images/sr-sridhar.jpg" width="120" height="120"alt=""></td>
-<td class="text-center" 
-    style="cursor:pointer" 
+<td class="text-center"
+    style="cursor:pointer"
     onclick="location.href='https://www.iiitb.ac.in/administration/cmde-sr-sridhar-retd-2'">
   SR SRIDHAR
 </td>
@@ -218,8 +320,8 @@ td.text-right {
 
 <tr>
 <td class="text-center"><img src="../images/rc.JPG" width="120" height="120" alt=""></td>
-<td class="text-center" 
-    style="cursor:pointer" 
+<td class="text-center"
+    style="cursor:pointer"
     onclick="location.href='https://www.iiitb.ac.in/faculty/chandrashekar-ramanathan'">
   Prof. Chandrashekar Ramanathan
 </td>
@@ -229,8 +331,8 @@ td.text-right {
 
 <tr>
 <td class="text-center"><img src="../images/jb.JPG" width="120" height="120"alt=""></td>
-<td class="text-center" 
-    style="cursor:pointer" 
+<td class="text-center"
+    style="cursor:pointer"
     onclick="location.href='https://www.iiitb.ac.in/faculty/jyotsna-bapat'">
   Prof. Jyotsna Bapat
 </td>
@@ -240,8 +342,8 @@ td.text-right {
 
 <tr>
 <td class="text-center"><img src="../images/ss.JPG"width="120" height="120" alt=""></td>
-<td class="text-center" 
-    style="cursor:pointer" 
+<td class="text-center"
+    style="cursor:pointer"
     onclick="location.href='https://www.iiitb.ac.in/faculty/srinath-srinivasa'">
   Prof. Srinath Srinivasa
 </td>
