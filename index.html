@@ -108,7 +108,8 @@
       		<a href="#" class="prev">
         			<i class="fa fa-chevron-left"></i>
       		</a>
-    	</nav>
+		</nav>
+	<a href="javascript:void(0)" id="top" onclick="scrollSlide()" ><i id ="topbuticon" class="fa topbuticon fa-chevron-circle-up""></i></a>
 	<div class="cover">
 
 		<div class="row">
@@ -615,6 +616,45 @@
 		openOverlay(location.hash);
 	// });
 	</script>
+
+	<script>
+		var y=4550;
+		window.onscroll = function() {scrollFunction()};
+
+		function scrollFunction() {
+		
+			var mybutton = document.getElementById("top");
+			var myicon = document.getElementById("topbuticon");
+			if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
+				mybutton.style.display = "block";
+			}
+			else {
+				mybutton.style.display = "none";
+			}
+			if (document.body.scrollTop > y || document.documentElement.scrollTop > y) {
+				myicon.style.color = "black";
+			}
+			else {
+				myicon.style.color = "white";
+			}
+		}
+
+		function changelimit(x) {
+			if (x.matches) { // If media query matches
+				y=3000;
+			} else {
+				y=4500;
+			}
+		}
+
+		var x = window.matchMedia("(max-width: 700px)");
+		changelimit(x);
+		x.addListener(changelimit);
+	</script>
+
+
+
+
 
 	<!-- Main -->
 	<!-- <script src="js/main.js"></script> -->
