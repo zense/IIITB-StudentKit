@@ -145,3 +145,28 @@ pre + p { margin: 5vh 0; }
   font-size: 3em;
   margin: 0 0.25em;
 }
+
+#top{
+  position: fixed;
+  right:3%;
+  bottom: 8%;
+  z-index: 3;
+  height:50px;
+  width: 50px;
+}
+.topbuticon{
+  font-size: 5em;
+  color: rgb(253, 255, 255);
+  opacity:0.5;
+  text-shadow:  0 3px 3px black;
+}
+
+.topbuticon:hover{
+  opacity: 1;
+}
+
+@media screen and (max-width: 767px){
+  .topbuticon{
+    font-size: 3em;
+  }
+}
