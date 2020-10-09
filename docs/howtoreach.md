@@ -7,7 +7,24 @@
 *Bengaluru – 560100*  
 
 
-- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3889.9770862885866!2d77.66104301472747!3d12.844756421124492!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae135aeb7f340f%3A0x3ad86af40d2ac611!2sInternational+Institute+of+Information+Technology+Bangalore+(IIITB)!5e0!3m2!1sen!2sin!4v1498942203524" width="700" height="500" frameborder="0" style="border:0" allowfullscreen></iframe>
+<style>
+    .google-maps {
+        position: relative;
+        padding-bottom: 45% !important; // This is the aspect ratio
+        height: 0;
+        overflow: hidden;
+    }
+    .google-maps iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100% !important;
+        height: 100% !important;
+    }
+</style>
+<div class = "google-maps">
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3889.97870448031!2d77.66094925071353!3d12.84465189089481!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae135aeb7f340f%3A0x3ad86af40d2ac611!2sInternational%20Institute%20of%20Information%20Technology%20Bangalore!5e0!3m2!1sen!2sin!4v1602231365208!5m2!1sen!2sin" width="600" height="600" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+</div>
 
 ## Kempegowda International Airport
 
