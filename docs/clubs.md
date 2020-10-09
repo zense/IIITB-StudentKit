@@ -2,7 +2,7 @@
 
 ## 8Bit
 
-<img src = "../images/clubs/8bit.png" width="250" height="170"> </img>
+<img src = "../images/clubs/8bit.jpeg" width="250" height="250"> </img>
 
 8Bit is the official magazine of IIIT Bangalore. It is an entirely student-run committee, where they are the sole in-charge of editing the magazine, and deciding its content and structure.
 
