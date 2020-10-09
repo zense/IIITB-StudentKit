@@ -109,7 +109,7 @@
         			<i class="fa fa-chevron-left"></i>
       		</a>
 		</nav>
-	<a href="javascript:void(0)" id="top" onclick="scrollSlide()" ><i id ="topbuticon" class="fa topbuticon fa-chevron-circle-up""></i></a>
+	<a href="javascript:void(0)" id="top" onclick="scrollSlide()"><i id ="topbuticon" class="fa topbuticon fa-chevron-circle-up""></i></a>
 	<div class="cover">
 
 		<div class="row">
@@ -543,8 +543,13 @@
 		    });
 		});
 
+		var lastClick = 0;
+		var delay = 1000;
 		function scrollSlide() {
-			$('html, body').animate({scrollTop:$('#slides').height()}, 1000);
+			if (lastClick >= (Date.now() - delay))
+				return;
+			lastClick = Date.now();
+			$('html, body').animate({scrollTop:$('#slides').height()}, 700);
 		}
 		/* Open Overlays based on hash values */
 		function openOverlay(tag){
