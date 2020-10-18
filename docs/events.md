@@ -49,5 +49,10 @@ Umang is an annual inter college sports fest held at IIITB. This is an action pa
 
 While football and volleyball comprises only of men's teams, basketball is held for both men and women, and throwball only for women.
 
+
 ##RMIT
-The Ramanujam Math and IT conference, held annually, brings together proffessionals in the field of Math and Information Theory. The speakers discuss the advancements in a wide specturm of topics in mathematics like convex analysis, number theory to algebraic geometry, which are foundational for many advanced information technology applications today.
+The Ramanujan, Math and IT conference, held annually, brings together professionals in the field of Math and Information Theory. The speakers discuss the advancements in a wide spectrum of topics in mathematics like convex analysis, number theory to algebraic geometry, which are foundational for many advanced information technology applications today.
+
+
+##Foundation Day
+The Foundation Day is celebrated every year on 15th of September. It marks the day IIITB was established, in 1999. There are special chief guests, cultural events and few fun activities for all the students, faculty and staff. Everyone in the college participate and enjoy throughout the event.
