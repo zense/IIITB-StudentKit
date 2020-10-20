@@ -33,17 +33,17 @@ button { padding: 1.5em 4em; cursor: pointer;}
 pre { background: #fafafa; padding: 15px; border: 1px #ccd dashed; }
 pre + p { margin: 5vh 0; }
 
-.close-overlay{
+.close-overlay {
   right: 10px;
-  font-size: 100px;
-  margin: 30px 15px;
+  font-size: 7vw;
+  margin: 20px 15px;
   position: fixed;
 }
 
-.goHome-overlay{
-  font-size: 60px;
+.goHome-overlay {
+  font-size: 4vw;
   margin: 15px 15px;
-  position: fixed;
+  position: absolute;
 }
 
 .back1 {
