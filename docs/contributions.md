@@ -16,7 +16,10 @@
   - Arpitha Malavalli
   - Saiakash Konidena
   - Sai Rithwik M     
-  - Tanmay Arora      
+  - Tanmay Arora
+  - Divyam Agrawal
+  - Gagan Agarwal
+  - Lalith Kumar Reddy
 
 &nbsp;
 

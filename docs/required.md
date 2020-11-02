@@ -1,4 +1,4 @@
-##### **This is not an official document. The college shall send a mail regarding the things to be brought. These are just for reference.**
+#### **This is not an official document. The college shall send a mail regarding the things to be brought. These are just for reference.**
 
 * Medical Certificate
 
