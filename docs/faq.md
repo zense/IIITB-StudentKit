@@ -53,16 +53,16 @@ programme, I finish one year early.**
 
 3. **What have been the placements of students from IIIT Bangalore?**
 
-    The third iMTech batch passed out in 2019 and the placement statistics
-    The packages for the iMTech 2019 batch were:
+    The fourth iMTech batch passed out in 2020 and these are the placement statistics.
+    The packages for the iMTech 2020 batch were:
 
-    **Max package : 54 LPA (Rubrik)**
+    **Max package : 43.31 LPA**
 
-    **Average package : 19 LPA**
+    **Average package : 24.88 LPA**
 
-    **Median package : 17 LPA**
+    **Median package : 23.84 LPA**
 
-    For more info, please visit <a href="https://www.iiitb.ac.in/aboutus.php?pid=Annual-Reports" target="_blank">Annual Placement Reports</a>.
+    For more info, please visit <a href="https://www.iiitb.ac.in/placement-statistics" target="_blank">Annual Placement Statistics</a>.
 
 4. **I am not able to pay the fee. Is any financial assistance available?**
 
@@ -121,14 +121,14 @@ programme, I finish one year early.**
   Separate Degrees of Btech and Mtech would be given after completion of the course.
   (Can not exit between the programme with just a Btech)
 
-10. **What are opening and closing JEE (Main) ranks in 2018 (branchwise)?**
+10. **What were the cutoff JEE (Main) ranks in 2019 (branchwise)?**
 
-  The cutoffs for 2018 were:
+  The cutoffs for 2019 were:
 
-  |  Branch  |   Opening    |   Closing    |
-  | ---   | --- | --- |
-  | CSE | 2344 | 8705 |
-  | ECE | 4525 | 11520 |
+  |  Branch  |   Cutoff Rank    |
+  | ---   | --- |
+  | CSE | 8718 |
+  | ECE | 10972 |
 
 
 11. **Is there any management quota?**
@@ -143,9 +143,9 @@ admissions in IIIT Bangalore ?**
 
 ##Admission FAQs
 
-1. **What is the cutoff for the first list in 2019?**
+1. **What is the cutoff for 2020?**
 
-  The cutoff for the first list was AIR 6,400 for both CSE and ECE.
+  The cutoff for CSE was 7300 and for ECE was 9000.
 
 2. **What is the last date to apply for a 100% refund at IIIT
     Bangalore?**
