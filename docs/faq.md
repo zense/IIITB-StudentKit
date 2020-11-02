@@ -1,4 +1,4 @@
-***<a href="https://github.com/zense/IIITB-StudentKit/raw/gh-pages/docs/iMTech_manual_v2_1.pdf" target="_blank" download>
+***<a href="https://github.com/zense/IIITB-StudentKit/raw/gh-pages/docs/iMTech_Curriculum_2020.pdf" target="_blank" download>
  Information about the iMTech course structure and electives </a>***
 
 ***<a href="https://www.quora.com/topic/International-Institute-of-Information-Technology-Bangalore-IIIT-B" target="_blank">Important Quora Q/As</a>***
@@ -123,12 +123,12 @@ programme, I finish one year early.**
 
 10. **What were the cutoff JEE (Main) ranks in 2019 (branchwise)?**
 
-  The cutoffs for 2019 were:
+  The cutoffs for 2020 were:
 
   |  Branch  |   Cutoff Rank    |
   | ---   | --- |
-  | CSE | 8718 |
-  | ECE | 10972 |
+  | CSE | 7300 |
+  | ECE | 9000 |
 
 
 11. **Is there any management quota?**
@@ -267,20 +267,15 @@ Clubs on campus?**
 
   iMTech students have done projects on iRobot.
 
-  Also we have multiple other clubs like the 8bit Club, Zense Developers Group , Comic Club
+  Also we have multiple other clubs like the 8bit Club, Zense Developers Group , Robotics Club
   and many others.
 
     -   **<a href="http://zense.co.in/" target="_blank"> Zense Developers Group </a>**
     -   **<a href="https://www.facebook.com/iiitb.infin8/?ref=aymt_homepage_panel" target="_blank"> Infin8 Fest Committee </a>**
     -   **<a href="https://iiitbmagazine.wordpress.com/" target="_blank"> 8bit - Magazine Club IIITB </a>**
     -   **<a href="https://www.facebook.com/Aikyam-130926363648287/info/?tab=page\_info" target="_blank"> Aikyam - IIITB Social  Work Club </a>**
-    -   **<a href="https://www.facebook.com/millionlaugh/" target="_blank"> Comic Club IIITB </a>**
     -   **<a href="https://www.facebook.com/Music-Club-IIITB-379925368688073/" target="_blank"> Music Club IIITB </a>**
-    -   **<a href="https://citeatiiitb.wordpress.com/" target="_blank"> Cite. - Social Club IIITB </a>**
     -   **<a href="https://www.facebook.com/Innovation-Studio-IIIT-B-1281436805245370/" target="_blank"> Innovation Studio - E Cell IIITB </a>**
-    -   **<a href="https://www.facebook.com/groups/1786495348263059/" target="_blank"> Screening Committee - Movie Club IIITB </a>**
-    -   ***Chaayachitra - Photography Club IIITB***
-    -   ***Maths Club IIITB***
 
 8. **What are the Fests held in IIIT Bangalore?**
 
@@ -406,4 +401,4 @@ available in its vicinity?**
 24. **Which Laptop Should I buy?**
    You can view an excerpt from IIITB Handbook as a laptop buying guide:
 
-  **<a href="https://drive.google.com/file/d/1_BFTGeEt7MhEL2uepcByh21vpYSKQf4I/view?usp=sharing" target="_blank">Laptop Guide</a>**
+  **<a href="https://bit.ly/laptop-guide-2020" target="_blank">Laptop Guide</a>**
