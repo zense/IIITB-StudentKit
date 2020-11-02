@@ -1,5 +1,3 @@
-#### **At the time of admission(30th July 2019), the student has to submit the following original documents, along with one set of Xerox copy of certificates:**
-
 ##### **This is not an official document. The college shall send a mail regarding the things to be brought. These are just for reference.**
 
 * Medical Certificate
