@@ -11,7 +11,7 @@ Our first such event was organized on March 31, 2018. 9 speakers invited who too
 
 
 ##Spandan
-Spandan is an annual sports meet organized by the students of IIIT Bangalore in the month of March every year. It is a 3-day long event fully loaded with outdoor as well as indoor games. The cheers from the fans are spread everywhere in the campus which makes the whole atmosphere jolly. It doesn't just end there. We also get a chance to meet our alumni who revisit our campus to participate in the games and share the memories the spent with their peers, flag{w3\_m1ss\_h0stel\_lif3}.
+Spandan is an annual sports meet organized by the students of IIIT Bangalore in the month of March every year. It is a 3-day long event fully loaded with outdoor as well as indoor games. The cheers from the fans are spread everywhere in the campus which makes the whole atmosphere jolly. It doesn't just end there, We also get a chance to meet our alumni who revisit our campus to participate in the games and share the memories they spent with their peers.
 
 Spandan also gives a chance to all those gamers, who spend hours together in perfecting their aim or dribbling through many players, to come up and show that they are the best. Competitive games like FIFa, NFS, and CS-GO are also organized.
 

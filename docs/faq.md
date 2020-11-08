@@ -183,7 +183,7 @@ to some other place that I prefer, will I get any refund?**
 
   When you joined IIIT-B, you would have signed an undertaking that you would neither indulge in nor propagate ragging and
   every other student has signed the same undertaking.If you ever feel that you are in a situation where you feel you are
-  being ragged, please don’t go along with it, report it to the concerned authorities since flag{ragging\_is\_not\_cool}.
+  being ragged, please don’t go along with it, report it to the concerned authorities.
 
   IIIT Bangalore is a totally ragging free campus. There is a healthy relationship
   between seniors and juniors. Juniors can take help or guidance from
