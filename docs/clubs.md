@@ -187,6 +187,36 @@ Find us on <a href="https://www.facebook.com/iiitbmusicon/">Facebook</a>.
 
 Placement Committe (Final year students) in IIIT Bangalore is an interface between students and the numerous companies that visit our campus. We help students prepare for placements as well as organise company drives on campus. Being a part of Placement Committee gives us an opportunity to interact with each and every member of our batch, and after the placements of each and everyone, the feeling of joy and satisfaction we get is just out of the world. We work closely with the administration and faculty members of the Placement Cell which in itself gives us an immense amount of exposure compared to others.
 
+## Shatranj
+
+<img src = "../images/clubs/Shatranj.png" width="200" />
+
+
+“Chess isn’t always competitive, it can also be beautiful” - GM Beth Harmon
+
+Chess club IIITB welcomes you all to our world of 64 squares - you can control it, dominate it, learn from it, and most importantly, have a lot of fun while playing in it! ‘Chess is for nerds’ is the myth we aim to bust by showing you how uniquely cool this game can be.
+Founded August 2021, in the momentum of the Chess Boom across the world, we aim to do our part in helping this game spread its wings further wide...
+
+
+* Our Aim:<br/>
+A chess super league - with enough participation, we could host our own big tournament in the college, across chess formats.<br/>
+A IIITB Rating system: making chess with your college-mates competitive and fun at the same time :)
+
+
+* Why join us?<br/>
+Improve your intuition, pattern finding, and memory retention; a skillset to die for. 
+Learn a new game, show off your skills to your friends, and most importantly- ENJOY:)
+
+* Who can join us?<br/> Absolutely everyone! Everyone gets a piece of the cake, be it beginners, intermediate or advanced.
+
+* What do we do?<br/>
+Weekly chess tournaments to hone and test your skills and learnings.
+Chess lessons from the pro players of our college- openings, end games, tricks and traps, you name it!
+Mid night over-the-board chess and variant style chess to spice up the interest in the game.
+
+
+Find us on <a href="https://www.instagram.com/chessclub_iiitb/">Instagram</a> and <a href="https://lichess.org/team/iiitb-official-chess-club">lichess</a>
+
 ## SPICMACAY IIIT Bangalore Chapter
 
 <img src = "../images/clubs/spicMacay.png" width="350" height="150"> </img>
