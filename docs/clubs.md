@@ -189,7 +189,7 @@ Placement Committe (Final year students) in IIIT Bangalore is an interface betwe
 
 ## Shatranj
 
-<img src = "../images/clubs/Shatranj.png" width="200" \>
+<img src = "../images/clubs/Shatranj.png" width="200" />
 
 
 “Chess isn’t always competitive, it can also be beautiful” - GM Beth Harmon
