@@ -1,7 +1,7 @@
-##Tedx
+##TEDxIIITBangalore
 TED is a non-profit organisation devoted to spreading ideas, usually in the form of short, powerful talks (18 minutes or less). TED began in 1984 as a conference where Technology, Entertainment and Design converged, and today covers almost all topics — from science to business to global issues — in more than 100 languages. Meanwhile, independently run TEDx events help share ideas in communities around the world.
 
-<a href="http://tedxiiitbangalore.com" target="_blank">TEDxIIITBangalore</a> is an independently organised event that aims to help people interact and share their knowledge and ideas and inspire others. We envisage that our event consisting of live talks, interaction and workshops, shall bring about a new ideology and perception to many. 
+<a href="http://tedxiiitbangalore.in" target="_blank">TEDxIIITBangalore</a> is an independently organised event that aims to help people interact and share their knowledge and ideas and inspire others. We envisage that our event consisting of live talks, interaction and workshops, shall bring about a new ideology and perception to many. 
 
 Our first such event was organized on March 31, 2018. 9 speakers invited who took us on a journey which demystified the wonders of their respective field of expertise.
 
