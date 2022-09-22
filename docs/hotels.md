@@ -1,4 +1,4 @@
-## Zone by The Park
+## Otium by The Oterra
 
 26-A, Electronic City Phase - I, Hosur Road, Opp. Infosys,
 Bengaluru, Karnataka 560100

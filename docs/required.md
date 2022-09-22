@@ -4,10 +4,10 @@
 
 * 10th Marksheet/ Certificate/ Date of Birth certificate (+1 self attested Photocopy)
 
-* 12th Marksheet/ Certificates (If you belong to a State board that adds class 11 and 12 Marks for final results, then do bring them both)
+* 12th Marksheet/ Certificates (If you belong to a State board then add class 11 and 12 Marks for final results, do bring them both)
 (+1 Self Attested Photocopy)
 
-* Transfer Certificate/ Migration Certificate
+* Transfer Certificate / Migration Certificate
 
 * JEE (Main) Score Card (soft copy of NTA scorecard)
 
@@ -19,20 +19,13 @@
 ## **Necessary Items to be brought to College**
 
 ### **1. What Type of clothes should I pack?**
-
-* Bangalore is moderately cold for major parts of the year and rains frequently, therefore it is adviced to keep the ratio of Winter:summer clothes higher.
+* Bangalore is moderately cold for major parts of the year and rains frequently, therefore it is adviced to keep the ratio of Winter to summer clothes higher.
 * Pack light jackets, nothing heavy is necessary.
 * Bangalore gets relatively hotter (30 Degrees) during the months of April-May, so plan accordingly.
 
 ### **2. Are sports Shoes necessary?**
 
-* First year students have to attend P.E. 2 days in a week (as of 2018) as a compulsory course, so don't forget to bring sports shoes. The college would provide you a Nylon/Lycra tracksuit for both summers and winters.
-
-### **3. Should I bring a scientific calculator?**
-
-First year students would have most of their Exams on a Digital pad and calculator would be available on screen, so a calculator isn't a **necessity** in your 1st year. You could need it in your further years or certain courses.
-
-You can also approach your seniors (who would be passing out) to buy theirs, as scientific calculators are rather expensive.
+* First year students have to attend P.E. 3-4 days in a week (as of 2022) as a compulsory course, so don't forget to bring sports shoes. 
 
 ### **4. Should I bring a mattress Along?**
 
@@ -56,7 +49,7 @@ Shops for the following items would be present on the first day, i.e. no need to
 * Sanitary items - Buckets, Mugs
 
 
-#### **There is a D-Mart outlet located approximately 1.5kms away from campus for purchasing necessary daily-use utilities, fruits/snacks and clothes.**
+#### **There is a [D-Mart](https://maps.app.goo.gl/yH9is21ChjgvwhYg7) outlet located approximately 1.5kms away from campus for purchasing necessary daily-use utilities, fruits/snacks and clothes.**
 
 **The students don’t need to bring curtains and brooms, as
 curtains will be already installed in your respective rooms and the
@@ -75,8 +68,8 @@ the same.
 
 ## **Banking Facilities / ATMs**
 
-There is a SBI branch located in the close vicinity of the campus and
-SBI, ICICI, HDFC, Indian Bank and AXIS Bank ATMs are located just outside the campus.
+There is a SBI and PNB branch located in the close vicinity of the campus and
+SBI, PNB, ICICI, HDFC, Indian Bank and AXIS Bank ATMs are located just outside the campus.
 All students all advised to carry a set of necessary documents if you
 want to open an account at the SBI branch. The institution or management
 would not provide any further help in this matter.

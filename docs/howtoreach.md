@@ -1,7 +1,7 @@
 
 ***Destination to be reached***
 
-**International Institute of Information Technology Bangalore**  
+### International Institute of Information Technology Bangalore
 *26/C, Electronics City Phase 1*  
 *Hosur Road*   
 *Bengaluru – 560100*  
@@ -30,27 +30,24 @@
 
 Approx 60 kms
 
-**By Bus**
-
+### By Bus
 Route No. - **KIAS-8**  
 Rs **325/- per person** inclusive of all taxes  
-Comfortable AC buses
-
+Comfortable AC buses  
 Refer to
 [*https://www.mybmtc.com/airportservices*](https://www.mybmtc.com/airportservices)
 for timetable and other information
 
-**By Cab**
+### By Cab
 
 Cabs like OLA, Uber are always available at rates starting at around Rs
-1000
-
+1000  
 (Rates may change depending on various other factors, kindly check the
 ride estimate on the cab app beforehand)
 
 ## Bus Station
 
-**Majestic Bus Station (Kempegowda Bus Station)**
+### Majestic Bus Station (Kempegowda Bus Station)
 
 Approx 25 kms 
 
@@ -62,7 +59,7 @@ Deboarding Point – **Electronic City Infosys Gate**
 
 The distance between this bus stop and IIITB gate is less than 200m.
 
-**Shivajinagar Bus Station**
+### Shivajinagar Bus Station
 
 Approx 25 kms
 
@@ -72,7 +69,7 @@ Boarding Point - **Shivajinagar TTMC**
 
 Deboarding Point – Electronic City Infosys Gate
 
-**Silk Board**
+### Silk Board
 
 Approx 13 kms 
 
