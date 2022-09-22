@@ -111,7 +111,7 @@ Our motto: To produce ACM-ICPC world finalists every year!
 
 Find us on <a href = "https://www.facebook.com/iiitbcp/" target="_blank"> Facebook .</a>
 
-## Dance Club
+## Dance Club (Impulse)
 <img src = "../images/clubs/DanceClub.jpeg" width="180" height="200"> </img>
 
 Every time you feel the pressure of assignments and work, the Dance Club comes to the rescue! We provide you with every opportunity to relax, let you hair down, and show us some moves ;)  
@@ -122,7 +122,7 @@ We welcome dancers of all genres, be it Classical , Bollywood or hip-hop to come
 
 So shake a leg guys... we're waiting for you!
 
-Join us on <a href = "https://www.instagram.com/iiitbdanceclub/" target = "_blank"> Instagram </a> and <a href = "https://www.facebook.com/groups/840337612790191/" target = "_blank"> Facebook </a>.
+Join us on <a href = "https://www.instagram.com/impulse_iiitb/?hl=en" target = "_blank"> Instagram </a> and <a href = "https://www.facebook.com/groups/840337612790191/" target = "_blank"> Facebook </a>.
 
 ## Enigma (Robotics Club)
 
@@ -152,7 +152,7 @@ The objectives for Google DSC IIIT-B will be as follows:
 2. Providing a platform for inviting speakers and conducting regular sessions/workshops on technical domains.
 3. Mentoring peers through their projects, competition preparation, etc.
 
-Find us on <a href = "https://www.instagram.com/dsc.iiitb/" target = "_blank"> Instagram </a> and <a href = "https://www.linkedin.com/company/dsc-iiitb" target = "_blank"> Linkedin</a>.
+Find us on <a href = "https://instagram.com/gdsc_iiitb?igshid=YmMyMTA2M2Y=" target = "_blank"> Instagram </a> and <a href = "https://www.linkedin.com/company/dsc-iiitb" target = "_blank"> Linkedin</a>.
 
 ## Innovation Studio
 
@@ -170,7 +170,7 @@ IIIT Bangalore's Movie Club consists of huge community of movie lovers in the ca
 
 Find us on <a href = "https://www.facebook.com/groups/1786495348263059/" target = "_blank"> Facebook </a>.
 
-## Music Club
+## Music Club (Symphony)
 
 <img src = "../images/clubs/musicClub.jpg" width="500" height="250"> </img>
 
@@ -181,7 +181,7 @@ Music club has been around for as long as the college has. We have had amazing p
 We organise musical nights, where everyone who's part of the club (and others if time permits) get to perform. People in the club also get opportunities to be part of IIIT Bangalore Foundation day, infin8, Spandan and convocation.
 Being a part of the club is a wonderful opportunity to meet people equally passionate as you, people with varied tastes in music and people who might give you a new perspective in the way you look at music. Those late night jamming sessions and musical nights will be totally worth the time you invest.
 
-Find us on <a href="https://www.facebook.com/iiitbmusicon/">Facebook</a>.
+Find us on <a href="https://www.facebook.com/iiitbmusicon/">Facebook</a> and <a href="https://instagram.com/symphony_iiitb?igshid=YmMyMTA2M2Y=" target = "_blank">Instagram</a>.
 
 ## Placement Committee
 
@@ -253,4 +253,4 @@ Find us on <a href="https://www.facebook.com/groups/240678619795576/about/" targ
 
 Our goal is to unite passionate developers and provide them with a platform to collaborate and innovate. We organise seminars on new technologies, conduct hackathons and promote Open Source culture at IIIT Bangalore.
 
-Find us on <a href="https://www.facebook.com/zense.dev/" target="_blank">Facebook</a> and <a href="https://github.com/zense" target="_blank">GitHub </a>.
+Find us on <a href="https://www.facebook.com/zense.dev/" target="_blank">Facebook</a>, <a href="https://github.com/zense" target="_blank">GitHub </a> and <a href = "https://instagram.com/zense.iiitb?igshid=YmMyMTA2M2Y=" target = "_blank">Instagram</a>.

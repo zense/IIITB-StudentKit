@@ -3,11 +3,17 @@ TED is a non-profit organisation devoted to spreading ideas, usually in the form
 
 <a href="http://tedxiiitbangalore.in" target="_blank">TEDxIIITBangalore</a> is an independently organised event that aims to help people interact and share their knowledge and ideas and inspire others. We envisage that our event consisting of live talks, interaction and workshops, shall bring about a new ideology and perception to many. 
 
-Our first such event was organized on March 31, 2018. 9 speakers invited who took us on a journey which demystified the wonders of their respective field of expertise.
+These local, self-organized events are branded with TEDx, where x = an independently organized TED event. The TED Conference provides general guidance for the TEDx program, but individual TEDx events are self-organized.
 
-![](images/events/ted1.jpg)
 
-![](images/events/ted3.jpg)
+TEDxIIITBangalore strives to serve as a platform to share ideas and experiences that fundamentally change a person’s thinking. The first iteration explored the concept of demystifying the unknown, bringing out a hidden curiosity in the hearts and minds of the community. The event had now grown to be one of the biggest events in the university, stimulating ideas and spurring conversation that travels far beyond the walls that surround it.
+
+This year on 10th September 2022 TEDxIIITBangalore was back offline with the topic ‘winds of change’. We had 8 speakers for this iteration, famous ones include Capt Tapesh Kumar(Boeing Boy), Capt Zoya Agarwal etc, Neelakantha Bhanu(fastest human calculator).
+
+![](images/events/ted1.jpg)<br>
+![](images/events/ted2.jpg)<br>
+![](images/events/ted3.jpg)<br>
+![](images/events/ted4.jpg)<br>
 
 
 ##Spandan
@@ -25,7 +31,9 @@ Spandan also gives a chance to all those gamers, who spend hours together in per
 Infin8 is an intra college cultural festival conducted by IIIT Bangalore every year. It involves various events under a variety of genres where the students of our college participate with enthusiasm and competition. Food stalls are invited and this action packed 3 day fest is throughly enjoyed by all the students of the college.
 ![](images/events/infin8_1.jpg)
 
-![](images/events/infin8_2.jpg)
+![](images/events/infin8_2.JPG)
+
+![](images/events/infin8_3.JPG)
 
 ##Sangam
 Sangam, IIITB’s annual Alumni Day is organized by the placement and outreach team of the college in the month of February every year. This one-day event is loaded with fun activities planned for the Alumni. The students put together entertaining performances and stage events for the alumni. The Food committee set up food stalls in the campus to add to the festivities. We have a blast, with performances by great standup comics and DJ night to end the evening.
@@ -56,3 +64,5 @@ The Ramanujan, Math and IT conference, held annually, brings together profession
 
 ##Foundation Day
 The Foundation Day is celebrated every year on 15th of September. It marks the day IIITB was established, in 1999. There are special chief guests, cultural events and few fun activities for all the students, faculty and staff. Everyone in the college participate and enjoy throughout the event.
+
+ ![](images/events/fd_dance.jpg)
