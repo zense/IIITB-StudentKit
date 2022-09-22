@@ -11,7 +11,30 @@ The magazine provides an outlet for your creativity - all your thoughts, artisti
 Here at 8Bit, the bonds are formed over lively discussion sessions and late night editing and designing marathons.
 So join us for a different take in an IT college, to give you a break and let you explore your lesser known interests!
 
-You can check out all our editions <a href="https://iiitbac-my.sharepoint.com/:f:/g/personal/alumnioffice_iiitb_ac_in/EqrUjY3l7oxOkyaGHw4tWvABKIGV4j88cw2jAO514V9blg?e=kS9lTf" target="_blank"> here </a> !!.
+You can check out all our editions <a href="https://iiitbac-my.sharepoint.com/:f:/g/personal/alumnioffice_iiitb_ac_in/EqrUjY3l7oxOkyaGHw4tWvABKIGV4j88cw2jAO514V9blg?e=kS9lTf" target="_blank"> here </a> !
+
+## Anubhava
+
+Anubhava - IIIT Bangalore's Career Blog’ is a new initiative as part of the Placement Cell of IIIT Bangalore. The aim of the platform is to archive all the summer industrial and research internships, scholarships, full-time opportunities, paper publications, conference experiences of students and alumni of the institute. The blogs are published on our college domain Anubhava and encompass complete information about the opportunity, including but not limited to, eligibility criteria, application procedure, personal tips and tricks etc.
+
+This platform emerged as an effort to encourage students, especially junior batches to discover, prepare for opportunities and seek out seniors with similar backgrounds thus facilitating networking and lifting the community standards overall.
+
+Visit the blog <a href=" https://anubhava.iiitb.ac.in/" target="_blank"> here </a> !
+
+
+
+## TEDxIIITBangalore
+
+<img src = "../images/clubs/ted.png" width="250" height="250"> </img><br>
+TEDxIIITBangalore is an independently organized event that aims to help people interact and share their knowledge and ideas and inspire others. We envisage that our event consisting of live talks, interaction and workshops, shall bring about a new ideology and perception to many. During the pandemic, TEDxIIITBangalore held its two iteration TEDx Virtual and TEDx Unconventionality on YouTube by the team. TEDx will make its return offline on 10th September 2022 after a 2 year hiatus. 
+
+
+Follow us on :
+
+YouTube : <a href="https://www.youtube.com/channel/UCooUtZvS5-MynFhaU5V6xMQ">link</a>
+Instagram :<a href="https://www.instagram.com/tedxiiitbangalore/">link</a>
+LinkedIn : <a href="https://www.linkedin.com/company/tedxiiitbangalore/">link</a>
+Twitter : <a href="https://twitter.com/tedxiiitb">link</a>
 
 ## Aikyam
 
@@ -31,23 +54,20 @@ We look forward to join more hands to make our society a happier place to live i
 
 Find us on <a href="https://www.facebook.com/Aikyam-130926363648287/" target="_blank">Facebook</a>.
 
-## Aksh (Literature Club)
-
-‘Aksh’ – The IIITB Literature Club was formed in October 2019 and since then it has been active in organising various events in the campus as well as online during the lockdown. This club is an attempt to foster literary activities such as poetry, writing and reading among the students and allow them to put emotions into words. Literature helps us understand the world in a better way and it brings diverse groups of people together on the same page. It also acts as the means to create a common platform for self-expression, discussions, and mutual learning. The Club aims at not only refining the literary skills of the students but also developing in them logic and curiosity to know more. Club also works on discovering unique ways to develop an understanding, respect and appreciation of others ideas and thoughts.
-
-Type of Events organized by Aksh are: 
-1. Poetry recitation
-2. Story telling
-3. Writing(article/creative/blog/social media post etc)
-4. Workshops and Competitions
-5. Open Mic Performance
-6. Discussions
 
 ## Alumni Committee
 
 Being a part of Alumni committee helps us to have a close relationship with the Alumni network of IIIT Bangalore. This enables us to learn and grow as individuals with the help of our alumni's testimonials and suggestions. The various Alumni meets and fests which we organize help them connect with their batchmates and relive those college days which they were a part of.
 
 Being a part of this committee will enable you to make contacts, improve your managerial skills and not to forget ,give you the aura of being connected to seniors who are making it big in the corporate world.
+
+## DebSoc
+
+The main aim of the debate society is to provide a safe learning space for people to have interesting conversations, encourage civic and cultural engagement, and grow as individuals by learning how to negotiate, work in teams and become confident public speakers. Over the past year, the society has held three internal debate competitions based on the Asian Parliamentary Debate format. We also participated in a few external debates as a part of the debate circuit. We encourage students to participate in inter and intra college debates and focus on learning more than competition! 
+
+We also focus on public speaking and trainings for interviews, GDs , and developing research skills.
+
+We’d like to keep this society open to all and do not have any pre-requisites- just get a paper, pen and as much curiosity as possible!
 
 ## Branding Committee
 
@@ -254,3 +274,15 @@ Find us on <a href="https://www.facebook.com/groups/240678619795576/about/" targ
 Our goal is to unite passionate developers and provide them with a platform to collaborate and innovate. We organise seminars on new technologies, conduct hackathons and promote Open Source culture at IIIT Bangalore.
 
 Find us on <a href="https://www.facebook.com/zense.dev/" target="_blank">Facebook</a>, <a href="https://github.com/zense" target="_blank">GitHub </a> and <a href = "https://instagram.com/zense.iiitb?igshid=YmMyMTA2M2Y=" target = "_blank">Instagram</a>.
+
+## Aksh (Literature Club)
+
+‘Aksh’ – The IIITB Literature Club was formed in October 2019 and since then it has been active in organising various events in the campus as well as online during the lockdown. This club is an attempt to foster literary activities such as poetry, writing and reading among the students and allow them to put emotions into words. Literature helps us understand the world in a better way and it brings diverse groups of people together on the same page. It also acts as the means to create a common platform for self-expression, discussions, and mutual learning. The Club aims at not only refining the literary skills of the students but also developing in them logic and curiosity to know more. Club also works on discovering unique ways to develop an understanding, respect and appreciation of others ideas and thoughts.
+
+Type of Events organized by Aksh are: 
+1. Poetry recitation
+2. Story telling
+3. Writing(article/creative/blog/social media post etc)
+4. Workshops and Competitions
+5. Open Mic Performance
+6. Discussions
